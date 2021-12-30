@@ -1,0 +1,944 @@
+distiluse-base-multilingual-cased-v2
+['Further phasing out of buses put on hold', 'Drive against buses with extra sleepers', 'Occupancy in RTC buses increasing', 'RTC to ply more buses to suburbs', 'Railway misses tourist bus', 'Bus fare hike draws flak', 'Sharp rise in freight; passenger traffic', 'Exclusive lanes for RTC buses likely', 'More buses for Dasara', 'Road blockades against bus fare hike']
+[tensor([[0.7264]]), tensor([[0.6944]]), tensor([[0.6737]]), tensor([[0.6616]]), tensor([[0.6482]]), tensor([[0.6297]]), tensor([[0.6126]]), tensor([[0.6063]]), tensor([[0.5978]]), tensor([[0.5974]])]
+
+['Row over introduction of IT in schools intensifies', 'School students get up close with real IT', 'IT to be made compulsory in Chinese schools', 'Information Technology is a great leveller', 'Students give the go-by to IT', 'IT training firms need new lessons in education', 'Tata Infotech targets schools in Gujarat', 'IT optional subject in junior colleges', 'Tata Infotech Education to enter IT-enabled sector', 'IT in Kerala high schools soon']
+[tensor([[0.6521]]), tensor([[0.6482]]), tensor([[0.6150]]), tensor([[0.5765]]), tensor([[0.5760]]), tensor([[0.5684]]), tensor([[0.5368]]), tensor([[0.5343]]), tensor([[0.5240]]), tensor([[0.5222]])]
+
+['Powerless north India gropes in the dark', 'Indian Nationals down Nestor Goans', 'Quintessentially Indian curries', 'Top Indian executive at Nortel steps down', 'Harbhajan strikes; India nose ahead', 'India go down fighting to West Indies', "Nanaji lashes out at India's 'inaction' against Pak", 'Negroponte enthralls India Inc mandarins', 'Straw brackets India with rogue states', 'India Inc cowers in the Chinese shadow']
+[tensor([[0.9399]]), tensor([[0.6259]]), tensor([[0.6231]]), tensor([[0.6126]]), tensor([[0.6078]]), tensor([[0.6048]]), tensor([[0.5991]]), tensor([[0.5950]]), tensor([[0.5943]]), tensor([[0.5937]])]
+
+['Meet on curbing dropouts begins', 'The skeletons have started popping out', 'Ankur grabs early lead', 'Karnik begins looking for vices', 'Promising vaccine for tropical disease found', 'Hidden epidemic', 'Initial hiccups trouble TRS', 'Crores lost as coal strike starts', 'Suspension revokes as inquiry to begin', 'Hurriyat begins awareness drive']
+[tensor([[0.6787]]), tensor([[0.5685]]), tensor([[0.5619]]), tensor([[0.5573]]), tensor([[0.5450]]), tensor([[0.5402]]), tensor([[0.5321]]), tensor([[0.5306]]), tensor([[0.5248]]), tensor([[0.5196]])]
+
+['Indian American couple sentenced for injuries to child', 'Schoolboy shot in warning over Indian support to US', 'India raising Kashmir killings irks Pak', 'Advani asks Indians to draw lesson from Americans', 'US word on Pak arrests unacceptable to India', 'Man kills parents over marriage', 'US pledges to fight terrorism against India', 'Indian army officer killed in Pak firing', 'Blackwill sworn in as US ambassador to India', "Indian whiz kid's phoney act"]
+[tensor([[0.7256]]), tensor([[0.7030]]), tensor([[0.6054]]), tensor([[0.5961]]), tensor([[0.5834]]), tensor([[0.5824]]), tensor([[0.5787]]), tensor([[0.5730]]), tensor([[0.5714]]), tensor([[0.5678]])]
+
+['Bank scrips rise on rate cuts', 'Banks asked to increase lending', 'Breaking the Bank', 'Bank strike partial', 'Canara Bank realigns interest rate', 'Strike hits banking services', 'Bank robbery foiled', 'Bank managers stumped', 'Repayment of bank loans urged', 'Bankmen demand release of arrears']
+[tensor([[0.8352]]), tensor([[0.7109]]), tensor([[0.6924]]), tensor([[0.6781]]), tensor([[0.6769]]), tensor([[0.6619]]), tensor([[0.6604]]), tensor([[0.6487]]), tensor([[0.6479]]), tensor([[0.6403]])]
+
+['India now foodgrain exporter: Shanta', 'Irregularities govern Indian rice exports', 'Ozone eaters being smuggled into India', 'Quintessentially Indian curries', 'Malnutrition afflicting Indian women', 'India to export 25;000 tonnes of maize', 'India likely to import 16 lakh bales of cotton', 'EU sops to Pak to hit Indian exports', 'India opts for Frankenfoods; while world desists', 'Food imports to take toll on employment']
+[tensor([[0.7010]]), tensor([[0.6989]]), tensor([[0.6376]]), tensor([[0.6330]]), tensor([[0.6271]]), tensor([[0.6220]]), tensor([[0.6201]]), tensor([[0.6184]]), tensor([[0.6159]]), tensor([[0.6125]])]
+
+['Governor appeals for blood donation', 'Blood Donation Day', 'NCC cadets donate blood', 'List of blood donors compiled', 'Rally organised to mark blood donation day', 'Voluntary blood donors to participate in cycle rally', 'Women urged to donate more blood', 'Innocent Blood', 'Blood donation no more safe in hospitals', "Workshop on 'Safe Blood Donation'"]
+[tensor([[0.7383]]), tensor([[0.6926]]), tensor([[0.6843]]), tensor([[0.6538]]), tensor([[0.6454]]), tensor([[0.6406]]), tensor([[0.6386]]), tensor([[0.6230]]), tensor([[0.6225]]), tensor([[0.6188]])]
+
+['PMC to computerise its octroi department', 'BU convocation to be held by year-end', 'School syllabus changes to come in force next year', 'Computer centre directors held', 'ECC enters centenary year', 'PC market to shrink 10% in 2001-02', 'Physical education takes a back seat to computers', 'Classrooms in the age of computer-savvy kids', 'Meet on trends in IT sector', 'Taking the PC on a voyage']
+[tensor([[0.5883]]), tensor([[0.5277]]), tensor([[0.5072]]), tensor([[0.4762]]), tensor([[0.4659]]), tensor([[0.4612]]), tensor([[0.4570]]), tensor([[0.4544]]), tensor([[0.4519]]), tensor([[0.4514]])]
+
+['Labour of Law', 'Misrule of Law', 'Rights & laws', 'Jharkhand to amend labour laws', 'MATINEE MASALAbrMartial law', 'Trade union against changes to labour laws', 'Drastic changes proposed in labour laws', 'Law & Disorder', 'Law and Ethics', 'Action against law minister sought']
+[tensor([[0.9812]]), tensor([[0.7101]]), tensor([[0.6665]]), tensor([[0.6442]]), tensor([[0.6138]]), tensor([[0.6131]]), tensor([[0.5994]]), tensor([[0.5960]]), tensor([[0.5937]]), tensor([[0.5852]])]
+
+['Ministers under threat', 'Insecurity grips senior ministers in state', 'Minister urged to allay fears on Singatalur', 'Minister frowns upon DVC', "Minister's plea", "Minister lambasts militants' ploy", 'Ministers; officials resent sermons', 'Minister warns officials against negligence', 'Minister gets an earful', 'Ministers defend hike in perks']
+[tensor([[0.8573]]), tensor([[0.7426]]), tensor([[0.7169]]), tensor([[0.7053]]), tensor([[0.7013]]), tensor([[0.6925]]), tensor([[0.6863]]), tensor([[0.6819]]), tensor([[0.6812]]), tensor([[0.6797]])]
+
+['Illegal arms flood Delhi', 'Real robbery with fake guns in East Delhi', 'Shootout accused brought to Delhi', 'Delhi police let blast suspects slip away', 'SP guns for BJP on Dalit atrocities', 'Dense fog disrupts normal life in Delhi', 'Huge cache of firearms recovered in Bihar', 'Maharashtra crime act extended to Delhi', 'Five arrested for dacoities in Delhi', 'Delhi caught off-guard on border']
+[tensor([[0.9117]]), tensor([[0.7008]]), tensor([[0.6949]]), tensor([[0.6397]]), tensor([[0.6310]]), tensor([[0.6266]]), tensor([[0.6232]]), tensor([[0.6202]]), tensor([[0.6201]]), tensor([[0.6189]])]
+
+['PM appeals for help', 'PM assures central assistance to AP', 'PM assures Sikkim central help', 'PM concerned over meagre utilisation of Central aid', 'Mulayam slams PM for offering help to US', 'Minister solicits Oppn support for rally', 'PCO owners seek assistance', 'PMC helps slumdwellers', 'Kudos PM', 'Salutes to the PM']
+[tensor([[0.8915]]), tensor([[0.6866]]), tensor([[0.6757]]), tensor([[0.6519]]), tensor([[0.6409]]), tensor([[0.6271]]), tensor([[0.6117]]), tensor([[0.5965]]), tensor([[0.5908]]), tensor([[0.5737]])]
+
+['Trekking the learning curve', 'Unlearnt Lessons', 'THE COUNSELLORbrDistance Learning', 'The Lotus of Learning', 'Valuable Lessons', 'Learning art', 'Vital Lesson', 'Learning to Grow', 'Learning from defeat', 'A seat of advanced learning']
+[tensor([[0.8565]]), tensor([[0.7264]]), tensor([[0.7167]]), tensor([[0.6120]]), tensor([[0.6061]]), tensor([[0.5992]]), tensor([[0.5970]]), tensor([[0.5921]]), tensor([[0.5904]]), tensor([[0.5798]])]
+
+['Hospitals are far from equipped', 'A hospital sans patients', 'Mental hospitals lack facilities', 'Karunanidhi hospitalised', 'I was not involved in hospital row', 'Mental hospital lacks basic amenities', "Hospital attendants' stir", 'Hospital lacked equipment for resuscitation', "Hospitals say 'no' to medico-legal cases", 'Raid on cantt hospital']
+[tensor([[0.8176]]), tensor([[0.7490]]), tensor([[0.7078]]), tensor([[0.6310]]), tensor([[0.6276]]), tensor([[0.6259]]), tensor([[0.6240]]), tensor([[0.6190]]), tensor([[0.6153]]), tensor([[0.6126]])]
+
+['Christians protest over inaction', 'Christian gathering disrupted', 'Christians decry saffronisation', 'Attacks on Christian priests on the rise', 'Attack on Christian priest condemned', 'Christians march to press demands', 'Rally to press for rights for Christians', 'Controversy over conversion to Christianity', "Christians' plea against bill on conversions", 'Christian missionaries thrashed at BHU']
+[tensor([[0.8750]]), tensor([[0.8033]]), tensor([[0.7673]]), tensor([[0.7247]]), tensor([[0.7177]]), tensor([[0.7051]]), tensor([[0.7022]]), tensor([[0.6967]]), tensor([[0.6692]]), tensor([[0.6591]])]
+
+['Delhi hosts festival of short films', 'Scenes from the Mumbai Film Festival', 'Lagaan; Deham for film festival', 'Quality Indian films enter film fest', 'Hindi festival at COD', 'Goa festival in Delhi from Saturday', 'Wide acclaim for Indian films in US festival', 'Assamese film selected for Film Fest', 'Buddhadeb unveils film festival plans', 'Mumbai film festival offers impressive line-up']
+[tensor([[0.9957]]), tensor([[0.6505]]), tensor([[0.6491]]), tensor([[0.6413]]), tensor([[0.6333]]), tensor([[0.6310]]), tensor([[0.6271]]), tensor([[0.6255]]), tensor([[0.6237]]), tensor([[0.6126]])]
+
+['Helmets a must from April', 'Wearing of helmets made mandatory', 'Helmets made must for cops', 'Helmets compulsory from Dec. 1', 'Policemen directed to wear helmets', 'Helmets compulsory on two-wheelers from Dec 1', 'Puneites will not be forced to wear helmets', 'Order on helmets kept under abeyance', 'Govt to stay helmet order', 'Officials at odds over helmet rule']
+[tensor([[0.9574]]), tensor([[0.7079]]), tensor([[0.7034]]), tensor([[0.6217]]), tensor([[0.5675]]), tensor([[0.5444]]), tensor([[0.5374]]), tensor([[0.5124]]), tensor([[0.5057]]), tensor([[0.5035]])]
+
+['The Page Three Politician', 'The politics of sleaze', 'Political Wannabes', 'Three steps to clean politics', 'Political Manoeuvres', 'Political Midases', 'Alliterative Politics', 'Puratchi Politics', 'Punish politicians', 'See-through Politics']
+[tensor([[1.0000]]), tensor([[0.6076]]), tensor([[0.6015]]), tensor([[0.5964]]), tensor([[0.5944]]), tensor([[0.5896]]), tensor([[0.5667]]), tensor([[0.5506]]), tensor([[0.5435]]), tensor([[0.5372]])]
+
+['Gender equality still a dream in Asian; Pacific countries', 'Satyam Asia to focus on Asia-Pacific markets', 'Asia Pacific Enterprise meet tomorrow', 'Indo-Pak ties conducive for S Asia peace: China', 'India to participate in 7th Asia Pacific Bridal Summit', 'Annual Asia-Pacific lecture-tour seminar', 'Hate crimes against Asians on the decline', "'Kuch Kuch Hota Hai' craze in SE Asia", 'Aim to achieve gender justice', 'Asia-Oceania korfball meet']
+[tensor([[0.9219]]), tensor([[0.5171]]), tensor([[0.4627]]), tensor([[0.4523]]), tensor([[0.4369]]), tensor([[0.4359]]), tensor([[0.4247]]), tensor([[0.4236]]), tensor([[0.4236]]), tensor([[0.4229]])]
+
+['Hrithik Roshan: Humbling act!', "A 'Close-Up' of Hrithik Roshan", 'Rakesh Roshan: Koi Mil Gaya launched!', 'Aishwarya Rai: Hrithikally yours!', 'Up; Close & Personal: Bjorn Borg', 'Hrithik Roshan: The winning horse!', 'Rahul: Cutefully yours!', 'Hrithik Roshan: Old habits die hardly!', 'Up close and personal on www', 'Up; Close & Personal: Lleyton Hewitt']
+[tensor([[0.6469]]), tensor([[0.5803]]), tensor([[0.5631]]), tensor([[0.5578]]), tensor([[0.5543]]), tensor([[0.5519]]), tensor([[0.5491]]), tensor([[0.5385]]), tensor([[0.5338]]), tensor([[0.5206]])]
+
+['Canada to let in 235;000 immigrants in 2002', 'Emigration to Canada may be affected', 'Border haven for illegal immigrants', 'Illegal Immigriants', 'Canadian frigate arrives', 'Orissa to deport 4;000 Bangladeshi migrants', 'Illegal Pak immigrants to be deported', 'UK to deport 2;500 asylum-seekers each month', 'Bangla immigrants to be pushed back', 'Much ado about 2002']
+[tensor([[0.9092]]), tensor([[0.6913]]), tensor([[0.6012]]), tensor([[0.5497]]), tensor([[0.5350]]), tensor([[0.5289]]), tensor([[0.5214]]), tensor([[0.5067]]), tensor([[0.5005]]), tensor([[0.4881]])]
+
+['Mother Teresa monument near Seattle', 'Mother Teresas healing touch', "Mother Teresa's beatification probe concludes", "Mother Teresa 'cure' speeds her sainthood", "Teresa's birth anniversary celebrated", 'Jyoti Basu receives Mother Teresa award', 'Thiyam gives up Padma Shri in protest', 'Hunger strike for Chennamma statue', "Sonia to unveil Rajiv's statue", 'Miscreants desecrate Ambedkar statue']
+[tensor([[0.9810]]), tensor([[0.6142]]), tensor([[0.5918]]), tensor([[0.5835]]), tensor([[0.5369]]), tensor([[0.5076]]), tensor([[0.4543]]), tensor([[0.4471]]), tensor([[0.4407]]), tensor([[0.4333]])]
+
+['Cellphone market abuzz with rising subscriber base', 'Phone users continue to be a harried lot', 'Cellular users miffed over poor service', 'Maniac on a mobile haunts phone users', 'China to have largest mobile phone market soon', 'Company leaves cell phone users in lurch', 'Harrowing experience of a phone user', "Mobile users' patience runs thin", 'Billing anomalies irk Gaya phone users', 'Mobile users sore as Celforce system collapses']
+[tensor([[0.8983]]), tensor([[0.6006]]), tensor([[0.5705]]), tensor([[0.5676]]), tensor([[0.5355]]), tensor([[0.5253]]), tensor([[0.5209]]), tensor([[0.5132]]), tensor([[0.5105]]), tensor([[0.5038]])]
+
+['Their bamboo music is hard to beat', 'Abhays music unleashed', 'Babus give themselves a bonanza', 'BOOMTOWN RAPbrStrings of music', 'Lord of the bamboo reed', 'Oath is hard to toss', "Babus won't have it so easy under Modi", 'Car drivers not being challaned for blaring music', "The music has gone out of Vasanna's life", 'BUDDING CHORISTERSbrMusic to the ears']
+[tensor([[1.0000]]), tensor([[0.5401]]), tensor([[0.4889]]), tensor([[0.4884]]), tensor([[0.4754]]), tensor([[0.4356]]), tensor([[0.4230]]), tensor([[0.4176]]), tensor([[0.4169]]), tensor([[0.4167]])]
+
+['Six policemen killed in ambush', '6 policemen sacked', 'One killed in Baghpat police firing', 'Arrest of six policemen ordered in Bihar', '4 suspects of police station blast killed', 'Naxalites shoot dead 6 policemen in Orissa', 'Breakthrough eludes police in Phoolan killing', 'Gangster killed in police encounter', 'Four killed in encounter with police', 'Militants kill 7 policemen in J&K']
+[tensor([[0.9944]]), tensor([[0.7624]]), tensor([[0.7480]]), tensor([[0.7389]]), tensor([[0.7383]]), tensor([[0.7317]]), tensor([[0.7309]]), tensor([[0.7279]]), tensor([[0.7234]]), tensor([[0.7192]])]
+
+['Police bust UP-based gang of robbers', 'Rail police bust gang of thieves', 'Police in a tizzy over burglaries', 'Truckers blame police for not nabbing robbers', 'Cops prevent robbery bid', "Policemen's hand in robbery suspected", "Police 'patrol' was stealing cars", 'City police arrest gang of dacoits', 'Gangster held for firing at police', 'Mysterious criminal gives police the slip']
+[tensor([[0.8315]]), tensor([[0.8039]]), tensor([[0.7964]]), tensor([[0.7905]]), tensor([[0.7902]]), tensor([[0.7674]]), tensor([[0.7661]]), tensor([[0.7654]]), tensor([[0.7620]]), tensor([[0.7543]])]
+
+['US asks Taliban to halt desecration of statues', 'Taliban appeal to US', 'Armitage in despair about Taliban', 'Taliban refuse to hand over Osama', 'Jama Masjid opposes US action against Taliban', 'US says Taliban non-indigenous to Afghanistan', 'Rift in US-Pak ties over Taliban', 'Defiant Taliban call for holy war', 'Alert sounded on Taliban fugitives', "Clerics welcome Taliban's fall"]
+[tensor([[0.9455]]), tensor([[0.7677]]), tensor([[0.7133]]), tensor([[0.6978]]), tensor([[0.6790]]), tensor([[0.6713]]), tensor([[0.6692]]), tensor([[0.6640]]), tensor([[0.6625]]), tensor([[0.6448]])]
+
+['Hotel bill inflated; claim Jharkhand ministers', 'Ministers; officials resent sermons', 'Minister denies hit-and-run charge', 'Minister refutes mismanagement charges', 'Guest bills: Minister leads by example', 'Minister flays bureaucracy; opposition', 'Patwaris chargesheeted for favouring minister', "Minister's resignation sought for 'bungling'", 'Sumptuary allowance of PM; ministers to be doubled', "Minister's plea"]
+[tensor([[0.8292]]), tensor([[0.5985]]), tensor([[0.5967]]), tensor([[0.5861]]), tensor([[0.5758]]), tensor([[0.5677]]), tensor([[0.5631]]), tensor([[0.5594]]), tensor([[0.5574]]), tensor([[0.5519]])]
+
+['Sleazy films storm Bollywood!', 'Bollywood going the Hollywood way!', 'Rambha ho! Bollywood beckons', 'Bollywood ki Rani!', "Amitabh Bachchan: Don't say 'Bollywood'; say 'Hollywood'!", "Bollywood film on 'Palace-on-Wheels'", 'Hindi films can never be sensible', "Aftab Shivdasani: Bollywood's bachcha on a roll!", 'First ever muhurat of a Bollywood movie in Jaipur', 'Bollywood offers movie buffs the stars']
+[tensor([[0.9175]]), tensor([[0.7331]]), tensor([[0.7313]]), tensor([[0.7168]]), tensor([[0.7002]]), tensor([[0.6991]]), tensor([[0.6879]]), tensor([[0.6752]]), tensor([[0.6739]]), tensor([[0.6710]])]
+
+['Sessions judge to probe lock-up death', 'Phoolan murder case committed for sessions trial', 'Court notice to Inspector in murder case', 'Judge exonerates murder accused', 'Sessions court to hold trial in Phoolan case', 'Retd judge killed in dacoity bid', 'Court seeks medical reports of murder accused', 'Court reserves order on bail of Phoolan murder accused', 'Judicial probe ordered into Thumba firing', 'Witness identifies Gulshan killer in court']
+[tensor([[0.9504]]), tensor([[0.7239]]), tensor([[0.7129]]), tensor([[0.6996]]), tensor([[0.6932]]), tensor([[0.6629]]), tensor([[0.6567]]), tensor([[0.6446]]), tensor([[0.6389]]), tensor([[0.6358]])]
+
+['Microsoft launches program for developers', 'Microsoft launches MSN Explorer in India', 'Microsoft joins Citrix business alliance programme', 'Software spending is stable; says Microsoft', 'IT programme inaugurated', 'First software for film industry launched', 'Microsoft Versus the rest', 'PEC gets Microsoft centre', 'Microsoft competitors get 5 yrs to catch up', 'Volvo; Mindtree tie up for software development']
+[tensor([[0.9562]]), tensor([[0.5676]]), tensor([[0.5575]]), tensor([[0.5560]]), tensor([[0.5281]]), tensor([[0.5221]]), tensor([[0.5165]]), tensor([[0.5060]]), tensor([[0.4940]]), tensor([[0.4924]])]
+
+['British forces to begin copter crash investigation', 'Army orders probe into landmine blast', "UK probing Afghan passengers' flight to London", 'Civil aviation team begins probe', 'US-UK bombing on Afghanistan decried', 'Civil aviation ministry upgrades air crash probe', 'Russia to give combat aircraft blueprint', 'IA aircraft makes emergency landing', 'Airbus lost orders due to terror attacks', 'Aircraft makes emergency landing at IGI']
+[tensor([[0.7774]]), tensor([[0.6407]]), tensor([[0.6183]]), tensor([[0.6124]]), tensor([[0.6076]]), tensor([[0.5918]]), tensor([[0.5889]]), tensor([[0.5825]]), tensor([[0.5784]]), tensor([[0.5767]])]
+
+['Bomb defused in North Block', '4 held for North Block blasts; remanded', 'N-bomb lying off the east coast of America', 'Man held for bomb hoax at South Block', "N Block bomb failed police test: Didn't explode", 'Bomb defused in Srinagar', 'Bomb explosion in Aizawl', 'Bombarding at Bamiyan', 'Nritya Gopal Das hurt in bomb attack', 'Bombings ground foreign-bound Navratri troupes']
+[tensor([[1.]]), tensor([[0.7090]]), tensor([[0.6839]]), tensor([[0.6740]]), tensor([[0.6359]]), tensor([[0.6064]]), tensor([[0.6008]]), tensor([[0.6007]]), tensor([[0.5943]]), tensor([[0.5924]])]
+
+['HBO to get into non-movie programmes', 'Film federation ups ante against TV channels', 'Telefilm shoot inaugurated', 'Life without TV: the boredom shows', 'HC refuses to entertain PIL on television ratings', 'HC ruling favours cable TV viewers', 'Film makers may shun TV artistes', 'Television industry poised for shakeout', "Cable TV viewers seek DC's intervention", 'TV viewers in TN to miss pay channels']
+[tensor([[0.9075]]), tensor([[0.5300]]), tensor([[0.5249]]), tensor([[0.4939]]), tensor([[0.4932]]), tensor([[0.4927]]), tensor([[0.4885]]), tensor([[0.4857]]), tensor([[0.4834]]), tensor([[0.4806]])]
+
+['Yoga to the rescue of diabetics', 'Doctors more prone to diabetes', 'Hope and despair for diabetes patients', 'IMA to organise camp for diabetic patients', 'Diabetes experts now target walkers', 'Run for diabetes awareness tomorrow', 'Diabetes Day run flagged off', 'GPs can undergo course in diabetes treatment', 'Natural insulin safer for diabetics', 'Eye-care must for diabetics']
+[tensor([[0.9200]]), tensor([[0.6070]]), tensor([[0.6008]]), tensor([[0.5907]]), tensor([[0.5846]]), tensor([[0.5800]]), tensor([[0.5731]]), tensor([[0.5683]]), tensor([[0.5460]]), tensor([[0.5388]])]
+
+['US slowdown is real and hurting', 'US slowdown takes its toll on Infosys', 'FDI in US comes down drastically', 'Slowdown in state? Blame it on global recession', 'Rupee weakens slightly against the US dollar', 'US markets crash despite rate cut', 'Debate on economic slowdown in US', 'Rupee weakens against US dollar', 'US blamed for manipulating facts', 'Rupee weakens further against US dollar']
+[tensor([[0.9668]]), tensor([[0.6644]]), tensor([[0.5928]]), tensor([[0.5620]]), tensor([[0.5471]]), tensor([[0.5445]]), tensor([[0.5398]]), tensor([[0.5286]]), tensor([[0.5199]]), tensor([[0.5187]])]
+
+['GSLV launches India into elite space club', 'India gets ready to enter space club', "GSLV engine trouble sours India's space plans", 'India unveils space plane', 'Solid CVRs could propel India into big league', 'India reinforces itself as space power', 'Indian to deliver keynote address at spatial meet', 'India makes it to the elite', 'CLUB TALK A piece of south India', 'Indiatimes Clubs bring alumni together']
+[tensor([[0.9771]]), tensor([[0.8164]]), tensor([[0.7191]]), tensor([[0.6442]]), tensor([[0.6430]]), tensor([[0.6314]]), tensor([[0.5952]]), tensor([[0.5832]]), tensor([[0.5762]]), tensor([[0.5732]])]
+
+['India must tread carefully in brave new biotech world', 'India gearing up to face threat of biological weapons', 'India pioneered in study of bio-informatics', 'World will see a new India: Singhvi', 'India must wake up', 'New tanks will give India a significant edge', 'Innovative Indians have the world at their feet', 'India yet to wake up to anthrax scare', 'India needs to tap potential of PCs', 'India should retaliate']
+[tensor([[0.9746]]), tensor([[0.6403]]), tensor([[0.6402]]), tensor([[0.6272]]), tensor([[0.6265]]), tensor([[0.6222]]), tensor([[0.6190]]), tensor([[0.6160]]), tensor([[0.6142]]), tensor([[0.6129]])]
+
+distiluse-base-multilingual-cased
+['Further phasing out of buses put on hold', 'Drive against buses with extra sleepers', 'Occupancy in RTC buses increasing', 'RTC to ply more buses to suburbs', 'Railway misses tourist bus', 'Bus fare hike draws flak', 'Sharp rise in freight; passenger traffic', 'Exclusive lanes for RTC buses likely', 'More buses for Dasara', 'Road blockades against bus fare hike']
+[tensor([[0.7264]]), tensor([[0.6944]]), tensor([[0.6737]]), tensor([[0.6616]]), tensor([[0.6482]]), tensor([[0.6297]]), tensor([[0.6126]]), tensor([[0.6063]]), tensor([[0.5978]]), tensor([[0.5974]])]
+
+['Row over introduction of IT in schools intensifies', 'School students get up close with real IT', 'IT to be made compulsory in Chinese schools', 'Information Technology is a great leveller', 'Students give the go-by to IT', 'IT training firms need new lessons in education', 'Tata Infotech targets schools in Gujarat', 'IT optional subject in junior colleges', 'Tata Infotech Education to enter IT-enabled sector', 'IT in Kerala high schools soon']
+[tensor([[0.6521]]), tensor([[0.6482]]), tensor([[0.6150]]), tensor([[0.5765]]), tensor([[0.5760]]), tensor([[0.5684]]), tensor([[0.5368]]), tensor([[0.5343]]), tensor([[0.5240]]), tensor([[0.5222]])]
+
+['Powerless north India gropes in the dark', 'Indian Nationals down Nestor Goans', 'Quintessentially Indian curries', 'Top Indian executive at Nortel steps down', 'Harbhajan strikes; India nose ahead', 'India go down fighting to West Indies', "Nanaji lashes out at India's 'inaction' against Pak", 'Negroponte enthralls India Inc mandarins', 'Straw brackets India with rogue states', 'India Inc cowers in the Chinese shadow']
+[tensor([[0.9399]]), tensor([[0.6259]]), tensor([[0.6231]]), tensor([[0.6126]]), tensor([[0.6078]]), tensor([[0.6048]]), tensor([[0.5991]]), tensor([[0.5950]]), tensor([[0.5943]]), tensor([[0.5937]])]
+
+['Meet on curbing dropouts begins', 'The skeletons have started popping out', 'Ankur grabs early lead', 'Karnik begins looking for vices', 'Promising vaccine for tropical disease found', 'Hidden epidemic', 'Initial hiccups trouble TRS', 'Crores lost as coal strike starts', 'Suspension revokes as inquiry to begin', 'Hurriyat begins awareness drive']
+[tensor([[0.6787]]), tensor([[0.5685]]), tensor([[0.5619]]), tensor([[0.5573]]), tensor([[0.5450]]), tensor([[0.5402]]), tensor([[0.5321]]), tensor([[0.5306]]), tensor([[0.5248]]), tensor([[0.5196]])]
+
+['Indian American couple sentenced for injuries to child', 'Schoolboy shot in warning over Indian support to US', 'India raising Kashmir killings irks Pak', 'Advani asks Indians to draw lesson from Americans', 'US word on Pak arrests unacceptable to India', 'Man kills parents over marriage', 'US pledges to fight terrorism against India', 'Indian army officer killed in Pak firing', 'Blackwill sworn in as US ambassador to India', "Indian whiz kid's phoney act"]
+[tensor([[0.7256]]), tensor([[0.7030]]), tensor([[0.6054]]), tensor([[0.5961]]), tensor([[0.5834]]), tensor([[0.5824]]), tensor([[0.5787]]), tensor([[0.5730]]), tensor([[0.5714]]), tensor([[0.5678]])]
+
+['Bank scrips rise on rate cuts', 'Banks asked to increase lending', 'Breaking the Bank', 'Bank strike partial', 'Canara Bank realigns interest rate', 'Strike hits banking services', 'Bank robbery foiled', 'Bank managers stumped', 'Repayment of bank loans urged', 'Bankmen demand release of arrears']
+[tensor([[0.8352]]), tensor([[0.7109]]), tensor([[0.6924]]), tensor([[0.6781]]), tensor([[0.6769]]), tensor([[0.6619]]), tensor([[0.6604]]), tensor([[0.6487]]), tensor([[0.6479]]), tensor([[0.6403]])]
+
+['India now foodgrain exporter: Shanta', 'Irregularities govern Indian rice exports', 'Ozone eaters being smuggled into India', 'Quintessentially Indian curries', 'Malnutrition afflicting Indian women', 'India to export 25;000 tonnes of maize', 'India likely to import 16 lakh bales of cotton', 'EU sops to Pak to hit Indian exports', 'India opts for Frankenfoods; while world desists', 'Food imports to take toll on employment']
+[tensor([[0.7010]]), tensor([[0.6989]]), tensor([[0.6376]]), tensor([[0.6330]]), tensor([[0.6271]]), tensor([[0.6220]]), tensor([[0.6201]]), tensor([[0.6184]]), tensor([[0.6159]]), tensor([[0.6125]])]
+
+['Governor appeals for blood donation', 'Blood Donation Day', 'NCC cadets donate blood', 'List of blood donors compiled', 'Rally organised to mark blood donation day', 'Voluntary blood donors to participate in cycle rally', 'Women urged to donate more blood', 'Innocent Blood', 'Blood donation no more safe in hospitals', "Workshop on 'Safe Blood Donation'"]
+[tensor([[0.7383]]), tensor([[0.6926]]), tensor([[0.6843]]), tensor([[0.6538]]), tensor([[0.6454]]), tensor([[0.6406]]), tensor([[0.6386]]), tensor([[0.6230]]), tensor([[0.6225]]), tensor([[0.6188]])]
+
+['PMC to computerise its octroi department', 'BU convocation to be held by year-end', 'School syllabus changes to come in force next year', 'Computer centre directors held', 'ECC enters centenary year', 'PC market to shrink 10% in 2001-02', 'Physical education takes a back seat to computers', 'Classrooms in the age of computer-savvy kids', 'Meet on trends in IT sector', 'Taking the PC on a voyage']
+[tensor([[0.5883]]), tensor([[0.5277]]), tensor([[0.5072]]), tensor([[0.4762]]), tensor([[0.4659]]), tensor([[0.4612]]), tensor([[0.4570]]), tensor([[0.4544]]), tensor([[0.4519]]), tensor([[0.4514]])]
+
+['Labour of Law', 'Misrule of Law', 'Rights & laws', 'Jharkhand to amend labour laws', 'MATINEE MASALAbrMartial law', 'Trade union against changes to labour laws', 'Drastic changes proposed in labour laws', 'Law & Disorder', 'Law and Ethics', 'Action against law minister sought']
+[tensor([[0.9812]]), tensor([[0.7101]]), tensor([[0.6665]]), tensor([[0.6442]]), tensor([[0.6138]]), tensor([[0.6131]]), tensor([[0.5994]]), tensor([[0.5960]]), tensor([[0.5937]]), tensor([[0.5852]])]
+
+['Ministers under threat', 'Insecurity grips senior ministers in state', 'Minister urged to allay fears on Singatalur', 'Minister frowns upon DVC', "Minister's plea", "Minister lambasts militants' ploy", 'Ministers; officials resent sermons', 'Minister warns officials against negligence', 'Minister gets an earful', 'Ministers defend hike in perks']
+[tensor([[0.8573]]), tensor([[0.7426]]), tensor([[0.7169]]), tensor([[0.7053]]), tensor([[0.7013]]), tensor([[0.6925]]), tensor([[0.6863]]), tensor([[0.6819]]), tensor([[0.6812]]), tensor([[0.6797]])]
+
+['Illegal arms flood Delhi', 'Real robbery with fake guns in East Delhi', 'Shootout accused brought to Delhi', 'Delhi police let blast suspects slip away', 'SP guns for BJP on Dalit atrocities', 'Dense fog disrupts normal life in Delhi', 'Huge cache of firearms recovered in Bihar', 'Maharashtra crime act extended to Delhi', 'Five arrested for dacoities in Delhi', 'Delhi caught off-guard on border']
+[tensor([[0.9117]]), tensor([[0.7008]]), tensor([[0.6949]]), tensor([[0.6397]]), tensor([[0.6310]]), tensor([[0.6266]]), tensor([[0.6232]]), tensor([[0.6202]]), tensor([[0.6201]]), tensor([[0.6189]])]
+
+['PM appeals for help', 'PM assures central assistance to AP', 'PM assures Sikkim central help', 'PM concerned over meagre utilisation of Central aid', 'Mulayam slams PM for offering help to US', 'Minister solicits Oppn support for rally', 'PCO owners seek assistance', 'PMC helps slumdwellers', 'Kudos PM', 'Salutes to the PM']
+[tensor([[0.8915]]), tensor([[0.6866]]), tensor([[0.6757]]), tensor([[0.6519]]), tensor([[0.6409]]), tensor([[0.6271]]), tensor([[0.6117]]), tensor([[0.5965]]), tensor([[0.5908]]), tensor([[0.5737]])]
+
+['Trekking the learning curve', 'Unlearnt Lessons', 'THE COUNSELLORbrDistance Learning', 'The Lotus of Learning', 'Valuable Lessons', 'Learning art', 'Vital Lesson', 'Learning to Grow', 'Learning from defeat', 'A seat of advanced learning']
+[tensor([[0.8565]]), tensor([[0.7264]]), tensor([[0.7167]]), tensor([[0.6120]]), tensor([[0.6061]]), tensor([[0.5992]]), tensor([[0.5970]]), tensor([[0.5921]]), tensor([[0.5904]]), tensor([[0.5798]])]
+
+['Hospitals are far from equipped', 'A hospital sans patients', 'Mental hospitals lack facilities', 'Karunanidhi hospitalised', 'I was not involved in hospital row', 'Mental hospital lacks basic amenities', "Hospital attendants' stir", 'Hospital lacked equipment for resuscitation', "Hospitals say 'no' to medico-legal cases", 'Raid on cantt hospital']
+[tensor([[0.8176]]), tensor([[0.7490]]), tensor([[0.7078]]), tensor([[0.6310]]), tensor([[0.6276]]), tensor([[0.6259]]), tensor([[0.6240]]), tensor([[0.6190]]), tensor([[0.6153]]), tensor([[0.6126]])]
+
+['Christians protest over inaction', 'Christian gathering disrupted', 'Christians decry saffronisation', 'Attacks on Christian priests on the rise', 'Attack on Christian priest condemned', 'Christians march to press demands', 'Rally to press for rights for Christians', 'Controversy over conversion to Christianity', "Christians' plea against bill on conversions", 'Christian missionaries thrashed at BHU']
+[tensor([[0.8750]]), tensor([[0.8033]]), tensor([[0.7673]]), tensor([[0.7247]]), tensor([[0.7177]]), tensor([[0.7051]]), tensor([[0.7022]]), tensor([[0.6967]]), tensor([[0.6692]]), tensor([[0.6591]])]
+
+['Delhi hosts festival of short films', 'Scenes from the Mumbai Film Festival', 'Lagaan; Deham for film festival', 'Quality Indian films enter film fest', 'Hindi festival at COD', 'Goa festival in Delhi from Saturday', 'Wide acclaim for Indian films in US festival', 'Assamese film selected for Film Fest', 'Buddhadeb unveils film festival plans', 'Mumbai film festival offers impressive line-up']
+[tensor([[0.9957]]), tensor([[0.6505]]), tensor([[0.6491]]), tensor([[0.6413]]), tensor([[0.6333]]), tensor([[0.6310]]), tensor([[0.6271]]), tensor([[0.6255]]), tensor([[0.6237]]), tensor([[0.6126]])]
+
+['Helmets a must from April', 'Wearing of helmets made mandatory', 'Helmets made must for cops', 'Helmets compulsory from Dec. 1', 'Policemen directed to wear helmets', 'Helmets compulsory on two-wheelers from Dec 1', 'Puneites will not be forced to wear helmets', 'Order on helmets kept under abeyance', 'Govt to stay helmet order', 'Officials at odds over helmet rule']
+[tensor([[0.9574]]), tensor([[0.7079]]), tensor([[0.7034]]), tensor([[0.6217]]), tensor([[0.5675]]), tensor([[0.5444]]), tensor([[0.5374]]), tensor([[0.5124]]), tensor([[0.5057]]), tensor([[0.5035]])]
+
+['The Page Three Politician', 'The politics of sleaze', 'Political Wannabes', 'Three steps to clean politics', 'Political Manoeuvres', 'Political Midases', 'Alliterative Politics', 'Puratchi Politics', 'Punish politicians', 'See-through Politics']
+[tensor([[1.0000]]), tensor([[0.6076]]), tensor([[0.6015]]), tensor([[0.5964]]), tensor([[0.5944]]), tensor([[0.5896]]), tensor([[0.5667]]), tensor([[0.5506]]), tensor([[0.5435]]), tensor([[0.5372]])]
+
+['Gender equality still a dream in Asian; Pacific countries', 'Satyam Asia to focus on Asia-Pacific markets', 'Asia Pacific Enterprise meet tomorrow', 'Indo-Pak ties conducive for S Asia peace: China', 'India to participate in 7th Asia Pacific Bridal Summit', 'Annual Asia-Pacific lecture-tour seminar', 'Hate crimes against Asians on the decline', "'Kuch Kuch Hota Hai' craze in SE Asia", 'Aim to achieve gender justice', 'Asia-Oceania korfball meet']
+[tensor([[0.9219]]), tensor([[0.5171]]), tensor([[0.4627]]), tensor([[0.4523]]), tensor([[0.4369]]), tensor([[0.4359]]), tensor([[0.4247]]), tensor([[0.4236]]), tensor([[0.4236]]), tensor([[0.4229]])]
+
+['Hrithik Roshan: Humbling act!', "A 'Close-Up' of Hrithik Roshan", 'Rakesh Roshan: Koi Mil Gaya launched!', 'Aishwarya Rai: Hrithikally yours!', 'Up; Close & Personal: Bjorn Borg', 'Hrithik Roshan: The winning horse!', 'Rahul: Cutefully yours!', 'Hrithik Roshan: Old habits die hardly!', 'Up close and personal on www', 'Up; Close & Personal: Lleyton Hewitt']
+[tensor([[0.6469]]), tensor([[0.5803]]), tensor([[0.5631]]), tensor([[0.5578]]), tensor([[0.5543]]), tensor([[0.5519]]), tensor([[0.5491]]), tensor([[0.5385]]), tensor([[0.5338]]), tensor([[0.5206]])]
+
+['Canada to let in 235;000 immigrants in 2002', 'Emigration to Canada may be affected', 'Border haven for illegal immigrants', 'Illegal Immigriants', 'Canadian frigate arrives', 'Orissa to deport 4;000 Bangladeshi migrants', 'Illegal Pak immigrants to be deported', 'UK to deport 2;500 asylum-seekers each month', 'Bangla immigrants to be pushed back', 'Much ado about 2002']
+[tensor([[0.9092]]), tensor([[0.6913]]), tensor([[0.6012]]), tensor([[0.5497]]), tensor([[0.5350]]), tensor([[0.5289]]), tensor([[0.5214]]), tensor([[0.5067]]), tensor([[0.5005]]), tensor([[0.4881]])]
+
+['Mother Teresa monument near Seattle', 'Mother Teresas healing touch', "Mother Teresa's beatification probe concludes", "Mother Teresa 'cure' speeds her sainthood", "Teresa's birth anniversary celebrated", 'Jyoti Basu receives Mother Teresa award', 'Thiyam gives up Padma Shri in protest', 'Hunger strike for Chennamma statue', "Sonia to unveil Rajiv's statue", 'Miscreants desecrate Ambedkar statue']
+[tensor([[0.9810]]), tensor([[0.6142]]), tensor([[0.5918]]), tensor([[0.5835]]), tensor([[0.5369]]), tensor([[0.5076]]), tensor([[0.4543]]), tensor([[0.4471]]), tensor([[0.4407]]), tensor([[0.4333]])]
+
+['Cellphone market abuzz with rising subscriber base', 'Phone users continue to be a harried lot', 'Cellular users miffed over poor service', 'Maniac on a mobile haunts phone users', 'China to have largest mobile phone market soon', 'Company leaves cell phone users in lurch', 'Harrowing experience of a phone user', "Mobile users' patience runs thin", 'Billing anomalies irk Gaya phone users', 'Mobile users sore as Celforce system collapses']
+[tensor([[0.8983]]), tensor([[0.6006]]), tensor([[0.5705]]), tensor([[0.5676]]), tensor([[0.5355]]), tensor([[0.5253]]), tensor([[0.5209]]), tensor([[0.5132]]), tensor([[0.5105]]), tensor([[0.5038]])]
+
+['Their bamboo music is hard to beat', 'Abhays music unleashed', 'Babus give themselves a bonanza', 'BOOMTOWN RAPbrStrings of music', 'Lord of the bamboo reed', 'Oath is hard to toss', "Babus won't have it so easy under Modi", 'Car drivers not being challaned for blaring music', "The music has gone out of Vasanna's life", 'BUDDING CHORISTERSbrMusic to the ears']
+[tensor([[1.0000]]), tensor([[0.5401]]), tensor([[0.4889]]), tensor([[0.4884]]), tensor([[0.4754]]), tensor([[0.4356]]), tensor([[0.4230]]), tensor([[0.4176]]), tensor([[0.4169]]), tensor([[0.4167]])]
+
+['Six policemen killed in ambush', '6 policemen sacked', 'One killed in Baghpat police firing', 'Arrest of six policemen ordered in Bihar', '4 suspects of police station blast killed', 'Naxalites shoot dead 6 policemen in Orissa', 'Breakthrough eludes police in Phoolan killing', 'Gangster killed in police encounter', 'Four killed in encounter with police', 'Militants kill 7 policemen in J&K']
+[tensor([[0.9944]]), tensor([[0.7624]]), tensor([[0.7480]]), tensor([[0.7389]]), tensor([[0.7383]]), tensor([[0.7317]]), tensor([[0.7309]]), tensor([[0.7279]]), tensor([[0.7234]]), tensor([[0.7192]])]
+
+['Police bust UP-based gang of robbers', 'Rail police bust gang of thieves', 'Police in a tizzy over burglaries', 'Truckers blame police for not nabbing robbers', 'Cops prevent robbery bid', "Policemen's hand in robbery suspected", "Police 'patrol' was stealing cars", 'City police arrest gang of dacoits', 'Gangster held for firing at police', 'Mysterious criminal gives police the slip']
+[tensor([[0.8315]]), tensor([[0.8039]]), tensor([[0.7964]]), tensor([[0.7905]]), tensor([[0.7902]]), tensor([[0.7674]]), tensor([[0.7661]]), tensor([[0.7654]]), tensor([[0.7620]]), tensor([[0.7543]])]
+
+['US asks Taliban to halt desecration of statues', 'Taliban appeal to US', 'Armitage in despair about Taliban', 'Taliban refuse to hand over Osama', 'Jama Masjid opposes US action against Taliban', 'US says Taliban non-indigenous to Afghanistan', 'Rift in US-Pak ties over Taliban', 'Defiant Taliban call for holy war', 'Alert sounded on Taliban fugitives', "Clerics welcome Taliban's fall"]
+[tensor([[0.9455]]), tensor([[0.7677]]), tensor([[0.7133]]), tensor([[0.6978]]), tensor([[0.6790]]), tensor([[0.6713]]), tensor([[0.6692]]), tensor([[0.6640]]), tensor([[0.6625]]), tensor([[0.6448]])]
+
+['Hotel bill inflated; claim Jharkhand ministers', 'Ministers; officials resent sermons', 'Minister denies hit-and-run charge', 'Minister refutes mismanagement charges', 'Guest bills: Minister leads by example', 'Minister flays bureaucracy; opposition', 'Patwaris chargesheeted for favouring minister', "Minister's resignation sought for 'bungling'", 'Sumptuary allowance of PM; ministers to be doubled', "Minister's plea"]
+[tensor([[0.8292]]), tensor([[0.5985]]), tensor([[0.5967]]), tensor([[0.5861]]), tensor([[0.5758]]), tensor([[0.5677]]), tensor([[0.5631]]), tensor([[0.5594]]), tensor([[0.5574]]), tensor([[0.5519]])]
+
+['Sleazy films storm Bollywood!', 'Bollywood going the Hollywood way!', 'Rambha ho! Bollywood beckons', 'Bollywood ki Rani!', "Amitabh Bachchan: Don't say 'Bollywood'; say 'Hollywood'!", "Bollywood film on 'Palace-on-Wheels'", 'Hindi films can never be sensible', "Aftab Shivdasani: Bollywood's bachcha on a roll!", 'First ever muhurat of a Bollywood movie in Jaipur', 'Bollywood offers movie buffs the stars']
+[tensor([[0.9175]]), tensor([[0.7331]]), tensor([[0.7313]]), tensor([[0.7168]]), tensor([[0.7002]]), tensor([[0.6991]]), tensor([[0.6879]]), tensor([[0.6752]]), tensor([[0.6739]]), tensor([[0.6710]])]
+
+['Sessions judge to probe lock-up death', 'Phoolan murder case committed for sessions trial', 'Court notice to Inspector in murder case', 'Judge exonerates murder accused', 'Sessions court to hold trial in Phoolan case', 'Retd judge killed in dacoity bid', 'Court seeks medical reports of murder accused', 'Court reserves order on bail of Phoolan murder accused', 'Judicial probe ordered into Thumba firing', 'Witness identifies Gulshan killer in court']
+[tensor([[0.9504]]), tensor([[0.7239]]), tensor([[0.7129]]), tensor([[0.6996]]), tensor([[0.6932]]), tensor([[0.6629]]), tensor([[0.6567]]), tensor([[0.6446]]), tensor([[0.6389]]), tensor([[0.6358]])]
+
+['Microsoft launches program for developers', 'Microsoft launches MSN Explorer in India', 'Microsoft joins Citrix business alliance programme', 'Software spending is stable; says Microsoft', 'IT programme inaugurated', 'First software for film industry launched', 'Microsoft Versus the rest', 'PEC gets Microsoft centre', 'Microsoft competitors get 5 yrs to catch up', 'Volvo; Mindtree tie up for software development']
+[tensor([[0.9562]]), tensor([[0.5676]]), tensor([[0.5575]]), tensor([[0.5560]]), tensor([[0.5281]]), tensor([[0.5221]]), tensor([[0.5165]]), tensor([[0.5060]]), tensor([[0.4940]]), tensor([[0.4924]])]
+
+['British forces to begin copter crash investigation', 'Army orders probe into landmine blast', "UK probing Afghan passengers' flight to London", 'Civil aviation team begins probe', 'US-UK bombing on Afghanistan decried', 'Civil aviation ministry upgrades air crash probe', 'Russia to give combat aircraft blueprint', 'IA aircraft makes emergency landing', 'Airbus lost orders due to terror attacks', 'Aircraft makes emergency landing at IGI']
+[tensor([[0.7774]]), tensor([[0.6407]]), tensor([[0.6183]]), tensor([[0.6124]]), tensor([[0.6076]]), tensor([[0.5918]]), tensor([[0.5889]]), tensor([[0.5825]]), tensor([[0.5784]]), tensor([[0.5767]])]
+
+['Bomb defused in North Block', '4 held for North Block blasts; remanded', 'N-bomb lying off the east coast of America', 'Man held for bomb hoax at South Block', "N Block bomb failed police test: Didn't explode", 'Bomb defused in Srinagar', 'Bomb explosion in Aizawl', 'Bombarding at Bamiyan', 'Nritya Gopal Das hurt in bomb attack', 'Bombings ground foreign-bound Navratri troupes']
+[tensor([[1.]]), tensor([[0.7090]]), tensor([[0.6839]]), tensor([[0.6740]]), tensor([[0.6359]]), tensor([[0.6064]]), tensor([[0.6008]]), tensor([[0.6007]]), tensor([[0.5943]]), tensor([[0.5924]])]
+
+['HBO to get into non-movie programmes', 'Film federation ups ante against TV channels', 'Telefilm shoot inaugurated', 'Life without TV: the boredom shows', 'HC refuses to entertain PIL on television ratings', 'HC ruling favours cable TV viewers', 'Film makers may shun TV artistes', 'Television industry poised for shakeout', "Cable TV viewers seek DC's intervention", 'TV viewers in TN to miss pay channels']
+[tensor([[0.9075]]), tensor([[0.5300]]), tensor([[0.5249]]), tensor([[0.4939]]), tensor([[0.4932]]), tensor([[0.4927]]), tensor([[0.4885]]), tensor([[0.4857]]), tensor([[0.4834]]), tensor([[0.4806]])]
+
+['Yoga to the rescue of diabetics', 'Doctors more prone to diabetes', 'Hope and despair for diabetes patients', 'IMA to organise camp for diabetic patients', 'Diabetes experts now target walkers', 'Run for diabetes awareness tomorrow', 'Diabetes Day run flagged off', 'GPs can undergo course in diabetes treatment', 'Natural insulin safer for diabetics', 'Eye-care must for diabetics']
+[tensor([[0.9200]]), tensor([[0.6070]]), tensor([[0.6008]]), tensor([[0.5907]]), tensor([[0.5846]]), tensor([[0.5800]]), tensor([[0.5731]]), tensor([[0.5683]]), tensor([[0.5460]]), tensor([[0.5388]])]
+
+['US slowdown is real and hurting', 'US slowdown takes its toll on Infosys', 'FDI in US comes down drastically', 'Slowdown in state? Blame it on global recession', 'Rupee weakens slightly against the US dollar', 'US markets crash despite rate cut', 'Debate on economic slowdown in US', 'Rupee weakens against US dollar', 'US blamed for manipulating facts', 'Rupee weakens further against US dollar']
+[tensor([[0.9668]]), tensor([[0.6644]]), tensor([[0.5928]]), tensor([[0.5620]]), tensor([[0.5471]]), tensor([[0.5445]]), tensor([[0.5398]]), tensor([[0.5286]]), tensor([[0.5199]]), tensor([[0.5187]])]
+
+['GSLV launches India into elite space club', 'India gets ready to enter space club', "GSLV engine trouble sours India's space plans", 'India unveils space plane', 'Solid CVRs could propel India into big league', 'India reinforces itself as space power', 'Indian to deliver keynote address at spatial meet', 'India makes it to the elite', 'CLUB TALK A piece of south India', 'Indiatimes Clubs bring alumni together']
+[tensor([[0.9771]]), tensor([[0.8164]]), tensor([[0.7191]]), tensor([[0.6442]]), tensor([[0.6430]]), tensor([[0.6314]]), tensor([[0.5952]]), tensor([[0.5832]]), tensor([[0.5762]]), tensor([[0.5732]])]
+
+['India must tread carefully in brave new biotech world', 'India gearing up to face threat of biological weapons', 'India pioneered in study of bio-informatics', 'World will see a new India: Singhvi', 'India must wake up', 'New tanks will give India a significant edge', 'Innovative Indians have the world at their feet', 'India yet to wake up to anthrax scare', 'India needs to tap potential of PCs', 'India should retaliate']
+[tensor([[0.9746]]), tensor([[0.6403]]), tensor([[0.6402]]), tensor([[0.6272]]), tensor([[0.6265]]), tensor([[0.6222]]), tensor([[0.6190]]), tensor([[0.6160]]), tensor([[0.6142]]), tensor([[0.6129]])]
+
+distiluse-base-multilingual-cased-v1
+['Further phasing out of buses put on hold', 'Drive against buses with extra sleepers', 'Railway misses tourist bus', 'Occupancy in RTC buses increasing', 'RTC to ply more buses to suburbs', 'More facilities for passengers sought', 'Exclusive lanes for RTC buses likely', 'Bus fare hike draws flak', 'Road blockades against bus fare hike', 'Bus-impounding leaves transporters fuming']
+[tensor([[0.7081]]), tensor([[0.6929]]), tensor([[0.6468]]), tensor([[0.6262]]), tensor([[0.6198]]), tensor([[0.5867]]), tensor([[0.5782]]), tensor([[0.5752]]), tensor([[0.5725]]), tensor([[0.5681]])]
+
+['IT to be made compulsory in Chinese schools', 'School students get up close with real IT', 'Row over introduction of IT in schools intensifies', 'IT training firms need new lessons in education', 'Information Technology is a great leveller', 'Students give the go-by to IT', 'Tata Infotech targets schools in Gujarat', 'IT in Kerala high schools soon', 'IT optional subject in junior colleges', 'Seminar for school teachers on IT']
+[tensor([[0.6798]]), tensor([[0.6551]]), tensor([[0.6516]]), tensor([[0.6026]]), tensor([[0.5937]]), tensor([[0.5840]]), tensor([[0.5584]]), tensor([[0.5496]]), tensor([[0.5429]]), tensor([[0.5352]])]
+
+['Powerless north India gropes in the dark', 'Indian Nationals down Nestor Goans', 'Harbhajan strikes; India nose ahead', 'Foggy weather affects power supply in North India', 'Top Indian executive at Nortel steps down', 'Quintessentially Indian curries', 'Indian channels make hay in a dark time', 'Bullish on India', 'India go down fighting to West Indies', 'Darkness in Karnataka as power grid trips']
+[tensor([[0.9307]]), tensor([[0.6201]]), tensor([[0.6002]]), tensor([[0.5902]]), tensor([[0.5892]]), tensor([[0.5878]]), tensor([[0.5852]]), tensor([[0.5754]]), tensor([[0.5736]]), tensor([[0.5645]])]
+
+['Meet on curbing dropouts begins', 'Sanguem pipleline work begins', 'Cricket fever is on', 'Karnik begins looking for vices', 'Promising vaccine for tropical disease found', 'The skeletons have started popping out', 'Allergan begins glaucoma screening for corporates', 'Decomposed bodies found', 'Nasscom NuggetsbrKarnik begins looking for vices', 'Hidden epidemic']
+[tensor([[0.6912]]), tensor([[0.5622]]), tensor([[0.5556]]), tensor([[0.5489]]), tensor([[0.5449]]), tensor([[0.5423]]), tensor([[0.5385]]), tensor([[0.5323]]), tensor([[0.5262]]), tensor([[0.5255]])]
+
+['Schoolboy shot in warning over Indian support to US', 'Indian American couple sentenced for injuries to child', 'Mother kills son; commits suicide', 'Woman murdered by son; daughter-in-law', 'Man kills parents over marriage', 'Man kills mother; injures brother', 'Mother seeks justice for dead son', 'Woman gives forged death certificate of accused son', "Woman kills son in A'bad", 'India raising Kashmir killings irks Pak']
+[tensor([[0.6992]]), tensor([[0.6834]]), tensor([[0.6122]]), tensor([[0.6059]]), tensor([[0.6001]]), tensor([[0.5994]]), tensor([[0.5987]]), tensor([[0.5951]]), tensor([[0.5932]]), tensor([[0.5865]])]
+
+['Bank scrips rise on rate cuts', 'Banks asked to increase lending', 'Canara Bank realigns interest rate', 'Breaking the Bank', 'RBI cuts bank rate; CRR', 'Repayment of bank loans urged', 'Bank strike partial', 'Bank managers stumped', 'National Housing Bank cuts rate', 'Bank robbery foiled']
+[tensor([[0.8197]]), tensor([[0.6912]]), tensor([[0.6804]]), tensor([[0.6586]]), tensor([[0.6518]]), tensor([[0.6464]]), tensor([[0.6408]]), tensor([[0.6304]]), tensor([[0.6232]]), tensor([[0.6137]])]
+
+['India now foodgrain exporter: Shanta', 'Irregularities govern Indian rice exports', 'Exports of vegetarian foods on the rise', 'Food imports to take toll on employment', 'Malnutrition afflicting Indian women', 'India to export 25;000 tonnes of maize', 'Ozone eaters being smuggled into India', 'Cong plea on boiled rice export', 'India opts for Frankenfoods; while world desists', 'Major slump in seafood export']
+[tensor([[0.6848]]), tensor([[0.6570]]), tensor([[0.6369]]), tensor([[0.6110]]), tensor([[0.6101]]), tensor([[0.6100]]), tensor([[0.5966]]), tensor([[0.5921]]), tensor([[0.5737]]), tensor([[0.5645]])]
+
+['Governor appeals for blood donation', 'Blood Donation Day', 'NCC cadets donate blood', 'Rally organised to mark blood donation day', 'Women urged to donate more blood', 'List of blood donors compiled', 'Voluntary blood donors to participate in cycle rally', 'Innocent Blood', "Workshop on 'Safe Blood Donation'", 'Bank staff donate blood on anniversary']
+[tensor([[0.7115]]), tensor([[0.6638]]), tensor([[0.6558]]), tensor([[0.6386]]), tensor([[0.6321]]), tensor([[0.6150]]), tensor([[0.6083]]), tensor([[0.6001]]), tensor([[0.5898]]), tensor([[0.5860]])]
+
+['PMC to computerise its octroi department', 'BU convocation to be held by year-end', 'School syllabus changes to come in force next year', 'Computer centre directors held', 'Physical education takes a back seat to computers', 'PC market to shrink 10% in 2001-02', 'Classrooms in the age of computer-savvy kids', '80 pc work on canal by year-end', 'ECC enters centenary year', 'How IBM brought the computer to the desktop']
+[tensor([[0.5939]]), tensor([[0.5064]]), tensor([[0.5031]]), tensor([[0.4873]]), tensor([[0.4694]]), tensor([[0.4683]]), tensor([[0.4655]]), tensor([[0.4625]]), tensor([[0.4624]]), tensor([[0.4538]])]
+
+['Labour of Law', 'Misrule of Law', 'Rights & laws', 'Jharkhand to amend labour laws', 'Trade union against changes to labour laws', "Other side of 'ideal' labour law", 'Drastic changes proposed in labour laws', 'Rectify archaic labour laws: Fernandes', 'Action against law minister sought', 'Lawyers abstain from judicial work']
+[tensor([[0.9787]]), tensor([[0.7048]]), tensor([[0.6306]]), tensor([[0.6292]]), tensor([[0.6022]]), tensor([[0.5981]]), tensor([[0.5782]]), tensor([[0.5773]]), tensor([[0.5751]]), tensor([[0.5636]])]
+
+['Ministers under threat', 'Minister urged to allay fears on Singatalur', "Minister's plea", 'Minister warns officials against negligence', 'Ministers; officials resent sermons', 'Minister gets an earful', "Ministers ignore chief minister's plea", 'Ministers; officials keep fingers crossed', 'Minister frowns upon DVC', 'Insecurity grips senior ministers in state']
+[tensor([[0.8260]]), tensor([[0.7829]]), tensor([[0.7383]]), tensor([[0.6962]]), tensor([[0.6888]]), tensor([[0.6755]]), tensor([[0.6733]]), tensor([[0.6732]]), tensor([[0.6728]]), tensor([[0.6670]])]
+
+['Illegal arms flood Delhi', 'Real robbery with fake guns in East Delhi', 'Shootout accused brought to Delhi', 'Illegal firearms being sold in city', 'SP guns for BJP on Dalit atrocities', 'Maharashtra crime act extended to Delhi', 'Archaic laws hurdle in nabbing criminals', 'BJP assails Maharashtra govt on law and order', 'Five arrested for dacoities in Delhi', 'Delhi police let blast suspects slip away']
+[tensor([[0.8986]]), tensor([[0.6707]]), tensor([[0.6434]]), tensor([[0.6107]]), tensor([[0.6093]]), tensor([[0.5882]]), tensor([[0.5859]]), tensor([[0.5833]]), tensor([[0.5814]]), tensor([[0.5755]])]
+
+['PM appeals for help', 'PM assures central assistance to AP', 'PM assures Sikkim central help', 'Mulayam slams PM for offering help to US', 'Minister solicits Oppn support for rally', 'PCO owners seek assistance', 'Mulayam slams PM for supporting US', 'PM concerned over meagre utilisation of Central aid', 'Salutes to the PM', 'MPs well-armed with Customs help']
+[tensor([[0.8874]]), tensor([[0.6552]]), tensor([[0.6522]]), tensor([[0.6508]]), tensor([[0.6383]]), tensor([[0.6376]]), tensor([[0.6070]]), tensor([[0.6066]]), tensor([[0.5942]]), tensor([[0.5928]])]
+
+['Trekking the learning curve', 'THE COUNSELLORbrDistance Learning', 'Unlearnt Lessons', 'The Lotus of Learning', 'Learning to Grow', 'Tackling Education', 'Learning art', 'Vital Lesson', 'Vocational courses', 'Learning from defeat']
+[tensor([[0.8403]]), tensor([[0.7087]]), tensor([[0.6928]]), tensor([[0.6465]]), tensor([[0.6342]]), tensor([[0.6312]]), tensor([[0.5917]]), tensor([[0.5887]]), tensor([[0.5848]]), tensor([[0.5790]])]
+
+['Hospitals are far from equipped', 'A hospital sans patients', 'Mental hospitals lack facilities', 'I was not involved in hospital row', 'Mental hospital lacks basic amenities', "Hospital attendants' stir", 'Hospital in need of buildings', 'Hospital lacked equipment for resuscitation', "Hospitals say 'no' to medico-legal cases", 'Hospital building lying vacant']
+[tensor([[0.7965]]), tensor([[0.7108]]), tensor([[0.6706]]), tensor([[0.6196]]), tensor([[0.6164]]), tensor([[0.6065]]), tensor([[0.6015]]), tensor([[0.5951]]), tensor([[0.5849]]), tensor([[0.5747]])]
+
+['Christians protest over inaction', 'Christian gathering disrupted', 'Attacks on Christian priests on the rise', 'Christians march to press demands', 'Rally to press for rights for Christians', 'Attack on Christian priest condemned', 'Christians decry saffronisation', 'Controversy over conversion to Christianity', 'Attack on Christians in Gujarat alleged', 'Christian missionaries thrashed at BHU']
+[tensor([[0.8767]]), tensor([[0.7847]]), tensor([[0.7187]]), tensor([[0.7181]]), tensor([[0.7053]]), tensor([[0.7044]]), tensor([[0.6883]]), tensor([[0.6677]]), tensor([[0.6469]]), tensor([[0.6344]])]
+
+['Delhi hosts festival of short films', 'Quality Indian films enter film fest', 'Lagaan; Deham for film festival', 'Buddhadeb unveils film festival plans', 'Scenes from the Mumbai Film Festival', 'Assamese film selected for Film Fest', 'Wide acclaim for Indian films in US festival', 'Adventure film festival', 'Goa festival in Delhi from Saturday', 'Bangalore to host international film fest']
+[tensor([[0.9970]]), tensor([[0.6695]]), tensor([[0.6555]]), tensor([[0.6539]]), tensor([[0.6509]]), tensor([[0.6371]]), tensor([[0.6359]]), tensor([[0.6314]]), tensor([[0.6309]]), tensor([[0.6269]])]
+
+['Helmets a must from April', 'Helmets made must for cops', 'Wearing of helmets made mandatory', 'Helmets compulsory from Dec. 1', 'Helmets compulsory on two-wheelers from Dec 1', 'Policemen directed to wear helmets', 'Puneites will not be forced to wear helmets', 'Helmets compulsory in city from from March 1; 2003', 'Hell bent on helmet', 'Easy lies the head that wears the helmet but']
+[tensor([[0.9732]]), tensor([[0.6980]]), tensor([[0.6787]]), tensor([[0.6325]]), tensor([[0.5535]]), tensor([[0.5449]]), tensor([[0.5261]]), tensor([[0.5158]]), tensor([[0.4991]]), tensor([[0.4840]])]
+
+['The Page Three Politician', 'The politics of sleaze', 'Political Midases', 'Puratchi Politics', 'Political Wannabes', 'Political Manoeuvres', 'Three steps to clean politics', 'Alliterative Politics', 'Telangana unites political foes', 'See-through Politics']
+[tensor([[1.0000]]), tensor([[0.5933]]), tensor([[0.5851]]), tensor([[0.5741]]), tensor([[0.5706]]), tensor([[0.5594]]), tensor([[0.5529]]), tensor([[0.5376]]), tensor([[0.5120]]), tensor([[0.5031]])]
+
+['Gender equality still a dream in Asian; Pacific countries', 'Satyam Asia to focus on Asia-Pacific markets', 'Aim to achieve gender justice', 'Indo-Pak ties conducive for S Asia peace: China', 'Asia Pacific Enterprise meet tomorrow', 'Asia-Oceania korfball meet', 'Annual Asia-Pacific lecture-tour seminar', 'Asian vote acquires cosmetic gloss again', 'India to be Asia hub for Oriflame', 'Police to be gender-sensitised']
+[tensor([[0.9255]]), tensor([[0.5269]]), tensor([[0.4441]]), tensor([[0.4397]]), tensor([[0.4317]]), tensor([[0.4292]]), tensor([[0.4205]]), tensor([[0.4174]]), tensor([[0.4161]]), tensor([[0.4158]])]
+
+['Hrithik Roshan: Humbling act!', 'Hrithik Roshan: The winning horse!', 'Hrithik Roshan: Old habits die hardly!', 'Aishwarya Rai: Hrithikally yours!', "A 'Close-Up' of Hrithik Roshan", 'Up; Close & Personal: Lleyton Hewitt', 'Up; Close & Personal: Bjorn Borg', 'Kareena Kapoor: Personally Yours!', 'Keerthi Reddy: Crowd puller!', 'Rinkie Khanna: Shafaq next!']
+[tensor([[0.6735]]), tensor([[0.5813]]), tensor([[0.5577]]), tensor([[0.5569]]), tensor([[0.5549]]), tensor([[0.5464]]), tensor([[0.5308]]), tensor([[0.5272]]), tensor([[0.5231]]), tensor([[0.5227]])]
+
+['Canada to let in 235;000 immigrants in 2002', 'Emigration to Canada may be affected', 'Border haven for illegal immigrants', 'Illegal Immigriants', 'Illegal Pak immigrants to be deported', 'Canadian frigate arrives', 'Cong no to refugee status for intruders', 'Border districts start arresting refugees', 'Afghan refugees urge govt to expedite visa process', "State urged to take up 'refugee' issue"]
+[tensor([[0.9024]]), tensor([[0.6855]]), tensor([[0.6017]]), tensor([[0.5476]]), tensor([[0.5320]]), tensor([[0.5279]]), tensor([[0.5200]]), tensor([[0.5135]]), tensor([[0.5122]]), tensor([[0.5104]])]
+
+['Mother Teresa monument near Seattle', 'Mother Teresas healing touch', "Mother Teresa's beatification probe concludes", "Mother Teresa 'cure' speeds her sainthood", "Teresa's birth anniversary celebrated", 'Jyoti Basu receives Mother Teresa award', 'Hunger strike for Chennamma statue', 'US asks Taliban to halt desecration of statues', "Sonia to unveil Rajiv's statue", 'Thiyam gives up Padma Shri in protest']
+[tensor([[0.9825]]), tensor([[0.5863]]), tensor([[0.5683]]), tensor([[0.5532]]), tensor([[0.5067]]), tensor([[0.4899]]), tensor([[0.4512]]), tensor([[0.4496]]), tensor([[0.4480]]), tensor([[0.4361]])]
+
+['Cellphone market abuzz with rising subscriber base', 'Phone users continue to be a harried lot', 'Maniac on a mobile haunts phone users', 'Cellular users miffed over poor service', 'Mobile users sore as Celforce system collapses', 'China to have largest mobile phone market soon', 'Harrowing experience of a phone user', 'Company leaves cell phone users in lurch', 'Cellphone firms aim at the gaming market', 'Billing anomalies irk Gaya phone users']
+[tensor([[0.9028]]), tensor([[0.5866]]), tensor([[0.5749]]), tensor([[0.5670]]), tensor([[0.5258]]), tensor([[0.5239]]), tensor([[0.5065]]), tensor([[0.5008]]), tensor([[0.4889]]), tensor([[0.4853]])]
+
+['Their bamboo music is hard to beat', 'Abhays music unleashed', 'Babus give themselves a bonanza', 'Lord of the bamboo reed', 'BOOMTOWN RAPbrStrings of music', 'BUDDING CHORISTERSbrMusic to the ears', 'Tough year; hard work ahead for babus', "Can't stop the music", 'Talwandi hits Bibi loyalists hard', "Babus won't have it so easy under Modi"]
+[tensor([[1.0000]]), tensor([[0.5127]]), tensor([[0.4955]]), tensor([[0.4628]]), tensor([[0.4357]]), tensor([[0.4315]]), tensor([[0.4225]]), tensor([[0.4177]]), tensor([[0.4174]]), tensor([[0.4148]])]
+
+['Six policemen killed in ambush', 'One killed in Baghpat police firing', 'Naxalites shoot dead 6 policemen in Orissa', 'Arrest of six policemen ordered in Bihar', 'One killed in police firing in Bihar', 'Gangster killed in police encounter', 'Four killed in encounter with police', 'Gangster killed in encounter with police', '6 killed in attack by armed men in Bihar', '5 policemen killed in Andhra blast']
+[tensor([[0.9950]]), tensor([[0.7706]]), tensor([[0.7614]]), tensor([[0.7534]]), tensor([[0.7473]]), tensor([[0.7467]]), tensor([[0.7423]]), tensor([[0.7340]]), tensor([[0.7338]]), tensor([[0.7328]])]
+
+['Police bust UP-based gang of robbers', 'Cops prevent robbery bid', "Policemen's hand in robbery suspected", 'Police probe role of jewellers in robbery', 'Rail police bust gang of thieves', "Police 'patrol' was stealing cars", 'Police foil attempt of freeing criminal', 'Truckers blame police for not nabbing robbers', 'Mysterious criminal gives police the slip', 'Police succeed in checking crime']
+[tensor([[0.8363]]), tensor([[0.7985]]), tensor([[0.7866]]), tensor([[0.7840]]), tensor([[0.7807]]), tensor([[0.7757]]), tensor([[0.7746]]), tensor([[0.7712]]), tensor([[0.7669]]), tensor([[0.7653]])]
+
+['US asks Taliban to halt desecration of statues', 'Taliban appeal to US', 'Taliban refuse to hand over Osama', 'Armitage in despair about Taliban', 'US says Taliban non-indigenous to Afghanistan', 'Jama Masjid opposes US action against Taliban', 'Defiant Taliban call for holy war', 'Pakistan arrests former Taliban envoy', 'US; Taliban ready to go to war', 'Taliban ready for war; hunger stalks Afghans']
+[tensor([[0.9235]]), tensor([[0.7369]]), tensor([[0.6727]]), tensor([[0.6671]]), tensor([[0.6386]]), tensor([[0.6283]]), tensor([[0.6154]]), tensor([[0.6111]]), tensor([[0.5949]]), tensor([[0.5936]])]
+
+['Hotel bill inflated; claim Jharkhand ministers', 'Minister refutes mismanagement charges', 'Minister denies hit-and-run charge', 'Ministers; officials resent sermons', 'Patwaris chargesheeted for favouring minister', 'Guest bills: Minister leads by example', 'Minister flays bureaucracy; opposition', 'Minister denies leak of funds', 'Opposition willing; Govt has its bills', "Minister's plea"]
+[tensor([[0.8234]]), tensor([[0.6323]]), tensor([[0.5947]]), tensor([[0.5732]]), tensor([[0.5651]]), tensor([[0.5582]]), tensor([[0.5582]]), tensor([[0.5495]]), tensor([[0.5480]]), tensor([[0.5477]])]
+
+['Sleazy films storm Bollywood!', 'Bollywood going the Hollywood way!', 'First ever muhurat of a Bollywood movie in Jaipur', 'Bollywood ki Rani!', 'Rambha ho! Bollywood beckons', 'Bollywood offers movie buffs the stars', 'Bollywood inspired by Hollywood', "Bollywood film on 'Palace-on-Wheels'", "Amitabh Bachchan: Don't say 'Bollywood'; say 'Hollywood'!", 'No big Hindi film release on Diwali']
+[tensor([[0.9290]]), tensor([[0.7050]]), tensor([[0.6907]]), tensor([[0.6850]]), tensor([[0.6781]]), tensor([[0.6677]]), tensor([[0.6554]]), tensor([[0.6551]]), tensor([[0.6455]]), tensor([[0.6320]])]
+
+['Sessions judge to probe lock-up death', 'Phoolan murder case committed for sessions trial', 'Court notice to Inspector in murder case', 'Sessions court to hold trial in Phoolan case', 'Court seeks medical reports of murder accused', 'Judge exonerates murder accused', 'Witness identifies Gulshan killer in court', 'Mala fide in investigation of murders alleged', 'Court reserves order on bail of Phoolan murder accused', 'Advocate acquitted in murder case']
+[tensor([[0.9525]]), tensor([[0.7198]]), tensor([[0.7120]]), tensor([[0.6702]]), tensor([[0.6660]]), tensor([[0.6537]]), tensor([[0.6364]]), tensor([[0.6363]]), tensor([[0.6222]]), tensor([[0.6178]])]
+
+['Microsoft launches program for developers', 'IT programme inaugurated', 'Microsoft joins Citrix business alliance programme', 'Software spending is stable; says Microsoft', 'Microsoft launches MSN Explorer in India', 'CM launches MSIT course', 'Microsoft Versus the rest', 'First software for film industry launched', 'Software growth to fall short', 'Sun rises to take on Microsoft in the new environment']
+[tensor([[0.9436]]), tensor([[0.6065]]), tensor([[0.5595]]), tensor([[0.5576]]), tensor([[0.5421]]), tensor([[0.5341]]), tensor([[0.5262]]), tensor([[0.5211]]), tensor([[0.5192]]), tensor([[0.5182]])]
+
+['British forces to begin copter crash investigation', 'US-UK bombing on Afghanistan decried', 'Civil aviation ministry upgrades air crash probe', 'Civil aviation team begins probe', 'IA aircraft makes emergency landing', 'Airbus lost orders due to terror attacks', 'Army orders probe into landmine blast', "UK probing Afghan passengers' flight to London", 'Aircraft makes emergency landing at IGI', 'HC assails delay in getting arrears from UK mission']
+[tensor([[0.8227]]), tensor([[0.6450]]), tensor([[0.6324]]), tensor([[0.6235]]), tensor([[0.6219]]), tensor([[0.6216]]), tensor([[0.6209]]), tensor([[0.6205]]), tensor([[0.6186]]), tensor([[0.5957]])]
+
+['Bomb defused in North Block', 'Man held for bomb hoax at South Block', 'N-bomb lying off the east coast of America', "N Block bomb failed police test: Didn't explode", '4 held for North Block blasts; remanded', 'Bomb defused in Srinagar', 'Bomb explosion in Aizawl', 'Nritya Gopal Das hurt in bomb attack', 'Bomb scare holds city to ransom', 'Explosives seized in Kutch']
+[tensor([[1.0000]]), tensor([[0.6964]]), tensor([[0.6880]]), tensor([[0.6680]]), tensor([[0.6431]]), tensor([[0.6388]]), tensor([[0.6067]]), tensor([[0.5891]]), tensor([[0.5882]]), tensor([[0.5759]])]
+
+['HBO to get into non-movie programmes', 'HC refuses to entertain PIL on television ratings', 'Telefilm shoot inaugurated', 'Get ready for tough AMC budget', 'Film federation ups ante against TV channels', 'Countdown to DVB privatisation begins', 'No Telugu film fit for fest screening', 'Film makers may shun TV artistes', 'Film actors to grace Utsav inaugural', 'Telugu film producers unable to get loans']
+[tensor([[0.9120]]), tensor([[0.4936]]), tensor([[0.4843]]), tensor([[0.4827]]), tensor([[0.4806]]), tensor([[0.4801]]), tensor([[0.4784]]), tensor([[0.4775]]), tensor([[0.4775]]), tensor([[0.4746]])]
+
+['Yoga to the rescue of diabetics', 'Doctors more prone to diabetes', 'GPs can undergo course in diabetes treatment', 'Hope and despair for diabetes patients', 'Diabetes experts now target walkers', 'IMA to organise camp for diabetic patients', 'Run for diabetes awareness tomorrow', 'Yoga returns as US fad in third wave', 'Yoga returns as American fad in third wave', 'Diabetic drugs give pharma cos a new high']
+[tensor([[0.9292]]), tensor([[0.5630]]), tensor([[0.5624]]), tensor([[0.5601]]), tensor([[0.5582]]), tensor([[0.5521]]), tensor([[0.5408]]), tensor([[0.5389]]), tensor([[0.5347]]), tensor([[0.5263]])]
+
+['US slowdown is real and hurting', 'US slowdown takes its toll on Infosys', 'Slowdown in state? Blame it on global recession', 'Fast is damn slow', 'FDI in US comes down drastically', 'Indo-US ties accelerating; says Good', 'US markets crash despite rate cut', 'Slowdown will be shortlived; feel experts', 'Debate on economic slowdown in US', "State's disinvestment of PSUs slows down"]
+[tensor([[0.9666]]), tensor([[0.6311]]), tensor([[0.5800]]), tensor([[0.5686]]), tensor([[0.5364]]), tensor([[0.5287]]), tensor([[0.5249]]), tensor([[0.5248]]), tensor([[0.5204]]), tensor([[0.5196]])]
+
+['GSLV launches India into elite space club', 'India gets ready to enter space club', "GSLV engine trouble sours India's space plans", 'Solid CVRs could propel India into big league', 'India unveils space plane', 'India reinforces itself as space power', 'LSE CEO to vist India', 'India makes it to the elite', 'Indiatimes Clubs bring alumni together', "G&L India staff get Shettar's support"]
+[tensor([[0.9783]]), tensor([[0.7861]]), tensor([[0.6811]]), tensor([[0.6545]]), tensor([[0.6059]]), tensor([[0.5988]]), tensor([[0.5942]]), tensor([[0.5822]]), tensor([[0.5736]]), tensor([[0.5725]])]
+
+['India must tread carefully in brave new biotech world', 'India pioneered in study of bio-informatics', 'World will see a new India: Singhvi', "India's first bio-tech park in Andhra", 'India; EU accord on sci-tech', 'New tanks will give India a significant edge', 'India gearing up to face threat of biological weapons', 'India should retaliate', 'India threatens to walk out of WTO', 'Brave new biotech']
+[tensor([[0.9657]]), tensor([[0.6177]]), tensor([[0.6056]]), tensor([[0.6045]]), tensor([[0.5960]]), tensor([[0.5945]]), tensor([[0.5931]]), tensor([[0.5836]]), tensor([[0.5824]]), tensor([[0.5752]])]
+
+paraphrase-multilingual-MiniLM-L12-v2
+['RTC to ply more buses to suburbs', 'More buses for Dasara', 'Special buses for air show', 'Exclusive lanes for RTC buses likely', 'Clarification sought on inter-state buses', 'Special buses launched', 'RTC hospital buses to cover more areas', 'Night buses in city from December', 'Drive against buses with extra sleepers', 'Occupancy in RTC buses increasing']
+[tensor([[0.6893]]), tensor([[0.6825]]), tensor([[0.6615]]), tensor([[0.6481]]), tensor([[0.6461]]), tensor([[0.6356]]), tensor([[0.6276]]), tensor([[0.6264]]), tensor([[0.6235]]), tensor([[0.6207]])]
+
+['New initiative to promote use of IT in education', 'Tata Infotech Education to enter IT-enabled sector', 'Seminar on infotech from tomorrow', 'Managing education through automation', 'Education system needs changes: CM', 'Make way for the information revolution', 'Project to spread IT education in South Asia', 'Information Technology is a great leveller', 'Industry-specific training for BE students likely', 'BE College IT experts to promote IT education']
+[tensor([[0.5874]]), tensor([[0.5785]]), tensor([[0.5654]]), tensor([[0.5521]]), tensor([[0.5494]]), tensor([[0.5472]]), tensor([[0.5431]]), tensor([[0.5378]]), tensor([[0.5372]]), tensor([[0.5332]])]
+
+['Powerless north India gropes in the dark', 'Major part of Patna plunges into darkness', 'Bylanes grope in darkness', 'Destination India in doldrums', 'A depleted Zimbabwe might stretch India', 'Indians are in grave danger', 'Darkness in Karnataka as power grid trips', 'Indian channels make hay in a dark time', 'Under siege; India Inc gears to face clear and present danger', "Prime target in the shadow of India's New York"]
+[tensor([[0.9201]]), tensor([[0.5720]]), tensor([[0.5628]]), tensor([[0.5625]]), tensor([[0.5588]]), tensor([[0.5519]]), tensor([[0.5517]]), tensor([[0.5442]]), tensor([[0.5428]]), tensor([[0.5416]])]
+
+['Cholera; gastro cases on rise in city', 'After gastro; cholera rears its head', '66 cases of cholera detected last week', 'Cholera threat in Jamnagar suburbs', 'Cholera alert sounded in Chandigarh', 'STRAIGHT ANSWERSbrCommon infections this season', "It's viral fever season; but don't worry", 'Bacteria-infested water supplied to Yerawada', 'Hidden epidemic', "'Mystery Fever' toll rises to 8"]
+[tensor([[0.7452]]), tensor([[0.7174]]), tensor([[0.6988]]), tensor([[0.6616]]), tensor([[0.6345]]), tensor([[0.5325]]), tensor([[0.5240]]), tensor([[0.5181]]), tensor([[0.5174]]), tensor([[0.5086]])]
+
+['Mother kills son; commits suicide', 'Mother; son murdered', 'Mother; child murdered in Andheri', 'Man kills mother; injures brother', 'Mother kills self; son', 'Toxic food kills boy; affects 680 in Assam', 'Boy stabs mother', 'Man kills father after quarrel', 'Daughter confesses to killing ex-MLA; family', "Son ends life after mother's death"]
+[tensor([[0.5319]]), tensor([[0.5156]]), tensor([[0.5092]]), tensor([[0.5069]]), tensor([[0.4779]]), tensor([[0.4701]]), tensor([[0.4651]]), tensor([[0.4523]]), tensor([[0.4517]]), tensor([[0.4512]])]
+
+['Banks asked to increase lending', 'Bank scrips rise on rate cuts', 'UCO Bank revises interest rate on term deposits', 'Banks told to charge interest monthly', 'PNB raises rates', 'Uco Bank revises interest rates on term-deposits', 'Forex earnings through books increased 12 times', 'BoI revises interest rate on deposits', 'Big rise in Fed Bank profit', 'Rural banks show 18 per cent growth']
+[tensor([[0.7368]]), tensor([[0.6534]]), tensor([[0.5778]]), tensor([[0.5742]]), tensor([[0.5700]]), tensor([[0.5622]]), tensor([[0.5618]]), tensor([[0.5617]]), tensor([[0.5550]]), tensor([[0.5480]])]
+
+['India now foodgrain exporter: Shanta', 'Now; imported products need to meet Indian standard', 'Concern over unrestricted flow of Nepalese goods into India', 'Restrict import of unsafe food items; govt. urged', 'Quintessentially Indian curries', 'Irregularities govern Indian rice exports', 'Richer by pounds; thanks to Indian cuisine', 'India bags wheat export order from Malaysia', 'Indian agricultural produce not competitive: Dr Ghanekar', 'Exports of vegetarian foods on the rise']
+[tensor([[0.7334]]), tensor([[0.6735]]), tensor([[0.6628]]), tensor([[0.6364]]), tensor([[0.6246]]), tensor([[0.6130]]), tensor([[0.6071]]), tensor([[0.5953]]), tensor([[0.5906]]), tensor([[0.5864]])]
+
+['Blood Donation Day', "Workshop on 'Safe Blood Donation'", 'Blood donation no more safe in hospitals', 'NCC cadets donate blood', 'List of blood donors compiled', 'HC open to direct blood donation', 'Voluntary blood donors to participate in cycle rally', 'Rally organised to mark blood donation day', 'Blood shortage in Belgaum: Camps planned', 'Database of blood donors in Pimpri; Chinchwad']
+[tensor([[0.6994]]), tensor([[0.6875]]), tensor([[0.6648]]), tensor([[0.6427]]), tensor([[0.6287]]), tensor([[0.6132]]), tensor([[0.5996]]), tensor([[0.5877]]), tensor([[0.5525]]), tensor([[0.5507]])]
+
+['Police chief to shift office', 'Four govt offices to shift', 'Principals asked to increase computer students', 'Choosing a computer', 'Principal secretaries reshuffled', 'BHS; GHS to have new principal by Dec', 'Computer education in 5;000 schools; 42 colleges', 'Education system needs changes: CM', 'J and K govt to switch to e-governance', 'DMs; SDOs shifted']
+[tensor([[0.5372]]), tensor([[0.5163]]), tensor([[0.5082]]), tensor([[0.4820]]), tensor([[0.4802]]), tensor([[0.4591]]), tensor([[0.4544]]), tensor([[0.4438]]), tensor([[0.4431]]), tensor([[0.4430]])]
+
+['Labour of Law', "Other side of 'ideal' labour law", 'Rectify archaic labour laws: Fernandes', 'Trade union against changes to labour laws', 'Drastic changes proposed in labour laws', 'SCOPE lauds labour order', "Maharashtra's new labour laws get Centre's nod", 'FIEO suggests flexbility in labour laws', 'Globalisation should cover labour too: V-C', "Labour takes on Britain's trade union biggies"]
+[tensor([[0.9609]]), tensor([[0.8590]]), tensor([[0.7751]]), tensor([[0.7056]]), tensor([[0.6859]]), tensor([[0.6532]]), tensor([[0.6311]]), tensor([[0.6298]]), tensor([[0.6250]]), tensor([[0.6162]])]
+
+['Ministers under threat', 'Insecurity grips senior ministers in state', 'When ministers shoot their mouths off', 'Tough tasks await ministers', 'And the ministers just quibble', 'Minister shielding culprits: SP leader', 'Ministers are double-faced; say anti-pipeline activists', 'Allegations against power minister', 'Hike in ministers perk opposed', "Yes Minister: It's a tough job to be minister"]
+[tensor([[0.9255]]), tensor([[0.7199]]), tensor([[0.6911]]), tensor([[0.6718]]), tensor([[0.6708]]), tensor([[0.6677]]), tensor([[0.6605]]), tensor([[0.6526]]), tensor([[0.6337]]), tensor([[0.6334]])]
+
+['Illegal arms flood Delhi', 'Shootout accused brought to Delhi', 'Terror attacks: How safe is Delhi?', 'From dreadful to decongested Delhi', 'Major fire in Central Delhi', 'Delhi is talking about', 'Court fines Delhi Police', 'Crime rate dips; but is Delhi safe?', 'Delhi Police hauled up', "Delhi's Arms Bazaar"]
+[tensor([[0.8649]]), tensor([[0.6034]]), tensor([[0.6008]]), tensor([[0.5817]]), tensor([[0.5808]]), tensor([[0.5767]]), tensor([[0.5728]]), tensor([[0.5630]]), tensor([[0.5611]]), tensor([[0.5602]])]
+
+['PM appeals for help', 'PM concerned over meagre utilisation of Central aid', 'PM assures central assistance to AP', 'PM assures Sikkim central help', "Govt's intervention sought in institute's appointment matter", 'Mayors to petition PM', 'Assam CM seeks help from bankers', 'Mayor asks for funds', 'PMT seeks grants for Diwali bonanza', 'Naidu to meet PM for liberal central assistance']
+[tensor([[0.7969]]), tensor([[0.7147]]), tensor([[0.6325]]), tensor([[0.6111]]), tensor([[0.5696]]), tensor([[0.5575]]), tensor([[0.5557]]), tensor([[0.5529]]), tensor([[0.5460]]), tensor([[0.5436]])]
+
+['Trekking the learning curve', 'A seat of advanced learning', 'The Lotus of Learning', 'Unlearnt Lessons', 'Education on the downslide', 'Learn & Earn', "'Score plus' self-learning", 'Valuable Lessons', 'Restoring signs of learning', 'THE COUNSELLORbrDistance Learning']
+[tensor([[0.9407]]), tensor([[0.7317]]), tensor([[0.7026]]), tensor([[0.6762]]), tensor([[0.6127]]), tensor([[0.5974]]), tensor([[0.5961]]), tensor([[0.5961]]), tensor([[0.5954]]), tensor([[0.5935]])]
+
+['Hospitals are far from equipped', 'Mental hospitals lack facilities', 'Mental hospital lacks basic amenities', 'Hospital lacked equipment for resuscitation', 'No fire-fighting equipment; hospitals woefully short of beds', 'Lack of hi-tech hospitals ails thriving industrial belt', 'Hospital in need of buildings', 'A hospital sans patients', 'V S Hospital itself ailing', 'Hospital in state of preparedness']
+[tensor([[0.7797]]), tensor([[0.7204]]), tensor([[0.7144]]), tensor([[0.6922]]), tensor([[0.6868]]), tensor([[0.6225]]), tensor([[0.6203]]), tensor([[0.6199]]), tensor([[0.6146]]), tensor([[0.6142]])]
+
+['Christians protest over inaction', 'Christian gathering disrupted', 'Christians seek political destiny', 'Controversy over conversion to Christianity', 'Christians open to cremations; but most not willing to opt for it', 'Among the believers', 'Rally to press for rights for Christians', 'Secularism covers too many sins', "Christians' plea against bill on conversions", 'Christians march to press demands']
+[tensor([[0.8917]]), tensor([[0.6179]]), tensor([[0.5956]]), tensor([[0.5768]]), tensor([[0.5506]]), tensor([[0.5490]]), tensor([[0.5436]]), tensor([[0.5373]]), tensor([[0.5336]]), tensor([[0.5292]])]
+
+['Delhi hosts festival of short films', "City permanent venue for children's film festival", 'Rare international films in Mumbai fest', 'Film fest on V Shantaram in city next year', 'Delhi turns to greener pastures; will host eco-film fest in Feb.', 'Film fest stays low on glamour', 'Bangalore to host international film fest', 'Delhi to house media city', 'Festival of Asian films next year', 'Panorama films to be shown at Kolkata; Mumbai festivals']
+[tensor([[0.9865]]), tensor([[0.5826]]), tensor([[0.5816]]), tensor([[0.5806]]), tensor([[0.5776]]), tensor([[0.5740]]), tensor([[0.5696]]), tensor([[0.5607]]), tensor([[0.5477]]), tensor([[0.5382]])]
+
+['Helmets a must from April', 'Helmets compulsory from Dec. 1', 'Helmets compulsory in city from from March 1; 2003', 'Wearing of helmets made mandatory', 'Helmets compulsory on two-wheelers from Dec 1', 'Helmets made must for cops', 'Plan to implement helmet rule mooted', 'RTO to ensure easy availability of helmets', 'Order on helmets kept under abeyance', 'Consumer body against helmets']
+[tensor([[0.9481]]), tensor([[0.8060]]), tensor([[0.7693]]), tensor([[0.7681]]), tensor([[0.7472]]), tensor([[0.7168]]), tensor([[0.6369]]), tensor([[0.6213]]), tensor([[0.6118]]), tensor([[0.6063]])]
+
+['The Page Three Politician', 'POLITICALLY INCORRECTbrSHOBHA DE', 'Political Manoeuvres', 'See-through Politics', "Editor's Notebook: Protest Politics", 'Political Fashions', 'Three steps to clean politics', 'Politician among 4 held for dacoity', 'Political Wannabes', 'Suave; articulate face of the Congress']
+[tensor([[1.]]), tensor([[0.6763]]), tensor([[0.6667]]), tensor([[0.6662]]), tensor([[0.6604]]), tensor([[0.6547]]), tensor([[0.6488]]), tensor([[0.6337]]), tensor([[0.6292]]), tensor([[0.6270]])]
+
+['Gender equality still a dream in Asian; Pacific countries', 'Aim to achieve gender justice', 'Society holds the key to gender equality: SC judge', 'What Women Want', 'Globalisation a threat to working women', 'For women; Northern Alliance no better', 'A gender in jeopardy', 'Study highlights gender bias', 'Facets of womanhood discussed at Prakriti', 'Fiercely independent and 200 per cent woman']
+[tensor([[0.9760]]), tensor([[0.6500]]), tensor([[0.6072]]), tensor([[0.5953]]), tensor([[0.5894]]), tensor([[0.5797]]), tensor([[0.5757]]), tensor([[0.5727]]), tensor([[0.5675]]), tensor([[0.5526]])]
+
+["A 'Close-Up' of Hrithik Roshan", 'Hrithik Roshan: Humbling act!', 'Hrithik Roshan speaking', 'Hrithik Roshan: The risk for glory', 'From Aamir- Shah Rukh to Hrithik-Abhishek', 'Akshay Kumar: Up close and persomal', 'Akashdeep: Ghaath Ka Saath!', 'Hrithik: Doing an Amitabh!', 'Javed Akhtar: A man of his word', 'Chandrachur Singh: Handy man!']
+[tensor([[0.8732]]), tensor([[0.7756]]), tensor([[0.7414]]), tensor([[0.7205]]), tensor([[0.6907]]), tensor([[0.6862]]), tensor([[0.6683]]), tensor([[0.6623]]), tensor([[0.6585]]), tensor([[0.6565]])]
+
+['Canada to let in 235;000 immigrants in 2002', 'Emigration to Canada may be affected', 'Illegal Pak immigrants to be deported', 'India offers visas to Pakistanis at the border', 'Canada Calling', 'Reply to Canadian query', "'Think Canada' to boost cultural exchange", 'Pak asks civilians to evacuate border', '24 Pakistani nationals repatriated', 'Pakistan moving civilians out along Punjab border']
+[tensor([[0.8628]]), tensor([[0.6721]]), tensor([[0.5794]]), tensor([[0.5194]]), tensor([[0.5054]]), tensor([[0.5023]]), tensor([[0.4886]]), tensor([[0.4667]]), tensor([[0.4633]]), tensor([[0.4615]])]
+
+['Mother Teresa monument near Seattle', 'Monument as a milestone', 'Devotees throng Mt Mary church to offer prayers', "Mother Teresa 'cure' speeds her sainthood", "Mother's Land", 'Mother Teresas healing touch', 'A memorial that was not there', 'Shrines everywhere', 'Unique museum on the banks of Dal Lake soon', 'Feast of Mary Immaculate Conception celebrated']
+[tensor([[0.9442]]), tensor([[0.4992]]), tensor([[0.4789]]), tensor([[0.4787]]), tensor([[0.4747]]), tensor([[0.4699]]), tensor([[0.4685]]), tensor([[0.4609]]), tensor([[0.4570]]), tensor([[0.4556]])]
+
+['Cellphone market abuzz with rising subscriber base', 'Increase in telephone traffic during day time', 'People make beeline at phone booths', 'A huge growth opportunity for mobile telephony', 'Phone users continue to be a harried lot', 'Telephones on demand at last', 'Cellphone firms go all out to woo customers', 'New Year bonanza for telephone users', 'Network Solutions has a blast in call centre market', '17.5 crore phone connections in India by 2010']
+[tensor([[0.9467]]), tensor([[0.6619]]), tensor([[0.6468]]), tensor([[0.6453]]), tensor([[0.6286]]), tensor([[0.6139]]), tensor([[0.5905]]), tensor([[0.5887]]), tensor([[0.5827]]), tensor([[0.5755]])]
+
+['Their bamboo music is hard to beat', "Mumbai's Gujarati plays strike a chord with Barodians", "Susheela Raman's fusion music confuses many", 'Gamang does his bit for tribal music', 'As Paswan goes packing; TAC members face the music', 'Kannada music to your doorstep', 'Portuguese songs take Goans down melody lane', 'Lord of the bamboo reed', 'Soli SorabjeebrJudicial independence musicians dress codes', "Can't stop the music"]
+[tensor([[1.0000]]), tensor([[0.5870]]), tensor([[0.5762]]), tensor([[0.5734]]), tensor([[0.5622]]), tensor([[0.5559]]), tensor([[0.5559]]), tensor([[0.5553]]), tensor([[0.5488]]), tensor([[0.5227]])]
+
+['Six policemen killed in ambush', '6 policemen sacked', 'Naxalites shoot dead 6 policemen in Orissa', 'Militants kill 7 policemen in Jammu', '7 policemen booked for custody death', 'Six policemen injured in brickbatting', 'Militants kill 7 policemen in J&K', '7 policemen killed in car-rail engine collision', 'Four killed in encounter with police', '11 policemen suspended']
+[tensor([[0.9765]]), tensor([[0.7058]]), tensor([[0.6593]]), tensor([[0.6531]]), tensor([[0.6474]]), tensor([[0.6296]]), tensor([[0.6250]]), tensor([[0.6224]]), tensor([[0.6019]]), tensor([[0.5941]])]
+
+['Police bust UP-based gang of robbers', 'Gang of robbers busted', 'Cops prevent robbery bid', 'Gang of thieves busted; three arrested', 'Gang of thieves nabbed', "Abducted persons' families run shy of police", 'Robbers held', 'Caution against robber gang', 'Police crack kidnapping case', 'Rail police bust gang of thieves']
+[tensor([[0.6805]]), tensor([[0.6105]]), tensor([[0.5910]]), tensor([[0.5860]]), tensor([[0.5845]]), tensor([[0.5660]]), tensor([[0.5528]]), tensor([[0.5499]]), tensor([[0.5428]]), tensor([[0.5383]])]
+
+['US asks Taliban to halt desecration of statues', "UNESCO to 'engage' Taliban to protect remaining relics", 'USA urged to destroy terrorist strongholds', 'Taliban appeal to US', 'Call to preserve carvings on monuments', 'US says Taliban non-indigenous to Afghanistan', 'US proposes; Pak disposes', 'Pak tells US to talk to Taliban directly', 'Call to check Taliban infiltration', 'No long-term impact of US-Taliban face off']
+[tensor([[0.9040]]), tensor([[0.6098]]), tensor([[0.5441]]), tensor([[0.5217]]), tensor([[0.5090]]), tensor([[0.4896]]), tensor([[0.4789]]), tensor([[0.4770]]), tensor([[0.4682]]), tensor([[0.4665]])]
+
+['Hotel bill inflated; claim Jharkhand ministers', 'Debate on tax and hotel industry', 'Heavy demand for hotel room where PM stayed', 'Guest bills: Minister leads by example', 'Govt collects Rs 1;703 lakh tax from hotels', 'Cancellations plague Hill hoteliers', 'End of an era for Victoria Hotel', "Live-band hotels thrive at govt's cost", 'Hotel industry suffers setback', 'Show cause to hotel for vice trade']
+[tensor([[0.9557]]), tensor([[0.6065]]), tensor([[0.5590]]), tensor([[0.5274]]), tensor([[0.4825]]), tensor([[0.4668]]), tensor([[0.4642]]), tensor([[0.4600]]), tensor([[0.4536]]), tensor([[0.4534]])]
+
+['Sleazy films storm Bollywood!', 'Bollywood: More trouble!', 'Bollywood: Book Mania!', 'Bollywood fears don who gets everything wrong', 'Bollywood going the Hollywood way!', "What's Bollywood been up to this year?", 'Bollywood inspired by Hollywood', 'The year for Bollywood', 'Hindi filmdom offers movie-buffs the stars', 'Why Indian films flop at the Oscars: Benegal']
+[tensor([[0.8605]]), tensor([[0.7506]]), tensor([[0.7021]]), tensor([[0.6892]]), tensor([[0.6689]]), tensor([[0.6668]]), tensor([[0.6622]]), tensor([[0.6559]]), tensor([[0.6545]]), tensor([[0.6544]])]
+
+['Sessions judge to probe lock-up death', "Judge inspects scene of Gulshan Kumar's murder", 'CM orders probe into firing death', 'Phoolan murder case committed for sessions trial', 'Judicial probe ordered into Thumba firing', "Probe ordered into Gulshan murder witness's death", 'Mala fide in investigation of murders alleged', 'Probe ordered into Vizag custody death', 'Court notice to Inspector in murder case', 'Verdict in high-profile murder trial on Friday']
+[tensor([[0.9142]]), tensor([[0.6039]]), tensor([[0.6005]]), tensor([[0.5659]]), tensor([[0.5565]]), tensor([[0.5445]]), tensor([[0.5381]]), tensor([[0.5351]]), tensor([[0.5303]]), tensor([[0.5284]])]
+
+['Microsoft launches program for developers', 'First software for film industry launched', 'Microsoft launches MSN Explorer in India', 'Software industry-institute interface initiated', 'IT programme inaugurated', 'Sun rises to take on Microsoft in the new environment', "Microsoft India's Q1 business on track", 'Office XP with Indian language support launched', 'Microsoft joins Citrix business alliance programme', 'Minister launches tree planting programme']
+[tensor([[0.9678]]), tensor([[0.5993]]), tensor([[0.5825]]), tensor([[0.5356]]), tensor([[0.5286]]), tensor([[0.4927]]), tensor([[0.4756]]), tensor([[0.4664]]), tensor([[0.4659]]), tensor([[0.4596]])]
+
+['British forces to begin copter crash investigation', 'Team of air safety wing begins probe', 'Civil aviation team begins probe', 'Central team to probe ordnance factory blast', 'Civil aviation ministry upgrades air crash probe', 'Army orders probe into landmine blast', 'Advanced Light Helicopter to fly next year', "'Dhanus' missile flight tested", "RAF deployed at Tolly's Nullah", 'RAF to dash to aid of accident victims']
+[tensor([[0.6953]]), tensor([[0.6786]]), tensor([[0.6254]]), tensor([[0.5372]]), tensor([[0.5251]]), tensor([[0.5151]]), tensor([[0.5076]]), tensor([[0.4841]]), tensor([[0.4753]]), tensor([[0.4725]])]
+
+['Bomb defused in North Block', 'N-bomb lying off the east coast of America', 'Bomb defused in Srinagar', 'Serial bomb blasts near international border', "N Block bomb failed police test: Didn't explode", 'Explosive Expose', '4 held for North Block blasts; remanded', 'We can build N-bombs; why not safe houses?', 'Hoax bomb threat in Delhi', 'Bomb explosion in Aizawl']
+[tensor([[1.0000]]), tensor([[0.7043]]), tensor([[0.6472]]), tensor([[0.6323]]), tensor([[0.5901]]), tensor([[0.5721]]), tensor([[0.5718]]), tensor([[0.5644]]), tensor([[0.5643]]), tensor([[0.5625]])]
+
+['HBO to get into non-movie programmes', 'Film festival to kick off from Nov 10', 'Who wants serials? Viewers hook onto CNN; BBC', 'FM news channels to debut in Sept', 'Primetime TV gets more interactive', 'Interactive TV will be a reality this year', "Sony to telecast Smita Thackeray's first TV serial", 'Film federation ups ante against TV channels', 'Gujarat govt to provide TV sets to MLAs', 'Want to stage a play? No theatre? No problem']
+[tensor([[0.8773]]), tensor([[0.4626]]), tensor([[0.4590]]), tensor([[0.4513]]), tensor([[0.4482]]), tensor([[0.4464]]), tensor([[0.4434]]), tensor([[0.4422]]), tensor([[0.4311]]), tensor([[0.4289]])]
+
+['Yoga to the rescue of diabetics', 'Of yoga & an official exercise in utility', 'THE SPEAKING TREEbrRaja Yoga Revives Spiritual Links', 'City Briefs: Yoga workshop', 'SACRED SPACEbrPower of Yoga', 'Yoga at Navodaya Vidyalayas soon: Joshi', 'Ayurveda; yoga can heal tourism industry', 'To control diabetes; walk; reduce weight', 'Yoga returns as American fad in third wave', 'Yoga & the science of Bharat Thakur']
+[tensor([[0.9505]]), tensor([[0.6334]]), tensor([[0.6272]]), tensor([[0.6073]]), tensor([[0.6062]]), tensor([[0.5923]]), tensor([[0.5774]]), tensor([[0.5478]]), tensor([[0.5166]]), tensor([[0.5095]])]
+
+['US slowdown is real and hurting', 'Debate on economic slowdown in US', 'Slowdown stress is hitting their backs', 'US slowdown takes its toll on Infosys', 'Slowdown will be shortlived; feel experts', 'TODAYS EDITORIALSbrSynchronised Slowdown', 'Slowdown Advantage', 'Fast is damn slow', 'Steps to tackle slowdown being taken:FM', 'Govt gears up to fight slowdown']
+[tensor([[0.9016]]), tensor([[0.7108]]), tensor([[0.6654]]), tensor([[0.6608]]), tensor([[0.6370]]), tensor([[0.6190]]), tensor([[0.5807]]), tensor([[0.5702]]), tensor([[0.5583]]), tensor([[0.5460]])]
+
+['GSLV launches India into elite space club', 'India gets ready to enter space club', "GSLV engine trouble sours India's space plans", 'India unveils space plane', 'India reinforces itself as space power', 'Launch pad for GSLVs this year', 'Indian auto makers should form global JVs', 'India eyes lucrative satellite launch market', 'India makes it to the elite', 'GSVM College stir enters ninth day']
+[tensor([[0.9317]]), tensor([[0.6467]]), tensor([[0.6452]]), tensor([[0.5456]]), tensor([[0.5292]]), tensor([[0.4627]]), tensor([[0.4340]]), tensor([[0.4199]]), tensor([[0.4175]]), tensor([[0.4127]])]
+
+['India must tread carefully in brave new biotech world', 'India pioneered in study of bio-informatics', 'India gearing up to face threat of biological weapons', 'India Inc must be focused: Murthy', "India's first bio-tech park in Andhra", 'Haryana plans biotech policy', 'Maharashtra should tread cautiously on Bt cotton: Environmentalist', 'India may get a foothold', 'India opts for Frankenfoods; while world desists', 'Under siege; India Inc gears to face clear and present danger']
+[tensor([[0.9592]]), tensor([[0.6707]]), tensor([[0.6430]]), tensor([[0.6391]]), tensor([[0.5947]]), tensor([[0.5803]]), tensor([[0.5755]]), tensor([[0.5728]]), tensor([[0.5716]]), tensor([[0.5710]])]
+
+msmarco-distilbert-dot-v5
+['Park your car; ride a bus for shopping', 'Special buses launched', 'Railway misses tourist bus', 'Traffic lights', 'Special buses for air show', 'Ashok Leyland to launch luxury bus', 'City buses on all main roads in Belgaum soon', 'Bus for senior citizens in Mysore', 'Steps to boost tourism discussed', 'Kerala hikes bus fares']
+[tensor([[0.8221]]), tensor([[0.8095]]), tensor([[0.8058]]), tensor([[0.8013]]), tensor([[0.8000]]), tensor([[0.8000]]), tensor([[0.7997]]), tensor([[0.7975]]), tensor([[0.7957]]), tensor([[0.7950]])]
+
+['Changes must for science; technology', 'Tata Infotech Education to enter IT-enabled sector', 'IT training firms need new lessons in education', 'Schools will finally get new syllabus', 'PG course in bio-informatics set to begin', 'Consumer rights curricula for schools; colleges', 'Distance education through Techsat catching up', 'Educating people is crucial', 'Education needs to be liberalised: Murthy', 'New course in leather technology']
+[tensor([[0.8366]]), tensor([[0.8281]]), tensor([[0.8273]]), tensor([[0.8139]]), tensor([[0.8125]]), tensor([[0.8123]]), tensor([[0.8117]]), tensor([[0.8089]]), tensor([[0.8086]]), tensor([[0.8051]])]
+
+['Powerless north India gropes in the dark', 'Bylanes grope in darkness', 'Groping in the dark', 'Police grope in dark on Burman abduction', 'Foggy weather affects power supply in North India', "India's influence in Mongolia waning: Analysts", "Weak monsoon dampens farmers' spirit", "It's a weak monsoon for Bangalore so far", 'Evidence against Telhelka weak : Delhi Police', "India's Lost Symbol"]
+[tensor([[0.9365]]), tensor([[0.8242]]), tensor([[0.8147]]), tensor([[0.8104]]), tensor([[0.8067]]), tensor([[0.7994]]), tensor([[0.7980]]), tensor([[0.7979]]), tensor([[0.7960]]), tensor([[0.7916]])]
+
+['61 killed in malaria outbreak', 'Mosquitoes to check malaria', 'Cholera; gastro cases on rise in city', '66 cases of cholera detected last week', 'A tragedy', 'Panic after fresh outbreak in polio cases', 'Where is Bin Laden?', 'In the Beginning', 'Starting Young', 'Starting young']
+[tensor([[0.8436]]), tensor([[0.8236]]), tensor([[0.8219]]), tensor([[0.8211]]), tensor([[0.8201]]), tensor([[0.8193]]), tensor([[0.8181]]), tensor([[0.8173]]), tensor([[0.8151]]), tensor([[0.8151]])]
+
+['Mother; son murdered', 'Mother kills self; son', 'Mother kills son; commits suicide', 'Man kills father after quarrel', 'Boy stabs mother', 'Man kills mother; injures brother', 'Schoolboy shot in warning over Indian support to US', "Girl's protest leads to father's death", 'Father; son held for cheating; molesting girl', 'Man held for killing father']
+[tensor([[0.8471]]), tensor([[0.8463]]), tensor([[0.8423]]), tensor([[0.8251]]), tensor([[0.8192]]), tensor([[0.8177]]), tensor([[0.8154]]), tensor([[0.8144]]), tensor([[0.8127]]), tensor([[0.8103]])]
+
+['Reserve Bank cuts repo rate to 7.5%', 'Bank scrips rise on rate cuts', 'National Housing Bank cuts rate', 'Water rates for SSIs slashed', 'Regular cut in rate of bank deposits interest opposed', 'Uco Bank revises interest rates on term-deposits', 'Inflation rate dips further to 2.4%', 'UCO Bank revises interest rate on term deposits', 'Stamp duty rates revised', 'RBI cuts bank rate; CRR']
+[tensor([[0.8116]]), tensor([[0.8109]]), tensor([[0.8109]]), tensor([[0.8043]]), tensor([[0.8004]]), tensor([[0.7948]]), tensor([[0.7932]]), tensor([[0.7924]]), tensor([[0.7904]]), tensor([[0.7869]])]
+
+['Now; imported products need to meet Indian standard', 'Indian tea exports hit by Iran ban', 'Drug trade in India on a new high', 'Bush eats Mexican; India hogs headlines', 'Nothing wrong with Indian diet', 'Volkswagen to foray into Indian market', 'South Indian food festival', 'Beef eating in ancient India: Debatable say Kashi pundits', 'India now foodgrain exporter: Shanta', "Hungry Afghans showered with 'foreign' food"]
+[tensor([[0.8289]]), tensor([[0.8247]]), tensor([[0.8123]]), tensor([[0.8109]]), tensor([[0.8102]]), tensor([[0.8100]]), tensor([[0.8098]]), tensor([[0.8095]]), tensor([[0.8081]]), tensor([[0.8053]])]
+
+['Blood Donation Day', 'Murder at NCC camp', 'Legal camp held at central jail', 'NCC cadets donate blood', '4 killed in suicide attack on Army camp', 'Death penalty for carrying explosives', "LTTE plan retaliation to avenge leader's killing", 'Prisoner commits suicide', 'Sikh militant sentenced to death', 'Pulse Polio camps held']
+[tensor([[0.7845]]), tensor([[0.7777]]), tensor([[0.7713]]), tensor([[0.7706]]), tensor([[0.7698]]), tensor([[0.7676]]), tensor([[0.7671]]), tensor([[0.7668]]), tensor([[0.7667]]), tensor([[0.7665]])]
+
+['Police chief to shift office', 'Telephone exchange shifted', 'Phone numbers shifted', 'Railway track in Vijayawada to be shifted', 'DMs; SDOs shifted', 'Vigilance dept DG shifted', 'Arjun Rao to be shifted from health dept', 'Computer course', 'Move to change population base-year opposed', 'Punjab Govt to shift 8 IAS officials']
+[tensor([[0.7750]]), tensor([[0.7706]]), tensor([[0.7689]]), tensor([[0.7684]]), tensor([[0.7667]]), tensor([[0.7653]]), tensor([[0.7642]]), tensor([[0.7642]]), tensor([[0.7625]]), tensor([[0.7613]])]
+
+['Labour of Law', 'Law and Ethics', 'What the law says', 'Trade union against changes to labour laws', 'Rights & laws', 'Law and Disorder', 'SC ruling on contract labour', "Other side of 'ideal' labour law", 'Rule of law is important but', 'Green Laws']
+[tensor([[0.9644]]), tensor([[0.8896]]), tensor([[0.8732]]), tensor([[0.8696]]), tensor([[0.8641]]), tensor([[0.8591]]), tensor([[0.8555]]), tensor([[0.8506]]), tensor([[0.8475]]), tensor([[0.8465]])]
+
+['Ministers under threat', "Minister's plea", 'Allegations against power minister', "Ministers ignore chief minister's plea", 'Minister warns officials against negligence', 'Ministers; officials resent sermons', 'UP in deep financial crisis: Minister', "Minister's visit", "Minister's bodyguards accused in murder case", 'Tough tasks await ministers']
+[tensor([[0.9329]]), tensor([[0.8327]]), tensor([[0.8303]]), tensor([[0.8286]]), tensor([[0.8240]]), tensor([[0.8219]]), tensor([[0.8209]]), tensor([[0.8188]]), tensor([[0.8180]]), tensor([[0.8166]])]
+
+['Illegal arms flood Delhi', 'Terror attacks: How safe is Delhi?', 'Five killed in fire in East Delhi', 'Coca-Cola director assaulted in Delhi', 'Hoax bomb threat in Delhi', 'Osama threat on Delhi a prank', 'Police nab two Hizb militants in Delhi', 'Bomb scare in Delhi High Court', 'Illegal firearms being sold in city', 'Major fire in Central Delhi']
+[tensor([[0.9336]]), tensor([[0.8271]]), tensor([[0.8261]]), tensor([[0.8238]]), tensor([[0.8216]]), tensor([[0.8203]]), tensor([[0.8191]]), tensor([[0.8190]]), tensor([[0.8188]]), tensor([[0.8188]])]
+
+['PM appeals for help', 'PM assures central assistance to AP', 'PM asks scientists to help fight terrorism', 'PM talks to President about attack', 'PCO owners seek assistance', "BPCC seeks PM's resignation", 'Salutes to the PM', "PM accepts Bush's invitation", 'PM announces relief for the flood-affected', 'Naidu to meet PM for liberal central assistance']
+[tensor([[0.8947]]), tensor([[0.8613]]), tensor([[0.8415]]), tensor([[0.8343]]), tensor([[0.8315]]), tensor([[0.8301]]), tensor([[0.8280]]), tensor([[0.8269]]), tensor([[0.8239]]), tensor([[0.8207]])]
+
+['Trekking the learning curve', 'The Lotus of Learning', 'Learning to Grow', 'Learning art', 'Learning of Hindi', 'LEARNING CURVEbrVarsity will review internal assessment scheme', 'Learning for fun', 'Lessons in learning; saffron style', 'Learning can be fun!', 'Students learn a lesson; skip coaching classes']
+[tensor([[0.9163]]), tensor([[0.8516]]), tensor([[0.8423]]), tensor([[0.8398]]), tensor([[0.8396]]), tensor([[0.8390]]), tensor([[0.8355]]), tensor([[0.8201]]), tensor([[0.8165]]), tensor([[0.8163]])]
+
+['Hospitals are far from equipped', 'Mental hospitals lack facilities', "CATS says hospitals don't care", 'Hospital in need of buildings', 'CT scans for hospitals still not in sight', 'No fire-fighting equipment; hospitals woefully short of beds', 'Post offices; hospitals not ready for anthrax threat', 'City not equipped to deal with cancer', 'All hospitals are fire traps except one', 'Mental hospital lacks basic amenities']
+[tensor([[0.9234]]), tensor([[0.8322]]), tensor([[0.8267]]), tensor([[0.8240]]), tensor([[0.8201]]), tensor([[0.8124]]), tensor([[0.8047]]), tensor([[0.8028]]), tensor([[0.8002]]), tensor([[0.7954]])]
+
+['Christians protest over inaction', 'Controversy over conversion to Christianity', "Christians' plea against bill on conversions", 'Protest against police inaction', 'Christians decry saffronisation', 'Attack on Christians in Gujarat alleged', 'Christians condemn killings in Pakistan', 'Christians seek political destiny', 'Morcha poll pact with Christians', "Minister Ramai Ram's revolt fizzles out"]
+[tensor([[0.9098]]), tensor([[0.8234]]), tensor([[0.8074]]), tensor([[0.8028]]), tensor([[0.7971]]), tensor([[0.7912]]), tensor([[0.7851]]), tensor([[0.7816]]), tensor([[0.7758]]), tensor([[0.7752]])]
+
+['Delhi hosts festival of short films', 'Mumbai film festival offers impressive line-up', 'Bangalore to host international film fest', 'Quality Indian films enter film fest', 'Assamese film selected for Film Fest', 'Adventure film festival', 'Delhi turns to greener pastures; will host eco-film fest in Feb.', 'Panorama films to be shown at Kolkata; Mumbai festivals', 'Israeli film fest opens', "Children's Film Fest attracts wide variety of films"]
+[tensor([[0.9931]]), tensor([[0.8569]]), tensor([[0.8514]]), tensor([[0.8438]]), tensor([[0.8402]]), tensor([[0.8365]]), tensor([[0.8339]]), tensor([[0.8326]]), tensor([[0.8296]]), tensor([[0.8294]])]
+
+['Helmets a must from April', 'Helmets compulsory from Dec. 1', 'Wearing of helmets made mandatory', 'VAT gets set for April kickoff', 'Helmets compulsory on two-wheelers from Dec 1', 'Helmets compulsory in city from from March 1; 2003', 'Simplified VAT from next April', 'Helmets made must for cops', 'Policemen directed to wear helmets', 'Puneites will not be forced to wear helmets']
+[tensor([[0.9681]]), tensor([[0.8445]]), tensor([[0.8410]]), tensor([[0.8380]]), tensor([[0.8373]]), tensor([[0.8243]]), tensor([[0.8142]]), tensor([[0.8141]]), tensor([[0.8099]]), tensor([[0.8048]])]
+
+['The Page Three Politician', 'The power of three', 'Hunt for three MLAs', 'Life term for three', 'For socialite realism; turn to Page 3', 'PM leaves on three-nation tour', 'Death on three wheels', 'Three steps to clean politics', "'Common man' joins politics", 'Punish politicians']
+[tensor([[1.0000]]), tensor([[0.8165]]), tensor([[0.7956]]), tensor([[0.7894]]), tensor([[0.7819]]), tensor([[0.7765]]), tensor([[0.7762]]), tensor([[0.7640]]), tensor([[0.7626]]), tensor([[0.7576]])]
+
+['Gender equality still a dream in Asian; Pacific countries', 'Aim to achieve gender justice', 'Asia Pacific Enterprise meet tomorrow', "Celebrating women's empowerment", 'Respect rights of gays; lesbians: NGOs', 'Seminar on gender and law', 'Society holds the key to gender equality: SC judge', 'A gender in jeopardy', 'Satyam Asia to focus on Asia-Pacific markets', 'Call to solve coconut woes at Asian meet']
+[tensor([[0.9621]]), tensor([[0.8265]]), tensor([[0.8252]]), tensor([[0.8154]]), tensor([[0.8103]]), tensor([[0.8099]]), tensor([[0.8070]]), tensor([[0.8049]]), tensor([[0.7984]]), tensor([[0.7971]])]
+
+["A 'Close-Up' of Hrithik Roshan", 'Hrithik Roshan speaking', 'Up close and personal on www', 'Up; Close & Personal: Bjorn Borg', 'Hrithik Roshan: Sheer electricity', 'Hrithik Roshan: Change in image?', 'Hrithik Roshan: Humbling act!', 'Up; Close & Personal: Lleyton Hewitt', 'Releases line up for Hrithik Roshan', 'Hrithik Roshan playing khalnayak?']
+[tensor([[0.9450]]), tensor([[0.8755]]), tensor([[0.8428]]), tensor([[0.8409]]), tensor([[0.8405]]), tensor([[0.8371]]), tensor([[0.8361]]), tensor([[0.8344]]), tensor([[0.8335]]), tensor([[0.8280]])]
+
+['Canada to let in 235;000 immigrants in 2002', 'Bush may visit India in 2002', 'Give peace a chance; 2002', 'Surat to have airport by mid-2002', 'CNG crisis awaits Mumbai in 2002', 'You too! Welcome to 2002', 'India to be polio free by 2002', 'Conversion target will be met by 2002', 'US economic slowdown to extend up to middle of 2002', 'Much ado about 2002']
+[tensor([[0.9255]]), tensor([[0.7987]]), tensor([[0.7878]]), tensor([[0.7864]]), tensor([[0.7857]]), tensor([[0.7829]]), tensor([[0.7827]]), tensor([[0.7787]]), tensor([[0.7723]]), tensor([[0.7703]])]
+
+['Mother Teresa monument near Seattle', "Teresa's birth anniversary celebrated", 'Jyoti Basu receives Mother Teresa award', "Scindia's statue remains veiled", 'Mother Teresas healing touch', 'Feast of Mary Immaculate Conception celebrated', 'Devotees throng Mt Mary church to offer prayers', "Mother Teresa 'cure' speeds her sainthood", "Gandhi's statue dumped by roadside", 'Where is Bin Laden?']
+[tensor([[0.9766]]), tensor([[0.8134]]), tensor([[0.8029]]), tensor([[0.8017]]), tensor([[0.7988]]), tensor([[0.7968]]), tensor([[0.7942]]), tensor([[0.7922]]), tensor([[0.7891]]), tensor([[0.7790]])]
+
+['Cellphone market abuzz with rising subscriber base', 'China to have largest mobile phone market soon', 'Cellphone firms aim at the gaming market', 'A huge growth opportunity for mobile telephony', 'Niche market for big cars revving up', 'The contact lens market is humongous', "Churning in Zee's stock; top team has markets abuzz", 'Bharti claims 142% increase in subscriber base', 'User friendly voice application', 'Another dash of Spice for cell users']
+[tensor([[0.9219]]), tensor([[0.8167]]), tensor([[0.8011]]), tensor([[0.7786]]), tensor([[0.7761]]), tensor([[0.7747]]), tensor([[0.7744]]), tensor([[0.7736]]), tensor([[0.7661]]), tensor([[0.7651]])]
+
+['Their bamboo music is hard to beat', 'Partying hard', 'Information on NRIs hard to come by', 'Music for the soul!', "Someone please tell what 'pop' music is?", 'BOOMTOWN RAPbrStrings of music', "Can't stop the music", "Keeping Rahimat Khan's music alive", 'The Sound of Music', 'Lord of the bamboo reed']
+[tensor([[1.]]), tensor([[0.7993]]), tensor([[0.7870]]), tensor([[0.7841]]), tensor([[0.7764]]), tensor([[0.7642]]), tensor([[0.7641]]), tensor([[0.7635]]), tensor([[0.7628]]), tensor([[0.7626]])]
+
+['Six policemen killed in ambush', '3 policemen; militant killed', '3 policemen killed in Jharkhand blast', 'Four killed in encounter with police', 'One killed in police firing', '7 policemen killed in car-rail engine collision', 'Robbers loot train; kill 3 policemen', '9 policemen; 7 militants killed in Kashmir', 'Two murdered; one arrested', '5 policemen killed in Andhra blast']
+[tensor([[0.9906]]), tensor([[0.9074]]), tensor([[0.8925]]), tensor([[0.8903]]), tensor([[0.8888]]), tensor([[0.8871]]), tensor([[0.8867]]), tensor([[0.8843]]), tensor([[0.8824]]), tensor([[0.8786]])]
+
+['Police fail to rein in woman-bashers', 'Gang of robbers busted', 'Police bust UP-based gang of robbers', 'Robbers loot train; kill 3 policemen', 'Rail police bust gang of thieves', 'Truckers blame police for not nabbing robbers', 'Police succeed in checking crime', 'Caution against robber gang', 'Police fail to arrest accused in Kamalia case', 'Daring daylight bank robbery that failed']
+[tensor([[0.8590]]), tensor([[0.8548]]), tensor([[0.8484]]), tensor([[0.8484]]), tensor([[0.8466]]), tensor([[0.8453]]), tensor([[0.8444]]), tensor([[0.8356]]), tensor([[0.8351]]), tensor([[0.8337]])]
+
+['US asks Taliban to halt desecration of statues', 'Jama Masjid opposes US action against Taliban', "UNESCO to 'engage' Taliban to protect remaining relics", 'Call to preserve carvings on monuments', 'Muslims protest against desecration of religious place', 'Taliban appeal to US', 'Demolition of Gandhian heritage stalled after protests', 'Taliban refuse to hand over Osama', 'Afghan refugees urge govt to expedite visa process', "Rights watchdog asks UN to probe Taliban 'massacre'"]
+[tensor([[0.9173]]), tensor([[0.7963]]), tensor([[0.7919]]), tensor([[0.7852]]), tensor([[0.7851]]), tensor([[0.7805]]), tensor([[0.7748]]), tensor([[0.7736]]), tensor([[0.7724]]), tensor([[0.7723]])]
+
+['Hotel bill inflated; claim Jharkhand ministers', 'Salaries of TN MLAs; ministers hiked', 'Consumers given inflated electricity bills: CPI', 'False Claims', 'Ministers splurge lakhs on STD calls', 'Hotel owners demand review of prohibition policy', 'Fake stamp papers; foreign currency seized', 'Debate on tax and hotel industry', 'Extortionist; aides arrested', "Who bombed Pearl Harbor's shipshape party plans?"]
+[tensor([[0.9330]]), tensor([[0.8037]]), tensor([[0.7928]]), tensor([[0.7888]]), tensor([[0.7885]]), tensor([[0.7877]]), tensor([[0.7858]]), tensor([[0.7845]]), tensor([[0.7841]]), tensor([[0.7829]])]
+
+['Sleazy films storm Bollywood!', 'Bollywood: More trouble!', 'Bollywood: Mega monsoon releases', "Mira's triumph and the curse of Bollywood", 'Bollywood: Book Mania!', 'Australia is a hit with Bollywood producers', 'Snowstorm in Delhi', 'Bollywood booked!', 'Bollywood inspired by Hollywood', "'Mafia' fear grips Bollywood"]
+[tensor([[0.8991]]), tensor([[0.8358]]), tensor([[0.8340]]), tensor([[0.8209]]), tensor([[0.8187]]), tensor([[0.8155]]), tensor([[0.8148]]), tensor([[0.8129]]), tensor([[0.8094]]), tensor([[0.8085]])]
+
+['Sessions judge to probe lock-up death', 'Judge exonerates murder accused', "Judge inspects scene of Gulshan Kumar's murder", 'Police torture suspects to solve crimes', 'Judge on the chopping block', 'Sessions court to hold trial in Phoolan case', 'City police grappling with murder cases', 'Court notice to Inspector in murder case', 'Phoolan murder case committed for sessions trial', "Probe ordered into Gulshan murder witness's death"]
+[tensor([[0.9536]]), tensor([[0.8327]]), tensor([[0.8309]]), tensor([[0.8250]]), tensor([[0.8233]]), tensor([[0.8181]]), tensor([[0.8174]]), tensor([[0.8172]]), tensor([[0.8170]]), tensor([[0.8155]])]
+
+['Microsoft launches program for developers', 'Starting young', 'Starting Young', 'Microsoft joins Citrix business alliance programme', 'Pre-monsoon works begin', 'Metro work set to start', 'In the Beginning', 'First software for film industry launched', 'Project on child labour launched', 'DU told to start admissions for IT course']
+[tensor([[0.9386]]), tensor([[0.8201]]), tensor([[0.8201]]), tensor([[0.8081]]), tensor([[0.8050]]), tensor([[0.7995]]), tensor([[0.7994]]), tensor([[0.7964]]), tensor([[0.7962]]), tensor([[0.7876]])]
+
+['British forces to begin copter crash investigation', 'Army orders probe into landmine blast', 'Probe on into Scindia plane crash', 'Civil aviation ministry upgrades air crash probe', 'Probe into explosion', 'Central team to probe ordnance factory blast', 'British invasion', 'Civil aviation team begins probe', 'Probe links WTC; Kandahar hijacks', 'Pak ex-CJ for joint probe into attack']
+[tensor([[0.8791]]), tensor([[0.8473]]), tensor([[0.8324]]), tensor([[0.8279]]), tensor([[0.8212]]), tensor([[0.8141]]), tensor([[0.8121]]), tensor([[0.8119]]), tensor([[0.8098]]), tensor([[0.8085]])]
+
+['Bomb defused in North Block', 'Bomb defused in Srinagar', '4 held for North Block blasts; remanded', 'Civilian areas shield PoK terrorist camps', 'Prime suspect in north-west China blast arrested', 'One killed in bomb attack', 'Two IEDs defused; 7 killed in J&K', 'Terrorist attacks against US', 'One killed in bomb blast in Gorakhpur', 'US-UK bombing on Afghanistan decried']
+[tensor([[1.0000]]), tensor([[0.8594]]), tensor([[0.8249]]), tensor([[0.8029]]), tensor([[0.7992]]), tensor([[0.7947]]), tensor([[0.7941]]), tensor([[0.7931]]), tensor([[0.7903]]), tensor([[0.7896]])]
+
+['HBO to get into non-movie programmes', 'United to start non-stop US-India flights', "Tell them no stories; it's non-fiction they want", 'LDA scheme a non-starter', 'At the movies: Harry Potter', 'Food-for-work scheme a non-starter', 'Contractors sore with AMC over non-payment', 'Non-pensioners come together', 'Life without TV: the boredom shows', "It's back to sitcoms for news-weary TV viewers"]
+[tensor([[0.9495]]), tensor([[0.8044]]), tensor([[0.7997]]), tensor([[0.7950]]), tensor([[0.7903]]), tensor([[0.7891]]), tensor([[0.7832]]), tensor([[0.7832]]), tensor([[0.7790]]), tensor([[0.7784]])]
+
+['Yoga to the rescue of diabetics', 'Natural insulin safer for diabetics', 'Ayurveda; yoga can heal tourism industry', 'Yoga & the science of Bharat Thakur', 'A langur to rescue patients from monkeys', 'Hope and despair for diabetes patients', 'Free counselling for AIDS patients', 'Laser therapy for diabetes treatment', "'Smart stent' to rescue heart patients", 'Tea can protect you from heart ailments; diabetes']
+[tensor([[0.9575]]), tensor([[0.8292]]), tensor([[0.8180]]), tensor([[0.8101]]), tensor([[0.8081]]), tensor([[0.7990]]), tensor([[0.7987]]), tensor([[0.7985]]), tensor([[0.7974]]), tensor([[0.7948]])]
+
+['US slowdown is real and hurting', 'Debate on economic slowdown in US', 'Slowdown will be shortlived; feel experts', 'Meet discusses positive impact of slowdown', 'US slowdown takes its toll on Infosys', 'Dial S for slowdown', 'Slowdown stress is hitting their backs', 'Industrial slowdown will lead to recession', 'Entertaining a slowdown', 'Fast is damn slow']
+[tensor([[0.9442]]), tensor([[0.8677]]), tensor([[0.8573]]), tensor([[0.8473]]), tensor([[0.8413]]), tensor([[0.8411]]), tensor([[0.8388]]), tensor([[0.8337]]), tensor([[0.8318]]), tensor([[0.8300]])]
+
+['GSLV launches India into elite space club', 'India gets ready to enter space club', "GSLV engine trouble sours India's space plans", 'India makes it to the elite', 'Launch pad for GSLVs this year', 'India unveils space plane', 'PSLV ready for more commercial launches', 'India reinforces itself as space power', 'India to introduce HBV vaccine: WHO', 'Lara joins elite club']
+[tensor([[0.9743]]), tensor([[0.8721]]), tensor([[0.8473]]), tensor([[0.8300]]), tensor([[0.8238]]), tensor([[0.7892]]), tensor([[0.7873]]), tensor([[0.7867]]), tensor([[0.7864]]), tensor([[0.7844]])]
+
+['India must tread carefully in brave new biotech world', 'Brave new biotech', 'THE INDIAN STORY Brave new world of stem cell research', 'New tanks will give India a significant edge', 'Maharashtra should tread cautiously on Bt cotton: Environmentalist', "India Inc's brave face", 'Maharashtra should tread cautiously on Bt cotton', 'India to step up security', 'India should promote free software concept', 'India emerging as R&D centre for IT']
+[tensor([[0.9812]]), tensor([[0.8680]]), tensor([[0.8387]]), tensor([[0.8121]]), tensor([[0.8052]]), tensor([[0.8048]]), tensor([[0.7981]]), tensor([[0.7980]]), tensor([[0.7937]]), tensor([[0.7877]])]
+
+paraphrase-MiniLM-L6-v2
+['Special buses for air show', 'City buses on all main roads in Belgaum soon', 'RTC to ply more buses to suburbs', 'Night buses in city from December', 'Replacement buses are slow', 'Kochi private buses off roads', 'Exclusive lanes for RTC buses likely', 'Travelling by AMTS buses to be costly', '3;700 buses go off Delhi roads', 'Drive against buses with extra sleepers']
+[tensor([[0.6741]]), tensor([[0.6661]]), tensor([[0.6641]]), tensor([[0.6375]]), tensor([[0.6349]]), tensor([[0.6229]]), tensor([[0.6184]]), tensor([[0.6159]]), tensor([[0.6127]]), tensor([[0.6016]])]
+
+['Computer education in 5;000 schools; 42 colleges', 'Information Technology is a great leveller', 'Tata Infotech Education to enter IT-enabled sector', 'Electronic equipment for AP schools lies in a shambles', 'Infrastructure needed', 'Education system needs changes: CM', 'Computer education: Teach the teachers first', 'Book on changing Times of Technology', 'Project to spread IT education in South Asia', 'Industry-specific training for BE students likely']
+[tensor([[0.5833]]), tensor([[0.5348]]), tensor([[0.5335]]), tensor([[0.5328]]), tensor([[0.5160]]), tensor([[0.5150]]), tensor([[0.5143]]), tensor([[0.5142]]), tensor([[0.4974]]), tensor([[0.4962]])]
+
+['Powerless north India gropes in the dark', 'The ugly Indian', "Instil sense of 'Indianness' in Northeast: Advani", 'Indian Paradoxes', "Blackwill's brief: Transform ties with India", 'Similar problems in India', 'The Great Indian invasion', 'Perspective: From an Indian in America', "India as 'racist' as white western nations: Report", 'Are Indian cities getting hotter?']
+[tensor([[0.8799]]), tensor([[0.5859]]), tensor([[0.5796]]), tensor([[0.5422]]), tensor([[0.5315]]), tensor([[0.5272]]), tensor([[0.5093]]), tensor([[0.5090]]), tensor([[0.5028]]), tensor([[0.4969]])]
+
+['66 cases of cholera detected last week', 'Cholera; gastro cases on rise in city', 'After gastro; cholera rears its head', 'Cholera threat in Jamnagar suburbs', 'Cholera alert sounded in Chandigarh', 'JD(U) flays Cong for outbreak of diseases', 'Viral fever on the rise; infants worst hit', 'A fever that never leaves', "It's viral fever season; but don't worry", 'Malaria on the rise in Malda']
+[tensor([[0.6438]]), tensor([[0.6284]]), tensor([[0.6209]]), tensor([[0.5605]]), tensor([[0.5218]]), tensor([[0.5097]]), tensor([[0.4701]]), tensor([[0.4431]]), tensor([[0.4280]]), tensor([[0.4093]])]
+
+['Man kills mother; injures brother', 'Mother; son murdered', 'Man kills father after quarrel', 'Man held for killing father', 'Man kills parents over marriage', 'Mother; child murdered in Andheri', 'Mother kills self; son', 'Relative kills 9-year-old', 'Mother kills son; commits suicide', 'Indian American couple sentenced for injuries to child']
+[tensor([[0.5349]]), tensor([[0.5340]]), tensor([[0.5113]]), tensor([[0.4958]]), tensor([[0.4953]]), tensor([[0.4914]]), tensor([[0.4893]]), tensor([[0.4836]]), tensor([[0.4817]]), tensor([[0.4762]])]
+
+['Regular cut in rate of bank deposits interest opposed', 'Uco Bank revises interest rates on term-deposits', 'BoI revises interest rate on deposits', 'UCO Bank revises interest rate on term deposits', 'Banks told to charge interest monthly', 'RBI cuts bank rate; CRR', 'PNB revises interest rates on deposits', 'Bank hikes interest on deposits for senior citizens', 'Canara Bank realigns interest rate', 'Banks not to cut interest rate soon: FM']
+[tensor([[0.6116]]), tensor([[0.5707]]), tensor([[0.5642]]), tensor([[0.5602]]), tensor([[0.5598]]), tensor([[0.5335]]), tensor([[0.5271]]), tensor([[0.5123]]), tensor([[0.5021]]), tensor([[0.4958]])]
+
+['India now foodgrain exporter: Shanta', 'Now; imported products need to meet Indian standard', 'Exports of vegetarian foods on the rise', 'Richer by pounds; thanks to Indian cuisine', 'FCI chief says cereal export is the answer', 'Beef eating in ancient India: Debatable say Kashi pundits', 'Irregularities govern Indian rice exports', 'Quintessentially Indian curries', 'Concern over unrestricted flow of Nepalese goods into India', 'Foodgrain; garment exports reap windfalls of war']
+[tensor([[0.6895]]), tensor([[0.6240]]), tensor([[0.5927]]), tensor([[0.5677]]), tensor([[0.5657]]), tensor([[0.5579]]), tensor([[0.5505]]), tensor([[0.5456]]), tensor([[0.5439]]), tensor([[0.5438]])]
+
+['Blood donation no more safe in hospitals', "Workshop on 'Safe Blood Donation'", 'Blood Donation Day', 'NCC cadets donate blood', 'List of blood donors compiled', 'HC open to direct blood donation', 'Voluntary blood donors to participate in cycle rally', 'Blood shortage in Belgaum: Camps planned', "Funeral aid paid to mishap victims' kin", 'Bank staff donate blood on anniversary']
+[tensor([[0.6230]]), tensor([[0.6214]]), tensor([[0.6140]]), tensor([[0.6111]]), tensor([[0.5994]]), tensor([[0.5889]]), tensor([[0.5805]]), tensor([[0.5326]]), tensor([[0.5209]]), tensor([[0.5156]])]
+
+['Choosing a computer', 'I-T department revamped', 'Plans to revamp ailing health dept', 'IRDA to shift HQ to Hyderabad by Feb', 'Arjun Rao to be shifted from health dept', 'Transfer resource generating departments to MC: F&CC', 'Principal secretaries reshuffled', 'Drive to relocate VRS employees', 'Police chief to shift office', 'State will amend disinvestment policy of PSUs']
+[tensor([[0.5295]]), tensor([[0.5139]]), tensor([[0.4727]]), tensor([[0.4713]]), tensor([[0.4678]]), tensor([[0.4674]]), tensor([[0.4511]]), tensor([[0.4467]]), tensor([[0.4420]]), tensor([[0.4414]])]
+
+['Labour of Law', "Other side of 'ideal' labour law", 'Drastic changes proposed in labour laws', 'Rectify archaic labour laws: Fernandes', 'SCOPE lauds labour order', 'SC ruling on contract labour', 'Contract labour not on master-servant relationship: SC', 'Govt trying to expedite labour reforms: Sharad', 'FIEO suggests flexbility in labour laws', 'Trade union against changes to labour laws']
+[tensor([[0.9350]]), tensor([[0.8375]]), tensor([[0.7901]]), tensor([[0.7307]]), tensor([[0.6764]]), tensor([[0.6692]]), tensor([[0.6446]]), tensor([[0.6407]]), tensor([[0.6323]]), tensor([[0.6142]])]
+
+['Ministers under threat', 'Insecurity grips senior ministers in state', 'When ministers shoot their mouths off', 'Ministers follow CM in avoiding office', 'Minister shielding culprits: SP leader', "Ministers ignore chief minister's plea", 'Tough tasks await ministers', 'Ministers accused of ignoring drought', 'Police report implicates 15 UP ministers: Cong', 'Ministers are double-faced; say anti-pipeline activists']
+[tensor([[0.8608]]), tensor([[0.6493]]), tensor([[0.6346]]), tensor([[0.6282]]), tensor([[0.6043]]), tensor([[0.5964]]), tensor([[0.5901]]), tensor([[0.5760]]), tensor([[0.5596]]), tensor([[0.5588]])]
+
+['Illegal arms flood Delhi', 'Terror attacks: How safe is Delhi?', "People's War and terror law", 'Two militants rained bullets: J&K governor', "WHO warns Govts of killer TB's spread", 'Govt for effective policing; not terror law', 'Police clueless about where bullets go', 'Anti-terrorist ordinance soon', 'BJP; Cong train guns at each other', 'Anti-terror laws in the big; bad world']
+[tensor([[0.6732]]), tensor([[0.5611]]), tensor([[0.5229]]), tensor([[0.5150]]), tensor([[0.5135]]), tensor([[0.5093]]), tensor([[0.5080]]), tensor([[0.5018]]), tensor([[0.4973]]), tensor([[0.4968]])]
+
+['PM appeals for help', 'PM assures central assistance to AP', 'PM concerned over meagre utilisation of Central aid', 'An open letter to the PM', 'Naidu to meet PM for liberal central assistance', 'PM urged to empower gram sabhas', 'PM to address the nation tomorrow', 'PM assures Sikkim central help', "PM offered to quit as he was 'hurt': George", 'Naidu writes to the PM for cyclone relief']
+[tensor([[0.7540]]), tensor([[0.7272]]), tensor([[0.6521]]), tensor([[0.6217]]), tensor([[0.5783]]), tensor([[0.5725]]), tensor([[0.5467]]), tensor([[0.5458]]), tensor([[0.5296]]), tensor([[0.5282]])]
+
+['Trekking the learning curve', 'A seat of advanced learning', 'The Lotus of Learning', 'LEARNING CURVEbrVarsity will review internal assessment scheme', 'Lessons in learning; saffron style', 'Valuable Lessons', 'Learning in the new age promises more', 'Learning for fun', "'Score plus' self-learning", 'THE COUNSELLORbrDistance Learning']
+[tensor([[0.7947]]), tensor([[0.6694]]), tensor([[0.6672]]), tensor([[0.6216]]), tensor([[0.5879]]), tensor([[0.5604]]), tensor([[0.5551]]), tensor([[0.5521]]), tensor([[0.5510]]), tensor([[0.5491]])]
+
+['Hospitals are far from equipped', 'Mental hospitals lack facilities', 'No fire-fighting equipment; hospitals woefully short of beds', 'Mental hospital lacks basic amenities', 'Hospital lacked equipment for resuscitation', 'Hospital building lying vacant', 'Lack of hi-tech hospitals ails thriving industrial belt', 'Govt hospitals refuse emergency cases after 8 pm', 'Hospital in need of buildings', 'Hospital staff questioned about defunct elevator']
+[tensor([[0.7207]]), tensor([[0.6743]]), tensor([[0.6521]]), tensor([[0.5720]]), tensor([[0.5499]]), tensor([[0.5305]]), tensor([[0.5285]]), tensor([[0.5236]]), tensor([[0.5230]]), tensor([[0.5117]])]
+
+['Christians protest over inaction', 'Christians allegedly attacked in Dahod', 'Christian gathering disrupted', 'Attacks on Christian priests on the rise', 'Muslims protest against desecration of religious place', 'Religious issues dominate Darulshifa', 'Controversy over conversion to Christianity', 'Secularism covers too many sins', 'Christians decry saffronisation', 'Christians seek political destiny']
+[tensor([[0.8052]]), tensor([[0.5399]]), tensor([[0.5325]]), tensor([[0.5239]]), tensor([[0.5165]]), tensor([[0.5089]]), tensor([[0.5012]]), tensor([[0.5010]]), tensor([[0.4868]]), tensor([[0.4813]])]
+
+['Delhi hosts festival of short films', 'Panorama films to be shown at Kolkata; Mumbai festivals', 'Goa festival in Delhi from Saturday', 'Rare international films in Mumbai fest', 'Malayalam film for Rome festival', 'Sci-fi movies festival in Kolkata from July 20', 'Best of foreign films in Kolkata fest', 'Scenes from the Mumbai Film Festival', 'Delhi turns to greener pastures; will host eco-film fest in Feb.', 'Quality Indian films enter film fest']
+[tensor([[0.9799]]), tensor([[0.6102]]), tensor([[0.6099]]), tensor([[0.6047]]), tensor([[0.5988]]), tensor([[0.5956]]), tensor([[0.5841]]), tensor([[0.5831]]), tensor([[0.5799]]), tensor([[0.5751]])]
+
+['Helmets a must from April', 'Helmets compulsory from Dec. 1', 'Helmets compulsory in city from from March 1; 2003', 'Wearing of helmets made mandatory', 'Helmets made must for cops', 'Helmets compulsory on two-wheelers from Dec 1', 'Shortage of helmets prompts police to soften stand', 'RTO to ensure easy availability of helmets', 'How the helmet rule crumbled', 'PIL on helmets to be heard today']
+[tensor([[0.9428]]), tensor([[0.7945]]), tensor([[0.7893]]), tensor([[0.7400]]), tensor([[0.7310]]), tensor([[0.7308]]), tensor([[0.6502]]), tensor([[0.6137]]), tensor([[0.6136]]), tensor([[0.6003]])]
+
+['The Page Three Politician', 'Wanted: A few leaders for Trinamul', 'Political Fashions', 'Alliterative Politics', 'Three in race for the post of UT mayor', 'LEADER ARTICLEbrHoliday from History', 'Political Manoeuvres', 'Politician among 4 held for dacoity', 'LEADER ARTICLEbrLegacy from the Past', 'LEADER ARTICLEbrCopy the Americans']
+[tensor([[1.0000]]), tensor([[0.5931]]), tensor([[0.5815]]), tensor([[0.5716]]), tensor([[0.5575]]), tensor([[0.5545]]), tensor([[0.5521]]), tensor([[0.5402]]), tensor([[0.5392]]), tensor([[0.5356]])]
+
+['Gender equality still a dream in Asian; Pacific countries', 'Society holds the key to gender equality: SC judge', 'Aim to achieve gender justice', 'Study highlights gender bias', 'What Women Want', 'For women; Northern Alliance no better', "GENDER BENDER: For women the war's just begun", 'Role of Indian women not limited to fringes', 'Globalisation a threat to working women', "Asians' contribution should be recognised"]
+[tensor([[0.9583]]), tensor([[0.6647]]), tensor([[0.5977]]), tensor([[0.5404]]), tensor([[0.5184]]), tensor([[0.4945]]), tensor([[0.4796]]), tensor([[0.4692]]), tensor([[0.4660]]), tensor([[0.4641]])]
+
+["A 'Close-Up' of Hrithik Roshan", 'Hrithik Roshan: Humbling act!', 'Hrithik Roshan speaking', 'Hrithik Roshan: The risk for glory', 'Hrithik Roshan: The winning horse!', 'A rightly predicted Hrithik Roshan', 'Roshan; Roshan; leading light', 'Hrithik Roshan: Sheer electricity', 'Hrithik Roshan playing khalnayak?', 'Hrithik: Doing an Amitabh!']
+[tensor([[0.9119]]), tensor([[0.8544]]), tensor([[0.8169]]), tensor([[0.8025]]), tensor([[0.7313]]), tensor([[0.7078]]), tensor([[0.6934]]), tensor([[0.6862]]), tensor([[0.6758]]), tensor([[0.6605]])]
+
+['Canada to let in 235;000 immigrants in 2002', 'Emigration to Canada may be affected', 'Orissa to deport 4;000 Bangladeshi migrants', 'Reply to Canadian query', 'Statescan: Centre; J&K granted 2 weeks on migrants', 'Canada Calling', 'UK relaxes policy; invites skilled immigrants', "'Think Canada' to boost cultural exchange", 'Migrants facing accommodation problem in Surat', 'Plugging a loophole: IB to take over immigration at city airport']
+[tensor([[0.8321]]), tensor([[0.6592]]), tensor([[0.5598]]), tensor([[0.4884]]), tensor([[0.4851]]), tensor([[0.4812]]), tensor([[0.4607]]), tensor([[0.4568]]), tensor([[0.4524]]), tensor([[0.4503]])]
+
+['Mother Teresa monument near Seattle', "Guru's statues going; portraits may follow", 'A memorial that was not there', 'Monument as a milestone', 'Statue on Red Road beheaded', 'Zadafia deplores statue desecration at Jetpur', 'Not a museum: This is sculpture land', 'The Shehtoot Tree', 'Unique museum on the banks of Dal Lake soon', "Mother's Land"]
+[tensor([[0.9355]]), tensor([[0.4882]]), tensor([[0.4775]]), tensor([[0.4762]]), tensor([[0.4566]]), tensor([[0.4559]]), tensor([[0.4481]]), tensor([[0.4456]]), tensor([[0.4382]]), tensor([[0.4330]])]
+
+['Cellphone market abuzz with rising subscriber base', 'A huge growth opportunity for mobile telephony', 'Cellphone firms go all out to woo customers', 'China to have largest mobile phone market soon', 'Cellphone firms aim at the gaming market', 'Telephones on demand at last', 'Increase in telephone traffic during day time', 'People make beeline at phone booths', 'Phone users continue to be a harried lot', 'Mobile phone outlet inaugurated']
+[tensor([[0.8966]]), tensor([[0.6781]]), tensor([[0.6752]]), tensor([[0.6443]]), tensor([[0.6217]]), tensor([[0.6159]]), tensor([[0.6117]]), tensor([[0.6105]]), tensor([[0.6101]]), tensor([[0.5844]])]
+
+['Their bamboo music is hard to beat', 'Lord of the bamboo reed', "Flutes are this forest guard's passion", 'Kannada music to your doorstep', "Mumbai's Gujarati plays strike a chord with Barodians", 'He brings Indian rhythms to western drums', 'A musical duo from Assam', 'Dhwani: The sound of music', 'Gamang does his bit for tribal music', 'Why should Vishnu sport a Tamil moustache?']
+[tensor([[1.]]), tensor([[0.5332]]), tensor([[0.5046]]), tensor([[0.4972]]), tensor([[0.4930]]), tensor([[0.4562]]), tensor([[0.4510]]), tensor([[0.4508]]), tensor([[0.4490]]), tensor([[0.4469]])]
+
+['Six policemen killed in ambush', '6 policemen sacked', '5 policemen injured in poll violence', 'Militants kill 7 policemen in J&K', 'Six policemen injured in brickbatting', '5 policemen killed in Andhra blast', '7 policemen killed in car-rail engine collision', 'Arrest of six policemen ordered in Bihar', '7 policemen booked for custody death', 'Militants kill 7 policemen in Jammu']
+[tensor([[0.9708]]), tensor([[0.7546]]), tensor([[0.7096]]), tensor([[0.7014]]), tensor([[0.6920]]), tensor([[0.6860]]), tensor([[0.6755]]), tensor([[0.6640]]), tensor([[0.6610]]), tensor([[0.6553]])]
+
+['Gang of robbers busted', 'Police bust UP-based gang of robbers', "Road robbers' gang busted; 3 bodies recovered", 'Gang of thieves busted; three arrested', 'Gang of criminal busted', 'Gang busted', 'Gang involved in chain snatching busted', 'Two gangs who robbed passengers busted', 'Gang involved in bank fraud busted; six arrested', 'Gang of thieves nabbed']
+[tensor([[0.7550]]), tensor([[0.7537]]), tensor([[0.6799]]), tensor([[0.6761]]), tensor([[0.6699]]), tensor([[0.6529]]), tensor([[0.6346]]), tensor([[0.6286]]), tensor([[0.6214]]), tensor([[0.6201]])]
+
+['US asks Taliban to halt desecration of statues', "UNESCO to 'engage' Taliban to protect remaining relics", 'No long-term impact of US-Taliban face off', 'UN to monitor sanctions against Taliban', 'US; Taliban ready to go to war', 'US says Taliban non-indigenous to Afghanistan', "Rights watchdog asks UN to probe Taliban 'massacre'", 'Will Taliban exit restore human rights to Afghans?', 'Taliban has legitimised state terrorism: Jaswant', "BJP to counter 'Talibanisation' charge"]
+[tensor([[0.8600]]), tensor([[0.6152]]), tensor([[0.5656]]), tensor([[0.5582]]), tensor([[0.5447]]), tensor([[0.5432]]), tensor([[0.5412]]), tensor([[0.5384]]), tensor([[0.5281]]), tensor([[0.5255]])]
+
+['Hotel bill inflated; claim Jharkhand ministers', 'Guest bills: Minister leads by example', 'Debate on tax and hotel industry', 'Allegations against power minister', 'Minister misled CM on fee hike', 'Minister charged with bias in funds allocation', 'Minister refutes mismanagement charges', 'Hoteliers decry ban on US; British products', 'Minister denies leak of funds', "Clinton's Big Bill"]
+[tensor([[0.8397]]), tensor([[0.5524]]), tensor([[0.5269]]), tensor([[0.4839]]), tensor([[0.4767]]), tensor([[0.4767]]), tensor([[0.4664]]), tensor([[0.4538]]), tensor([[0.4523]]), tensor([[0.4372]])]
+
+['Sleazy films storm Bollywood!', 'Bollywood: More trouble!', 'Bollywood fears don who gets everything wrong', 'Hindi filmdom offers movie-buffs the stars', 'Bollywood inspired by Hollywood', 'Bollywood going the Hollywood way!', 'Bollywood: Book Mania!', "Oh God; it's Friday: Bollywood on tenterhooks", 'Hindi films can never be sensible', "'What's wrong with a typical Govinda film?'"]
+[tensor([[0.8124]]), tensor([[0.7163]]), tensor([[0.6355]]), tensor([[0.6337]]), tensor([[0.6332]]), tensor([[0.6296]]), tensor([[0.6251]]), tensor([[0.6123]]), tensor([[0.6113]]), tensor([[0.6078]])]
+
+['Sessions judge to probe lock-up death', 'Phoolan murder case committed for sessions trial', 'Sessions court to hold trial in Phoolan case', "Magistrate to probe woman's suicide", 'Five-judge HC bench to hear handcuffing case', "Judge inspects scene of Gulshan Kumar's murder", 'Judge dead', 'Dismissed judge to face trial tomorrow', 'CM orders probe into firing death', 'Judicial probe ordered into Thumba firing']
+[tensor([[0.9181]]), tensor([[0.5074]]), tensor([[0.4837]]), tensor([[0.4795]]), tensor([[0.4685]]), tensor([[0.4541]]), tensor([[0.4517]]), tensor([[0.4423]]), tensor([[0.4415]]), tensor([[0.4378]])]
+
+['Microsoft launches program for developers', 'Microsoft launches MSN Explorer in India', 'First software for film industry launched', 'Schools Online programme facing starting problems', 'Major computer project for school students launched', 'Office XP with Indian language support launched', 'Software industry-institute interface initiated', 'ITA to launch export promotion drive', 'Minister launches tree planting programme', 'This is the home the software pros built']
+[tensor([[0.9299]]), tensor([[0.5941]]), tensor([[0.5711]]), tensor([[0.4753]]), tensor([[0.4642]]), tensor([[0.4571]]), tensor([[0.4456]]), tensor([[0.4375]]), tensor([[0.4374]]), tensor([[0.4368]])]
+
+['Team of air safety wing begins probe', 'British forces to begin copter crash investigation', 'Civil aviation team begins probe', 'Advanced Light Helicopter to fly next year', 'Army orders probe into landmine blast', 'Probe on into Scindia plane crash', 'Central team to probe ordnance factory blast', "Probe into police 'atrocities' begins", 'Civil aviation ministry upgrades air crash probe', 'US chopper was on international airspace: Blair']
+[tensor([[0.6580]]), tensor([[0.6194]]), tensor([[0.6120]]), tensor([[0.5146]]), tensor([[0.4930]]), tensor([[0.4816]]), tensor([[0.4629]]), tensor([[0.4583]]), tensor([[0.4533]]), tensor([[0.4450]])]
+
+['Bomb defused in North Block', 'Bomb defused in Srinagar', 'Serial bomb blasts near international border', 'Bomb scare stalls work at HC', 'Bomb blast in school', 'Grenades at CRPF camp blasted', 'N-bomb lying off the east coast of America', '4 held for North Block blasts; remanded', "N Block bomb failed police test: Didn't explode", 'Bomb scare in Delhi High Court']
+[tensor([[1.0000]]), tensor([[0.7069]]), tensor([[0.5823]]), tensor([[0.5695]]), tensor([[0.5673]]), tensor([[0.5612]]), tensor([[0.5597]]), tensor([[0.5445]]), tensor([[0.5356]]), tensor([[0.5344]])]
+
+['HBO to get into non-movie programmes', 'Interactive TV will be a reality this year', 'Film federation ups ante against TV channels', "Where the 'show' must go on", 'Channels ponder future of reality television', 'Discovery all set to launch new channel', 'Be in tune with CBSE or get the boot', 'Film festival to kick off from Nov 10', 'Discovery all set to launch a new channel', 'Who wants serials? Viewers hook onto CNN; BBC']
+[tensor([[0.8291]]), tensor([[0.4766]]), tensor([[0.4478]]), tensor([[0.4453]]), tensor([[0.4449]]), tensor([[0.4377]]), tensor([[0.4375]]), tensor([[0.4345]]), tensor([[0.4329]]), tensor([[0.4307]])]
+
+['Yoga to the rescue of diabetics', 'Of yoga & an official exercise in utility', 'Yoga at Navodaya Vidyalayas soon: Joshi', 'Ayurveda; yoga can heal tourism industry', 'SACRED SPACEbrPower of Yoga', 'To control diabetes; walk; reduce weight', 'City Briefs: Yoga workshop', 'THE SPEAKING TREEbrRaja Yoga Revives Spiritual Links', 'IMA to organise camp for diabetic patients', 'Yoga returns as US fad in third wave']
+[tensor([[0.9332]]), tensor([[0.5926]]), tensor([[0.5789]]), tensor([[0.5748]]), tensor([[0.5512]]), tensor([[0.5454]]), tensor([[0.5321]]), tensor([[0.5013]]), tensor([[0.5004]]), tensor([[0.4912]])]
+
+['US slowdown is real and hurting', 'Slowdown will be shortlived; feel experts', 'Debate on economic slowdown in US', 'Slowdown stress is hitting their backs', 'US slowdown takes its toll on Infosys', 'Steps to tackle slowdown being taken:FM', 'Slowdown in state? Blame it on global recession', 'TODAYS EDITORIALSbrSynchronised Slowdown', 'Slowdown Advantage', 'Communication in an economic slowdown']
+[tensor([[0.8824]]), tensor([[0.6999]]), tensor([[0.6692]]), tensor([[0.6138]]), tensor([[0.6087]]), tensor([[0.6001]]), tensor([[0.5723]]), tensor([[0.5448]]), tensor([[0.5367]]), tensor([[0.5289]])]
+
+['GSLV launches India into elite space club', "GSLV engine trouble sours India's space plans", 'Launch pad for GSLVs this year', 'India gets ready to enter space club', 'GSVM College stir enters ninth day', 'India invites Brazil for JVs in telecom; IT', 'GSRTC depot: A bad place for a send-off', 'GSEB resolves to improve standard of education', 'HZL acquires 6% stake in APGPCL', 'Modi to dedicate 156 MW GSEG plant to Gujarat']
+[tensor([[0.9102]]), tensor([[0.6506]]), tensor([[0.5371]]), tensor([[0.5101]]), tensor([[0.4927]]), tensor([[0.4631]]), tensor([[0.4525]]), tensor([[0.4164]]), tensor([[0.4132]]), tensor([[0.4086]])]
+
+['India must tread carefully in brave new biotech world', 'Maharashtra should tread cautiously on Bt cotton', 'Maharashtra should tread cautiously on Bt cotton: Environmentalist', 'Unlike Japan; India tries new way to fight slowdown', 'India may get a foothold', 'India inadequately prepared for the WTO regime', 'India gearing up to face threat of biological weapons', 'Industry responds cautiously to SC decision', 'India need to rely on itself on J&K: Krishnamurthy', 'Jayalalithaa to tread a cautious path']
+[tensor([[0.8988]]), tensor([[0.6348]]), tensor([[0.6328]]), tensor([[0.5194]]), tensor([[0.5025]]), tensor([[0.4986]]), tensor([[0.4808]]), tensor([[0.4796]]), tensor([[0.4783]]), tensor([[0.4765]])]
+
+all-MiniLM-L12-v2
+['Special buses launched', 'Special buses for air show', 'RTC to ply more buses to suburbs', 'Night buses in city from December', 'Drive against buses with extra sleepers', 'RTO attaches luxury buses for overcrowding', 'Bus station a boon for commuters; curse for traders', 'RTC hospital buses to cover more areas', 'More facilities for passengers sought', 'Promising plan for city traffic']
+[tensor([[0.6309]]), tensor([[0.6154]]), tensor([[0.6080]]), tensor([[0.5974]]), tensor([[0.5945]]), tensor([[0.5915]]), tensor([[0.5908]]), tensor([[0.5907]]), tensor([[0.5890]]), tensor([[0.5778]])]
+
+['New initiative to promote use of IT in education', 'Computer education in 5;000 schools; 42 colleges', 'Tata Infotech Education to enter IT-enabled sector', 'Project to spread IT education in South Asia', 'IT optional subject in junior colleges', 'Electronic equipment for AP schools lies in a shambles', 'BE College IT experts to promote IT education', 'Reliance; BMC join hands to computerise schools', 'ISCE schools have no computer teachers', 'Information Technology is a great leveller']
+[tensor([[0.6856]]), tensor([[0.5955]]), tensor([[0.5887]]), tensor([[0.5727]]), tensor([[0.5719]]), tensor([[0.5609]]), tensor([[0.5476]]), tensor([[0.5471]]), tensor([[0.5409]]), tensor([[0.5409]])]
+
+['Powerless north India gropes in the dark', 'Shadow of war will fall on India:Gujral', 'Indian-Afghans on thorny ground', 'Indian channels make hay in a dark time', 'Indians are in grave danger', 'India Inc cowers in the Chinese shadow', 'Indian faces are quite uncommon in trekking zones', "Vadodara cricket's dark day", "Prime target in the shadow of India's New York", "Blackwill's brief: Transform ties with India"]
+[tensor([[0.8988]]), tensor([[0.5733]]), tensor([[0.5597]]), tensor([[0.5523]]), tensor([[0.5495]]), tensor([[0.5451]]), tensor([[0.5415]]), tensor([[0.5376]]), tensor([[0.5375]]), tensor([[0.5374]])]
+
+['66 cases of cholera detected last week', 'Cholera; gastro cases on rise in city', 'Cholera alert sounded in Chandigarh', 'Cholera threat in Jamnagar suburbs', 'After gastro; cholera rears its head', "Govt declares Vadodara 'cholera-threatened'", 'Threat of epidemics looms large over Patna', 'Epidemic-free monsoon season so far', 'Bacteria-infested water supplied to Yerawada', 'Threat of waterborne diseases real']
+[tensor([[0.7193]]), tensor([[0.6528]]), tensor([[0.6400]]), tensor([[0.6125]]), tensor([[0.5674]]), tensor([[0.5000]]), tensor([[0.4610]]), tensor([[0.4460]]), tensor([[0.4392]]), tensor([[0.4374]])]
+
+['Mother; son murdered', 'Mother kills son; commits suicide', 'Mother seeks justice for dead son', 'Mother; child murdered in Andheri', 'Man kills mother; injures brother', 'Mother kills self; son', "'Suicide pact': Father hunts for son's body", 'Man wanted for killing mother nabbed', 'Man kills father after quarrel', 'Man held for killing father']
+[tensor([[0.7073]]), tensor([[0.6888]]), tensor([[0.6530]]), tensor([[0.5942]]), tensor([[0.5924]]), tensor([[0.5893]]), tensor([[0.5854]]), tensor([[0.5752]]), tensor([[0.5730]]), tensor([[0.5715]])]
+
+['Canara Bank realigns interest rate', 'Bank scrips rise on rate cuts', 'Regular cut in rate of bank deposits interest opposed', 'BoI revises interest rate on deposits', 'PNB revises interest rates on deposits', 'UBI revises interest rates on Term Deposits', 'Interest Rates: Not Enough to Bite', 'PNB raises rates', 'RBI cuts bank rate; CRR', 'Banks told to charge interest monthly']
+[tensor([[0.6597]]), tensor([[0.5998]]), tensor([[0.5977]]), tensor([[0.5966]]), tensor([[0.5954]]), tensor([[0.5607]]), tensor([[0.5591]]), tensor([[0.5538]]), tensor([[0.5493]]), tensor([[0.5430]])]
+
+['India now foodgrain exporter: Shanta', 'Restrict import of unsafe food items; govt. urged', 'Now; imported products need to meet Indian standard', 'Nothing wrong with Indian diet', 'Food imports to take toll on employment', 'Indian agricultural produce not competitive: Dr Ghanekar', 'Delhi becoming centre for banned animal items trade', 'Indian food processing industry can grow threefold by 2005', 'Concern over unrestricted flow of Nepalese goods into India', 'India turns den of ODS trade']
+[tensor([[0.6462]]), tensor([[0.6383]]), tensor([[0.6292]]), tensor([[0.5670]]), tensor([[0.5654]]), tensor([[0.5525]]), tensor([[0.5512]]), tensor([[0.5504]]), tensor([[0.5495]]), tensor([[0.5477]])]
+
+['Murder at NCC camp', 'Governor appeals for blood donation', 'Blood donation no more safe in hospitals', 'Blood Donation Day', 'Blood shortage in Belgaum: Camps planned', 'NCC cadets donate blood', "Workshop on 'Safe Blood Donation'", 'HC open to direct blood donation', 'Corporates all pumped up about blood donation', 'Polio camp on Oct 14']
+[tensor([[0.6028]]), tensor([[0.5870]]), tensor([[0.5804]]), tensor([[0.5673]]), tensor([[0.5620]]), tensor([[0.5500]]), tensor([[0.5420]]), tensor([[0.5391]]), tensor([[0.5047]]), tensor([[0.4869]])]
+
+['Four govt offices to shift', 'Transfer resource generating departments to MC: F&CC', 'Computer Associates to ramp up operations in India', 'New premises for Information dept', 'Police chief to shift office', 'Arjun Rao to be shifted from health dept', 'PMC to computerise its octroi department', 'First computerised RTO Offices by Sept 30', 'Principal secretaries reshuffled', 'Single-window of education depts planned']
+[tensor([[0.5068]]), tensor([[0.4680]]), tensor([[0.4660]]), tensor([[0.4641]]), tensor([[0.4590]]), tensor([[0.4452]]), tensor([[0.4440]]), tensor([[0.4365]]), tensor([[0.4288]]), tensor([[0.4240]])]
+
+['Labour of Law', "Other side of 'ideal' labour law", 'Rectify archaic labour laws: Fernandes', 'Drastic changes proposed in labour laws', 'Trade union against changes to labour laws', 'SCOPE lauds labour order', 'SC ruling on contract labour', 'Labourers demand work for survival', 'FIEO suggests flexbility in labour laws', 'Indian labour laws keep away investors']
+[tensor([[0.8859]]), tensor([[0.7932]]), tensor([[0.7263]]), tensor([[0.7094]]), tensor([[0.6703]]), tensor([[0.6325]]), tensor([[0.6258]]), tensor([[0.5988]]), tensor([[0.5924]]), tensor([[0.5852]])]
+
+['Ministers under threat', 'Insecurity grips senior ministers in state', 'Ministers follow CM in avoiding office', 'Tough tasks await ministers', "Yes Minister: It's a tough job to be minister", 'Ministers have their hands full', 'Minister urged to allay fears on Singatalur', 'Ministers; officials keep fingers crossed', 'CM pulls up ministers for poor performance', 'When ministers shoot their mouths off']
+[tensor([[0.8912]]), tensor([[0.7376]]), tensor([[0.7349]]), tensor([[0.7060]]), tensor([[0.6871]]), tensor([[0.6812]]), tensor([[0.6762]]), tensor([[0.6712]]), tensor([[0.6522]]), tensor([[0.6231]])]
+
+['Illegal arms flood Delhi', 'Crime rate dips; but is Delhi safe?', 'Real robbery with fake guns in East Delhi', 'Naxalites gun down six in Bihar', 'Shootout accused brought to Delhi', 'Terror attacks: How safe is Delhi?', 'SP guns for BJP on Dalit atrocities', 'Delhi is talking about', 'DELHI IS TALKING ABOUT', 'Delhi govt; MCD flayed for inaction on slums']
+[tensor([[0.7987]]), tensor([[0.5986]]), tensor([[0.5979]]), tensor([[0.5901]]), tensor([[0.5814]]), tensor([[0.5739]]), tensor([[0.5722]]), tensor([[0.5638]]), tensor([[0.5638]]), tensor([[0.5585]])]
+
+['PM appeals for help', 'PM concerned over meagre utilisation of Central aid', 'PM assures Sikkim central help', 'Mulayam slams PM for offering help to US', 'An open letter to the PM', 'PM assures central assistance to AP', 'PM criticised for not consulting opposition', 'PM announces relief for the flood-affected', 'Naidu to meet PM for liberal central assistance', 'PM to address the nation tomorrow']
+[tensor([[0.7318]]), tensor([[0.6532]]), tensor([[0.6287]]), tensor([[0.6084]]), tensor([[0.5819]]), tensor([[0.5621]]), tensor([[0.5490]]), tensor([[0.5146]]), tensor([[0.5120]]), tensor([[0.5002]])]
+
+['Trekking the learning curve', 'LEARNING CURVEbrVarsity will review internal assessment scheme', 'Learning in the new age promises more', 'Restoring signs of learning', 'The Lotus of Learning', 'We never learn lessons', 'Learning for fun', "'Score plus' self-learning", 'Unlearnt Lessons', 'Learning from defeat']
+[tensor([[0.7793]]), tensor([[0.5703]]), tensor([[0.5398]]), tensor([[0.5143]]), tensor([[0.5124]]), tensor([[0.5119]]), tensor([[0.5072]]), tensor([[0.4990]]), tensor([[0.4934]]), tensor([[0.4829]])]
+
+['Hospitals are far from equipped', 'Hospital lacked equipment for resuscitation', "Clinics capitalise on govt hospital's deficiencies", "Govt hospital staff refuse to be 'uniformed'", 'No fire-fighting equipment; hospitals woefully short of beds', 'Mental hospitals lack facilities', 'A hospital sans patients', 'Hospitals in Punjab lack life-saving drugs', "Hospital attendants' stir", 'Lack of hi-tech hospitals ails thriving industrial belt']
+[tensor([[0.8520]]), tensor([[0.7145]]), tensor([[0.6894]]), tensor([[0.6750]]), tensor([[0.6664]]), tensor([[0.6581]]), tensor([[0.6406]]), tensor([[0.6225]]), tensor([[0.6201]]), tensor([[0.6175]])]
+
+['Christians protest over inaction', 'Christians seek political destiny', 'Christian gathering disrupted', 'Christians march to press demands', 'Rally to press for rights for Christians', 'VHP flays Christians; Left to attack Antony', 'Attack on Christians in Gujarat alleged', 'Christians allegedly attacked in Dahod', 'Christians condemn killings in Pakistan', '3 Christians held for proselytising']
+[tensor([[0.8472]]), tensor([[0.5626]]), tensor([[0.5507]]), tensor([[0.5422]]), tensor([[0.5091]]), tensor([[0.4933]]), tensor([[0.4823]]), tensor([[0.4800]]), tensor([[0.4748]]), tensor([[0.4724]])]
+
+['Delhi hosts festival of short films', 'Quality Indian films enter film fest', 'Delhi turns to greener pastures; will host eco-film fest in Feb.', 'Bangalore to host international film fest', 'Rare international films in Mumbai fest', 'Wide acclaim for Indian films in US festival', 'Malayalam film for Rome festival', 'Sci-fi movies festival in Kolkata from July 20', 'Best of foreign films in Kolkata fest', 'Assamese film selected for Film Fest']
+[tensor([[0.9876]]), tensor([[0.6490]]), tensor([[0.6121]]), tensor([[0.6084]]), tensor([[0.5932]]), tensor([[0.5883]]), tensor([[0.5843]]), tensor([[0.5746]]), tensor([[0.5612]]), tensor([[0.5594]])]
+
+['Helmets a must from April', 'Helmets compulsory from Dec. 1', 'Helmets compulsory in city from from March 1; 2003', 'Helmets compulsory on two-wheelers from Dec 1', 'Wearing of helmets made mandatory', 'Helmets made must for cops', 'PIL on helmets to be heard today', 'Plan to implement helmet rule mooted', 'Order on helmets kept under abeyance', 'Policemen directed to wear helmets']
+[tensor([[0.9105]]), tensor([[0.8126]]), tensor([[0.7581]]), tensor([[0.7479]]), tensor([[0.7089]]), tensor([[0.6330]]), tensor([[0.6274]]), tensor([[0.6055]]), tensor([[0.5860]]), tensor([[0.5776]])]
+
+['The Page Three Politician', 'For socialite realism; turn to Page 3', 'Politician among 4 held for dacoity', 'Political Midases', 'See-through Politics', 'Me; a politician? Who knows: Narayana Murthy', 'Three steps to clean politics', 'Hunt for three MLAs', "Editor's Notebook: Protest Politics", "A Parliamentarian's progress"]
+[tensor([[1.0000]]), tensor([[0.5883]]), tensor([[0.5525]]), tensor([[0.5476]]), tensor([[0.5404]]), tensor([[0.5359]]), tensor([[0.5311]]), tensor([[0.5199]]), tensor([[0.5120]]), tensor([[0.5055]])]
+
+['Gender equality still a dream in Asian; Pacific countries', 'Aim to achieve gender justice', 'Plea to implement quota for women', 'Women can help usher in reforms', 'Globalisation a threat to working women', 'Society holds the key to gender equality: SC judge', 'Study highlights gender bias', "Asians' contribution should be recognised", "GENDER BENDER: For women the war's just begun", 'Laws have failed to curb gender bias']
+[tensor([[0.9708]]), tensor([[0.5760]]), tensor([[0.5216]]), tensor([[0.5166]]), tensor([[0.5158]]), tensor([[0.5016]]), tensor([[0.5014]]), tensor([[0.4810]]), tensor([[0.4769]]), tensor([[0.4767]])]
+
+["A 'Close-Up' of Hrithik Roshan", 'Hrithik Roshan: Humbling act!', 'Hrithik Roshan speaking', 'Hrithik Roshan: The risk for glory', 'A rightly predicted Hrithik Roshan', 'Hrithik Roshan: The winning horse!', 'Hrithik Roshan: Sheer electricity', 'Hrithik Roshan: Old habits die hardly!', 'Releases line up for Hrithik Roshan', 'Hrithik Roshan playing khalnayak?']
+[tensor([[0.9359]]), tensor([[0.8088]]), tensor([[0.7725]]), tensor([[0.7671]]), tensor([[0.7377]]), tensor([[0.7232]]), tensor([[0.7183]]), tensor([[0.6939]]), tensor([[0.6877]]), tensor([[0.6844]])]
+
+['Canada to let in 235;000 immigrants in 2002', 'Emigration to Canada may be affected', 'UK to deport 2;500 asylum-seekers each month', 'Repatriation of Punjab militants sought', 'Britain: No safe haven for asylum seekers', 'Border residents a harried lot', 'Cong no to refugee status for intruders', 'Migrants facing accommodation problem in Surat', "State urged to take up 'refugee' issue", 'Canada Calling']
+[tensor([[0.8706]]), tensor([[0.6913]]), tensor([[0.5199]]), tensor([[0.4949]]), tensor([[0.4938]]), tensor([[0.4894]]), tensor([[0.4876]]), tensor([[0.4861]]), tensor([[0.4788]]), tensor([[0.4749]])]
+
+['Mother Teresa monument near Seattle', 'Mother Teresas healing touch', "Mother Teresa 'cure' speeds her sainthood", "Teresa's birth anniversary celebrated", "Scindia's statue remains veiled", 'Jyoti Basu receives Mother Teresa award', "Temple deity's jewellery missing", "Gandhi's statue dumped by roadside", 'Monuments steeped in superstitions', "Mother Teresa's beatification probe concludes"]
+[tensor([[0.9179]]), tensor([[0.5181]]), tensor([[0.4797]]), tensor([[0.4702]]), tensor([[0.4474]]), tensor([[0.4449]]), tensor([[0.4360]]), tensor([[0.4254]]), tensor([[0.4225]]), tensor([[0.4184]])]
+
+['Cellphone market abuzz with rising subscriber base', 'Cellphone firms go all out to woo customers', 'Phone users continue to be a harried lot', 'A huge growth opportunity for mobile telephony', 'Cellphone firms aim at the gaming market', 'Phone revenue arrears at new high', 'China to have largest mobile phone market soon', 'Cellular users miffed over poor service', 'Company leaves cell phone users in lurch', 'Telephones on demand at last']
+[tensor([[0.9337]]), tensor([[0.7454]]), tensor([[0.7385]]), tensor([[0.7042]]), tensor([[0.7024]]), tensor([[0.6747]]), tensor([[0.6357]]), tensor([[0.6112]]), tensor([[0.6025]]), tensor([[0.6000]])]
+
+['Their bamboo music is hard to beat', 'The Bali beat goes beyond bhangra', 'He brings Indian rhythms to western drums', 'Dhwani: The sound of music', 'Australia gets a treat of Hindustani music', 'Bangalore will groove to lounge music', 'Kannada music to your doorstep', 'Lord of the bamboo reed', 'As Paswan goes packing; TAC members face the music', 'Bureaucrats face same old music in Jharkhand']
+[tensor([[1.0000]]), tensor([[0.5390]]), tensor([[0.5132]]), tensor([[0.5078]]), tensor([[0.4943]]), tensor([[0.4860]]), tensor([[0.4807]]), tensor([[0.4658]]), tensor([[0.4579]]), tensor([[0.4517]])]
+
+['Six policemen killed in ambush', '6 policemen sacked', '7 policemen killed in car-rail engine collision', 'Four killed in encounter with police', '7 policemen booked for custody death', '5 policemen killed in Andhra blast', '5 policemen injured in poll violence', 'Arrest of six policemen ordered in Bihar', 'Naxalites shoot dead 6 policemen in Orissa', '7 policemen remanded']
+[tensor([[0.9735]]), tensor([[0.6893]]), tensor([[0.6501]]), tensor([[0.6422]]), tensor([[0.6156]]), tensor([[0.5990]]), tensor([[0.5821]]), tensor([[0.5747]]), tensor([[0.5730]]), tensor([[0.5722]])]
+
+['Police bust UP-based gang of robbers', 'Gang of robbers busted', 'Gang of thieves nabbed', 'Caution against robber gang', 'Gang of thieves busted; three arrested', 'Gang of criminal busted', 'Police bust 3 member gang of burglars', 'Rail police bust gang of thieves', 'Stolen vehicles recovered; gang busted', 'Gang involved in chain snatching busted']
+[tensor([[0.8096]]), tensor([[0.7762]]), tensor([[0.6902]]), tensor([[0.6635]]), tensor([[0.6630]]), tensor([[0.6592]]), tensor([[0.6392]]), tensor([[0.6370]]), tensor([[0.6323]]), tensor([[0.6300]])]
+
+['US asks Taliban to halt desecration of statues', "UNESCO to 'engage' Taliban to protect remaining relics", 'USA urged to destroy terrorist strongholds', 'Taliban are down; but not destroyed', 'De-Islamizing Islam: The Taliban Project', 'Taliban appeal to US', 'Trouncing Taliban may be a marathon run', 'US wants to destroy Islamic system in Afghanistan', 'US; Taliban ready to go to war', 'PM: Time to address post-Taliban structure']
+[tensor([[0.8619]]), tensor([[0.6920]]), tensor([[0.5828]]), tensor([[0.5627]]), tensor([[0.5574]]), tensor([[0.5567]]), tensor([[0.5493]]), tensor([[0.5490]]), tensor([[0.5201]]), tensor([[0.5190]])]
+
+['Hotel bill inflated; claim Jharkhand ministers', 'Guest bills: Minister leads by example', 'Heavy demand for hotel room where PM stayed', 'Debate on tax and hotel industry', '5-star hotel staff under scrutiny', "Live-band hotels thrive at govt's cost", 'Minister misled CM on fee hike', 'Minister refutes mismanagement charges', 'Govt collects Rs 1;703 lakh tax from hotels', 'Hotel industry suffers setback']
+[tensor([[0.8571]]), tensor([[0.5895]]), tensor([[0.5882]]), tensor([[0.5763]]), tensor([[0.5584]]), tensor([[0.5386]]), tensor([[0.5328]]), tensor([[0.5300]]), tensor([[0.5252]]), tensor([[0.5232]])]
+
+['Sleazy films storm Bollywood!', 'Bollywood: More trouble!', 'Bollywood fears don who gets everything wrong', 'Hindi films can never be sensible', 'Bollywood lives and dies in hope', 'Rambha ho! Bollywood beckons', 'Films neglecting N Karnataka ethos', "Mira's triumph and the curse of Bollywood", "Oh God; it's Friday: Bollywood on tenterhooks", 'Bollywood going the Hollywood way!']
+[tensor([[0.7641]]), tensor([[0.6468]]), tensor([[0.6287]]), tensor([[0.6153]]), tensor([[0.5901]]), tensor([[0.5859]]), tensor([[0.5808]]), tensor([[0.5662]]), tensor([[0.5640]]), tensor([[0.5622]])]
+
+['Sessions judge to probe lock-up death', 'Phoolan murder case committed for sessions trial', 'Judge exonerates murder accused', 'Retd judge killed in dacoity bid', 'Judge dead', 'Judicial probe ordered into Thumba firing', 'Sessions court to hold trial in Phoolan case', 'Two escape from court lock-up', 'Judicial probe into firing; SI suspended', 'Judge on the chopping block']
+[tensor([[0.9242]]), tensor([[0.5772]]), tensor([[0.5701]]), tensor([[0.5684]]), tensor([[0.5458]]), tensor([[0.5353]]), tensor([[0.5335]]), tensor([[0.5209]]), tensor([[0.4962]]), tensor([[0.4856]])]
+
+['Microsoft launches program for developers', 'Microsoft joins Citrix business alliance programme', 'CM launches MSIT course', 'IT programme inaugurated', 'Sun rises to take on Microsoft in the new environment', "Microsoft India's Q1 business on track", 'Microsoft Versus the rest', 'First software for film industry launched', 'Deutsche Software to go on hiring spree', 'Kannada MS Offce XP launched']
+[tensor([[0.8917]]), tensor([[0.4693]]), tensor([[0.4637]]), tensor([[0.4400]]), tensor([[0.4241]]), tensor([[0.4129]]), tensor([[0.4105]]), tensor([[0.4067]]), tensor([[0.4010]]), tensor([[0.3943]])]
+
+['British forces to begin copter crash investigation', 'Civil aviation team begins probe', 'Team of air safety wing begins probe', 'Central team to probe ordnance factory blast', 'Civil aviation ministry upgrades air crash probe', 'Army orders probe into landmine blast', 'Probe on into Scindia plane crash', 'RAF to dash to aid of accident victims', 'US chopper was on international airspace: Blair', 'British invasion']
+[tensor([[0.7066]]), tensor([[0.5840]]), tensor([[0.5622]]), tensor([[0.5459]]), tensor([[0.5269]]), tensor([[0.5056]]), tensor([[0.4716]]), tensor([[0.4692]]), tensor([[0.4417]]), tensor([[0.4394]])]
+
+['Bomb defused in North Block', '4 held for North Block blasts; remanded', "N Block bomb failed police test: Didn't explode", 'Bomb defused in Srinagar', 'Man held for bomb hoax at South Block', 'N-bomb lying off the east coast of America', 'Bomb blast in school', 'How to handle human bombs', 'Serial bomb blasts near international border', 'Bomb scare stalls work at HC']
+[tensor([[1.0000]]), tensor([[0.6828]]), tensor([[0.6789]]), tensor([[0.6493]]), tensor([[0.6084]]), tensor([[0.5820]]), tensor([[0.5635]]), tensor([[0.5626]]), tensor([[0.5614]]), tensor([[0.5607]])]
+
+['HBO to get into non-movie programmes', "What's common to prime time TV?", 'Drama fest to follow film feast', 'Who wants serials? Viewers hook onto CNN; BBC', 'Film federation ups ante against TV channels', 'Channels ponder future of reality television', 'Nod for old films on local channel', 'TV; Net key drivers of entertainment industry', 'Life without TV: the boredom shows', 'Theatres urge regulation of licences to show films']
+[tensor([[0.8641]]), tensor([[0.4586]]), tensor([[0.4528]]), tensor([[0.4512]]), tensor([[0.4405]]), tensor([[0.4391]]), tensor([[0.4381]]), tensor([[0.4381]]), tensor([[0.4285]]), tensor([[0.4205]])]
+
+['Yoga to the rescue of diabetics', 'To control diabetes; walk; reduce weight', 'Creating awareness about diabetes', 'Eye-care must for diabetics', "Open Letter: There's hope for diabetics", 'Run for diabetes awareness tomorrow', 'GPs can undergo course in diabetes treatment', 'Hope and despair for diabetes patients', 'Diabetes experts now target walkers', 'Chinese diabetics look to Indian drug']
+[tensor([[0.9680]]), tensor([[0.5863]]), tensor([[0.5790]]), tensor([[0.5523]]), tensor([[0.5407]]), tensor([[0.5321]]), tensor([[0.5310]]), tensor([[0.5285]]), tensor([[0.5251]]), tensor([[0.5049]])]
+
+['US slowdown is real and hurting', 'Slowdown stress is hitting their backs', 'Slowdown will be shortlived; feel experts', 'US slowdown takes its toll on Infosys', 'Usha India defaults on slowdown', 'Slowdown in state? Blame it on global recession', 'Fast is damn slow', 'Debate on economic slowdown in US', 'Govt gears up to fight slowdown', 'Slowdown Advantage']
+[tensor([[0.9114]]), tensor([[0.6198]]), tensor([[0.5665]]), tensor([[0.5620]]), tensor([[0.5618]]), tensor([[0.5354]]), tensor([[0.5313]]), tensor([[0.5228]]), tensor([[0.5104]]), tensor([[0.5056]])]
+
+['GSLV launches India into elite space club', 'India gets ready to enter space club', "GSLV engine trouble sours India's space plans", 'India makes it to the elite', 'India unveils space plane', 'India reinforces itself as space power', 'Launch pad for GSLVs this year', 'Indian juniors excel in Hong Kong open golf', 'Nagarjuna joins the ranks at LoC', 'Hard-playing India poised to win at Doha']
+[tensor([[0.9263]]), tensor([[0.7416]]), tensor([[0.6725]]), tensor([[0.5710]]), tensor([[0.5627]]), tensor([[0.5448]]), tensor([[0.5375]]), tensor([[0.5236]]), tensor([[0.5155]]), tensor([[0.4977]])]
+
+['India must tread carefully in brave new biotech world', 'Brave new biotech', "'India's role vital in phase II of genome research'", 'India gearing up to face threat of biological weapons', 'Biotechnology to rule future', 'Boom Time for Biotech', "Bio-tech is 'Bharat tommorow': CM", 'Biotech demystified by Kiran Mazumdar', 'THE INDIAN STORY Brave new world of stem cell research', 'First biotech park in Chennai by next year end']
+[tensor([[0.9701]]), tensor([[0.7137]]), tensor([[0.6775]]), tensor([[0.6681]]), tensor([[0.6473]]), tensor([[0.6366]]), tensor([[0.6359]]), tensor([[0.6239]]), tensor([[0.6165]]), tensor([[0.6014]])]
+
+paraphrase-MiniLM-L6-v2
+['Special buses for air show', 'City buses on all main roads in Belgaum soon', 'RTC to ply more buses to suburbs', 'Night buses in city from December', 'Replacement buses are slow', 'Kochi private buses off roads', 'Exclusive lanes for RTC buses likely', 'Travelling by AMTS buses to be costly', '3;700 buses go off Delhi roads', 'Drive against buses with extra sleepers']
+[tensor([[0.6741]]), tensor([[0.6661]]), tensor([[0.6641]]), tensor([[0.6375]]), tensor([[0.6349]]), tensor([[0.6229]]), tensor([[0.6184]]), tensor([[0.6159]]), tensor([[0.6127]]), tensor([[0.6016]])]
+
+['Computer education in 5;000 schools; 42 colleges', 'Information Technology is a great leveller', 'Tata Infotech Education to enter IT-enabled sector', 'Electronic equipment for AP schools lies in a shambles', 'Infrastructure needed', 'Education system needs changes: CM', 'Computer education: Teach the teachers first', 'Book on changing Times of Technology', 'Project to spread IT education in South Asia', 'Industry-specific training for BE students likely']
+[tensor([[0.5833]]), tensor([[0.5348]]), tensor([[0.5335]]), tensor([[0.5328]]), tensor([[0.5160]]), tensor([[0.5150]]), tensor([[0.5143]]), tensor([[0.5142]]), tensor([[0.4974]]), tensor([[0.4962]])]
+
+['Powerless north India gropes in the dark', 'The ugly Indian', "Instil sense of 'Indianness' in Northeast: Advani", 'Indian Paradoxes', "Blackwill's brief: Transform ties with India", 'Similar problems in India', 'The Great Indian invasion', 'Perspective: From an Indian in America', "India as 'racist' as white western nations: Report", 'Are Indian cities getting hotter?']
+[tensor([[0.8799]]), tensor([[0.5859]]), tensor([[0.5796]]), tensor([[0.5422]]), tensor([[0.5315]]), tensor([[0.5272]]), tensor([[0.5093]]), tensor([[0.5090]]), tensor([[0.5028]]), tensor([[0.4969]])]
+
+['66 cases of cholera detected last week', 'Cholera; gastro cases on rise in city', 'After gastro; cholera rears its head', 'Cholera threat in Jamnagar suburbs', 'Cholera alert sounded in Chandigarh', 'JD(U) flays Cong for outbreak of diseases', 'Viral fever on the rise; infants worst hit', 'A fever that never leaves', "It's viral fever season; but don't worry", 'Malaria on the rise in Malda']
+[tensor([[0.6438]]), tensor([[0.6284]]), tensor([[0.6209]]), tensor([[0.5605]]), tensor([[0.5218]]), tensor([[0.5097]]), tensor([[0.4701]]), tensor([[0.4431]]), tensor([[0.4280]]), tensor([[0.4093]])]
+
+['Man kills mother; injures brother', 'Mother; son murdered', 'Man kills father after quarrel', 'Man held for killing father', 'Man kills parents over marriage', 'Mother; child murdered in Andheri', 'Mother kills self; son', 'Relative kills 9-year-old', 'Mother kills son; commits suicide', 'Indian American couple sentenced for injuries to child']
+[tensor([[0.5349]]), tensor([[0.5340]]), tensor([[0.5113]]), tensor([[0.4958]]), tensor([[0.4953]]), tensor([[0.4914]]), tensor([[0.4893]]), tensor([[0.4836]]), tensor([[0.4817]]), tensor([[0.4762]])]
+
+['Regular cut in rate of bank deposits interest opposed', 'Uco Bank revises interest rates on term-deposits', 'BoI revises interest rate on deposits', 'UCO Bank revises interest rate on term deposits', 'Banks told to charge interest monthly', 'RBI cuts bank rate; CRR', 'PNB revises interest rates on deposits', 'Bank hikes interest on deposits for senior citizens', 'Canara Bank realigns interest rate', 'Banks not to cut interest rate soon: FM']
+[tensor([[0.6116]]), tensor([[0.5707]]), tensor([[0.5642]]), tensor([[0.5602]]), tensor([[0.5598]]), tensor([[0.5335]]), tensor([[0.5271]]), tensor([[0.5123]]), tensor([[0.5021]]), tensor([[0.4958]])]
+
+['India now foodgrain exporter: Shanta', 'Now; imported products need to meet Indian standard', 'Exports of vegetarian foods on the rise', 'Richer by pounds; thanks to Indian cuisine', 'FCI chief says cereal export is the answer', 'Beef eating in ancient India: Debatable say Kashi pundits', 'Irregularities govern Indian rice exports', 'Quintessentially Indian curries', 'Concern over unrestricted flow of Nepalese goods into India', 'Foodgrain; garment exports reap windfalls of war']
+[tensor([[0.6895]]), tensor([[0.6240]]), tensor([[0.5927]]), tensor([[0.5677]]), tensor([[0.5657]]), tensor([[0.5579]]), tensor([[0.5505]]), tensor([[0.5456]]), tensor([[0.5439]]), tensor([[0.5438]])]
+
+['Blood donation no more safe in hospitals', "Workshop on 'Safe Blood Donation'", 'Blood Donation Day', 'NCC cadets donate blood', 'List of blood donors compiled', 'HC open to direct blood donation', 'Voluntary blood donors to participate in cycle rally', 'Blood shortage in Belgaum: Camps planned', "Funeral aid paid to mishap victims' kin", 'Bank staff donate blood on anniversary']
+[tensor([[0.6230]]), tensor([[0.6214]]), tensor([[0.6140]]), tensor([[0.6111]]), tensor([[0.5994]]), tensor([[0.5889]]), tensor([[0.5805]]), tensor([[0.5326]]), tensor([[0.5209]]), tensor([[0.5156]])]
+
+['Choosing a computer', 'I-T department revamped', 'Plans to revamp ailing health dept', 'IRDA to shift HQ to Hyderabad by Feb', 'Arjun Rao to be shifted from health dept', 'Transfer resource generating departments to MC: F&CC', 'Principal secretaries reshuffled', 'Drive to relocate VRS employees', 'Police chief to shift office', 'State will amend disinvestment policy of PSUs']
+[tensor([[0.5295]]), tensor([[0.5139]]), tensor([[0.4727]]), tensor([[0.4713]]), tensor([[0.4678]]), tensor([[0.4674]]), tensor([[0.4511]]), tensor([[0.4467]]), tensor([[0.4420]]), tensor([[0.4414]])]
+
+['Labour of Law', "Other side of 'ideal' labour law", 'Drastic changes proposed in labour laws', 'Rectify archaic labour laws: Fernandes', 'SCOPE lauds labour order', 'SC ruling on contract labour', 'Contract labour not on master-servant relationship: SC', 'Govt trying to expedite labour reforms: Sharad', 'FIEO suggests flexbility in labour laws', 'Trade union against changes to labour laws']
+[tensor([[0.9350]]), tensor([[0.8375]]), tensor([[0.7901]]), tensor([[0.7307]]), tensor([[0.6764]]), tensor([[0.6692]]), tensor([[0.6446]]), tensor([[0.6407]]), tensor([[0.6323]]), tensor([[0.6142]])]
+
+['Ministers under threat', 'Insecurity grips senior ministers in state', 'When ministers shoot their mouths off', 'Ministers follow CM in avoiding office', 'Minister shielding culprits: SP leader', "Ministers ignore chief minister's plea", 'Tough tasks await ministers', 'Ministers accused of ignoring drought', 'Police report implicates 15 UP ministers: Cong', 'Ministers are double-faced; say anti-pipeline activists']
+[tensor([[0.8608]]), tensor([[0.6493]]), tensor([[0.6346]]), tensor([[0.6282]]), tensor([[0.6043]]), tensor([[0.5964]]), tensor([[0.5901]]), tensor([[0.5760]]), tensor([[0.5596]]), tensor([[0.5588]])]
+
+['Illegal arms flood Delhi', 'Terror attacks: How safe is Delhi?', "People's War and terror law", 'Two militants rained bullets: J&K governor', "WHO warns Govts of killer TB's spread", 'Govt for effective policing; not terror law', 'Police clueless about where bullets go', 'Anti-terrorist ordinance soon', 'BJP; Cong train guns at each other', 'Anti-terror laws in the big; bad world']
+[tensor([[0.6732]]), tensor([[0.5611]]), tensor([[0.5229]]), tensor([[0.5150]]), tensor([[0.5135]]), tensor([[0.5093]]), tensor([[0.5080]]), tensor([[0.5018]]), tensor([[0.4973]]), tensor([[0.4968]])]
+
+['PM appeals for help', 'PM assures central assistance to AP', 'PM concerned over meagre utilisation of Central aid', 'An open letter to the PM', 'Naidu to meet PM for liberal central assistance', 'PM urged to empower gram sabhas', 'PM to address the nation tomorrow', 'PM assures Sikkim central help', "PM offered to quit as he was 'hurt': George", 'Naidu writes to the PM for cyclone relief']
+[tensor([[0.7540]]), tensor([[0.7272]]), tensor([[0.6521]]), tensor([[0.6217]]), tensor([[0.5783]]), tensor([[0.5725]]), tensor([[0.5467]]), tensor([[0.5458]]), tensor([[0.5296]]), tensor([[0.5282]])]
+
+['Trekking the learning curve', 'A seat of advanced learning', 'The Lotus of Learning', 'LEARNING CURVEbrVarsity will review internal assessment scheme', 'Lessons in learning; saffron style', 'Valuable Lessons', 'Learning in the new age promises more', 'Learning for fun', "'Score plus' self-learning", 'THE COUNSELLORbrDistance Learning']
+[tensor([[0.7947]]), tensor([[0.6694]]), tensor([[0.6672]]), tensor([[0.6216]]), tensor([[0.5879]]), tensor([[0.5604]]), tensor([[0.5551]]), tensor([[0.5521]]), tensor([[0.5510]]), tensor([[0.5491]])]
+
+['Hospitals are far from equipped', 'Mental hospitals lack facilities', 'No fire-fighting equipment; hospitals woefully short of beds', 'Mental hospital lacks basic amenities', 'Hospital lacked equipment for resuscitation', 'Hospital building lying vacant', 'Lack of hi-tech hospitals ails thriving industrial belt', 'Govt hospitals refuse emergency cases after 8 pm', 'Hospital in need of buildings', 'Hospital staff questioned about defunct elevator']
+[tensor([[0.7207]]), tensor([[0.6743]]), tensor([[0.6521]]), tensor([[0.5720]]), tensor([[0.5499]]), tensor([[0.5305]]), tensor([[0.5285]]), tensor([[0.5236]]), tensor([[0.5230]]), tensor([[0.5117]])]
+
+['Christians protest over inaction', 'Christians allegedly attacked in Dahod', 'Christian gathering disrupted', 'Attacks on Christian priests on the rise', 'Muslims protest against desecration of religious place', 'Religious issues dominate Darulshifa', 'Controversy over conversion to Christianity', 'Secularism covers too many sins', 'Christians decry saffronisation', 'Christians seek political destiny']
+[tensor([[0.8052]]), tensor([[0.5399]]), tensor([[0.5325]]), tensor([[0.5239]]), tensor([[0.5165]]), tensor([[0.5089]]), tensor([[0.5012]]), tensor([[0.5010]]), tensor([[0.4868]]), tensor([[0.4813]])]
+
+['Delhi hosts festival of short films', 'Panorama films to be shown at Kolkata; Mumbai festivals', 'Goa festival in Delhi from Saturday', 'Rare international films in Mumbai fest', 'Malayalam film for Rome festival', 'Sci-fi movies festival in Kolkata from July 20', 'Best of foreign films in Kolkata fest', 'Scenes from the Mumbai Film Festival', 'Delhi turns to greener pastures; will host eco-film fest in Feb.', 'Quality Indian films enter film fest']
+[tensor([[0.9799]]), tensor([[0.6102]]), tensor([[0.6099]]), tensor([[0.6047]]), tensor([[0.5988]]), tensor([[0.5956]]), tensor([[0.5841]]), tensor([[0.5831]]), tensor([[0.5799]]), tensor([[0.5751]])]
+
+['Helmets a must from April', 'Helmets compulsory from Dec. 1', 'Helmets compulsory in city from from March 1; 2003', 'Wearing of helmets made mandatory', 'Helmets made must for cops', 'Helmets compulsory on two-wheelers from Dec 1', 'Shortage of helmets prompts police to soften stand', 'RTO to ensure easy availability of helmets', 'How the helmet rule crumbled', 'PIL on helmets to be heard today']
+[tensor([[0.9428]]), tensor([[0.7945]]), tensor([[0.7893]]), tensor([[0.7400]]), tensor([[0.7310]]), tensor([[0.7308]]), tensor([[0.6502]]), tensor([[0.6137]]), tensor([[0.6136]]), tensor([[0.6003]])]
+
+['The Page Three Politician', 'Wanted: A few leaders for Trinamul', 'Political Fashions', 'Alliterative Politics', 'Three in race for the post of UT mayor', 'LEADER ARTICLEbrHoliday from History', 'Political Manoeuvres', 'Politician among 4 held for dacoity', 'LEADER ARTICLEbrLegacy from the Past', 'LEADER ARTICLEbrCopy the Americans']
+[tensor([[1.0000]]), tensor([[0.5931]]), tensor([[0.5815]]), tensor([[0.5716]]), tensor([[0.5575]]), tensor([[0.5545]]), tensor([[0.5521]]), tensor([[0.5402]]), tensor([[0.5392]]), tensor([[0.5356]])]
+
+['Gender equality still a dream in Asian; Pacific countries', 'Society holds the key to gender equality: SC judge', 'Aim to achieve gender justice', 'Study highlights gender bias', 'What Women Want', 'For women; Northern Alliance no better', "GENDER BENDER: For women the war's just begun", 'Role of Indian women not limited to fringes', 'Globalisation a threat to working women', "Asians' contribution should be recognised"]
+[tensor([[0.9583]]), tensor([[0.6647]]), tensor([[0.5977]]), tensor([[0.5404]]), tensor([[0.5184]]), tensor([[0.4945]]), tensor([[0.4796]]), tensor([[0.4692]]), tensor([[0.4660]]), tensor([[0.4641]])]
+
+["A 'Close-Up' of Hrithik Roshan", 'Hrithik Roshan: Humbling act!', 'Hrithik Roshan speaking', 'Hrithik Roshan: The risk for glory', 'Hrithik Roshan: The winning horse!', 'A rightly predicted Hrithik Roshan', 'Roshan; Roshan; leading light', 'Hrithik Roshan: Sheer electricity', 'Hrithik Roshan playing khalnayak?', 'Hrithik: Doing an Amitabh!']
+[tensor([[0.9119]]), tensor([[0.8544]]), tensor([[0.8169]]), tensor([[0.8025]]), tensor([[0.7313]]), tensor([[0.7078]]), tensor([[0.6934]]), tensor([[0.6862]]), tensor([[0.6758]]), tensor([[0.6605]])]
+
+['Canada to let in 235;000 immigrants in 2002', 'Emigration to Canada may be affected', 'Orissa to deport 4;000 Bangladeshi migrants', 'Reply to Canadian query', 'Statescan: Centre; J&K granted 2 weeks on migrants', 'Canada Calling', 'UK relaxes policy; invites skilled immigrants', "'Think Canada' to boost cultural exchange", 'Migrants facing accommodation problem in Surat', 'Plugging a loophole: IB to take over immigration at city airport']
+[tensor([[0.8321]]), tensor([[0.6592]]), tensor([[0.5598]]), tensor([[0.4884]]), tensor([[0.4851]]), tensor([[0.4812]]), tensor([[0.4607]]), tensor([[0.4568]]), tensor([[0.4524]]), tensor([[0.4503]])]
+
+['Mother Teresa monument near Seattle', "Guru's statues going; portraits may follow", 'A memorial that was not there', 'Monument as a milestone', 'Statue on Red Road beheaded', 'Zadafia deplores statue desecration at Jetpur', 'Not a museum: This is sculpture land', 'The Shehtoot Tree', 'Unique museum on the banks of Dal Lake soon', "Mother's Land"]
+[tensor([[0.9355]]), tensor([[0.4882]]), tensor([[0.4775]]), tensor([[0.4762]]), tensor([[0.4566]]), tensor([[0.4559]]), tensor([[0.4481]]), tensor([[0.4456]]), tensor([[0.4382]]), tensor([[0.4330]])]
+
+['Cellphone market abuzz with rising subscriber base', 'A huge growth opportunity for mobile telephony', 'Cellphone firms go all out to woo customers', 'China to have largest mobile phone market soon', 'Cellphone firms aim at the gaming market', 'Telephones on demand at last', 'Increase in telephone traffic during day time', 'People make beeline at phone booths', 'Phone users continue to be a harried lot', 'Mobile phone outlet inaugurated']
+[tensor([[0.8966]]), tensor([[0.6781]]), tensor([[0.6752]]), tensor([[0.6443]]), tensor([[0.6217]]), tensor([[0.6159]]), tensor([[0.6117]]), tensor([[0.6105]]), tensor([[0.6101]]), tensor([[0.5844]])]
+
+['Their bamboo music is hard to beat', 'Lord of the bamboo reed', "Flutes are this forest guard's passion", 'Kannada music to your doorstep', "Mumbai's Gujarati plays strike a chord with Barodians", 'He brings Indian rhythms to western drums', 'A musical duo from Assam', 'Dhwani: The sound of music', 'Gamang does his bit for tribal music', 'Why should Vishnu sport a Tamil moustache?']
+[tensor([[1.]]), tensor([[0.5332]]), tensor([[0.5046]]), tensor([[0.4972]]), tensor([[0.4930]]), tensor([[0.4562]]), tensor([[0.4510]]), tensor([[0.4508]]), tensor([[0.4490]]), tensor([[0.4469]])]
+
+['Six policemen killed in ambush', '6 policemen sacked', '5 policemen injured in poll violence', 'Militants kill 7 policemen in J&K', 'Six policemen injured in brickbatting', '5 policemen killed in Andhra blast', '7 policemen killed in car-rail engine collision', 'Arrest of six policemen ordered in Bihar', '7 policemen booked for custody death', 'Militants kill 7 policemen in Jammu']
+[tensor([[0.9708]]), tensor([[0.7546]]), tensor([[0.7096]]), tensor([[0.7014]]), tensor([[0.6920]]), tensor([[0.6860]]), tensor([[0.6755]]), tensor([[0.6640]]), tensor([[0.6610]]), tensor([[0.6553]])]
+
+['Gang of robbers busted', 'Police bust UP-based gang of robbers', "Road robbers' gang busted; 3 bodies recovered", 'Gang of thieves busted; three arrested', 'Gang of criminal busted', 'Gang busted', 'Gang involved in chain snatching busted', 'Two gangs who robbed passengers busted', 'Gang involved in bank fraud busted; six arrested', 'Gang of thieves nabbed']
+[tensor([[0.7550]]), tensor([[0.7537]]), tensor([[0.6799]]), tensor([[0.6761]]), tensor([[0.6699]]), tensor([[0.6529]]), tensor([[0.6346]]), tensor([[0.6286]]), tensor([[0.6214]]), tensor([[0.6201]])]
+
+['US asks Taliban to halt desecration of statues', "UNESCO to 'engage' Taliban to protect remaining relics", 'No long-term impact of US-Taliban face off', 'UN to monitor sanctions against Taliban', 'US; Taliban ready to go to war', 'US says Taliban non-indigenous to Afghanistan', "Rights watchdog asks UN to probe Taliban 'massacre'", 'Will Taliban exit restore human rights to Afghans?', 'Taliban has legitimised state terrorism: Jaswant', "BJP to counter 'Talibanisation' charge"]
+[tensor([[0.8600]]), tensor([[0.6152]]), tensor([[0.5656]]), tensor([[0.5582]]), tensor([[0.5447]]), tensor([[0.5432]]), tensor([[0.5412]]), tensor([[0.5384]]), tensor([[0.5281]]), tensor([[0.5255]])]
+
+['Hotel bill inflated; claim Jharkhand ministers', 'Guest bills: Minister leads by example', 'Debate on tax and hotel industry', 'Allegations against power minister', 'Minister misled CM on fee hike', 'Minister charged with bias in funds allocation', 'Minister refutes mismanagement charges', 'Hoteliers decry ban on US; British products', 'Minister denies leak of funds', "Clinton's Big Bill"]
+[tensor([[0.8397]]), tensor([[0.5524]]), tensor([[0.5269]]), tensor([[0.4839]]), tensor([[0.4767]]), tensor([[0.4767]]), tensor([[0.4664]]), tensor([[0.4538]]), tensor([[0.4523]]), tensor([[0.4372]])]
+
+['Sleazy films storm Bollywood!', 'Bollywood: More trouble!', 'Bollywood fears don who gets everything wrong', 'Hindi filmdom offers movie-buffs the stars', 'Bollywood inspired by Hollywood', 'Bollywood going the Hollywood way!', 'Bollywood: Book Mania!', "Oh God; it's Friday: Bollywood on tenterhooks", 'Hindi films can never be sensible', "'What's wrong with a typical Govinda film?'"]
+[tensor([[0.8124]]), tensor([[0.7163]]), tensor([[0.6355]]), tensor([[0.6337]]), tensor([[0.6332]]), tensor([[0.6296]]), tensor([[0.6251]]), tensor([[0.6123]]), tensor([[0.6113]]), tensor([[0.6078]])]
+
+['Sessions judge to probe lock-up death', 'Phoolan murder case committed for sessions trial', 'Sessions court to hold trial in Phoolan case', "Magistrate to probe woman's suicide", 'Five-judge HC bench to hear handcuffing case', "Judge inspects scene of Gulshan Kumar's murder", 'Judge dead', 'Dismissed judge to face trial tomorrow', 'CM orders probe into firing death', 'Judicial probe ordered into Thumba firing']
+[tensor([[0.9181]]), tensor([[0.5074]]), tensor([[0.4837]]), tensor([[0.4795]]), tensor([[0.4685]]), tensor([[0.4541]]), tensor([[0.4517]]), tensor([[0.4423]]), tensor([[0.4415]]), tensor([[0.4378]])]
+
+['Microsoft launches program for developers', 'Microsoft launches MSN Explorer in India', 'First software for film industry launched', 'Schools Online programme facing starting problems', 'Major computer project for school students launched', 'Office XP with Indian language support launched', 'Software industry-institute interface initiated', 'ITA to launch export promotion drive', 'Minister launches tree planting programme', 'This is the home the software pros built']
+[tensor([[0.9299]]), tensor([[0.5941]]), tensor([[0.5711]]), tensor([[0.4753]]), tensor([[0.4642]]), tensor([[0.4571]]), tensor([[0.4456]]), tensor([[0.4375]]), tensor([[0.4374]]), tensor([[0.4368]])]
+
+['Team of air safety wing begins probe', 'British forces to begin copter crash investigation', 'Civil aviation team begins probe', 'Advanced Light Helicopter to fly next year', 'Army orders probe into landmine blast', 'Probe on into Scindia plane crash', 'Central team to probe ordnance factory blast', "Probe into police 'atrocities' begins", 'Civil aviation ministry upgrades air crash probe', 'US chopper was on international airspace: Blair']
+[tensor([[0.6580]]), tensor([[0.6194]]), tensor([[0.6120]]), tensor([[0.5146]]), tensor([[0.4930]]), tensor([[0.4816]]), tensor([[0.4629]]), tensor([[0.4583]]), tensor([[0.4533]]), tensor([[0.4450]])]
+
+['Bomb defused in North Block', 'Bomb defused in Srinagar', 'Serial bomb blasts near international border', 'Bomb scare stalls work at HC', 'Bomb blast in school', 'Grenades at CRPF camp blasted', 'N-bomb lying off the east coast of America', '4 held for North Block blasts; remanded', "N Block bomb failed police test: Didn't explode", 'Bomb scare in Delhi High Court']
+[tensor([[1.0000]]), tensor([[0.7069]]), tensor([[0.5823]]), tensor([[0.5695]]), tensor([[0.5673]]), tensor([[0.5612]]), tensor([[0.5597]]), tensor([[0.5445]]), tensor([[0.5356]]), tensor([[0.5344]])]
+
+['HBO to get into non-movie programmes', 'Interactive TV will be a reality this year', 'Film federation ups ante against TV channels', "Where the 'show' must go on", 'Channels ponder future of reality television', 'Discovery all set to launch new channel', 'Be in tune with CBSE or get the boot', 'Film festival to kick off from Nov 10', 'Discovery all set to launch a new channel', 'Who wants serials? Viewers hook onto CNN; BBC']
+[tensor([[0.8291]]), tensor([[0.4766]]), tensor([[0.4478]]), tensor([[0.4453]]), tensor([[0.4449]]), tensor([[0.4377]]), tensor([[0.4375]]), tensor([[0.4345]]), tensor([[0.4329]]), tensor([[0.4307]])]
+
+['Yoga to the rescue of diabetics', 'Of yoga & an official exercise in utility', 'Yoga at Navodaya Vidyalayas soon: Joshi', 'Ayurveda; yoga can heal tourism industry', 'SACRED SPACEbrPower of Yoga', 'To control diabetes; walk; reduce weight', 'City Briefs: Yoga workshop', 'THE SPEAKING TREEbrRaja Yoga Revives Spiritual Links', 'IMA to organise camp for diabetic patients', 'Yoga returns as US fad in third wave']
+[tensor([[0.9332]]), tensor([[0.5926]]), tensor([[0.5789]]), tensor([[0.5748]]), tensor([[0.5512]]), tensor([[0.5454]]), tensor([[0.5321]]), tensor([[0.5013]]), tensor([[0.5004]]), tensor([[0.4912]])]
+
+['US slowdown is real and hurting', 'Slowdown will be shortlived; feel experts', 'Debate on economic slowdown in US', 'Slowdown stress is hitting their backs', 'US slowdown takes its toll on Infosys', 'Steps to tackle slowdown being taken:FM', 'Slowdown in state? Blame it on global recession', 'TODAYS EDITORIALSbrSynchronised Slowdown', 'Slowdown Advantage', 'Communication in an economic slowdown']
+[tensor([[0.8824]]), tensor([[0.6999]]), tensor([[0.6692]]), tensor([[0.6138]]), tensor([[0.6087]]), tensor([[0.6001]]), tensor([[0.5723]]), tensor([[0.5448]]), tensor([[0.5367]]), tensor([[0.5289]])]
+
+['GSLV launches India into elite space club', "GSLV engine trouble sours India's space plans", 'Launch pad for GSLVs this year', 'India gets ready to enter space club', 'GSVM College stir enters ninth day', 'India invites Brazil for JVs in telecom; IT', 'GSRTC depot: A bad place for a send-off', 'GSEB resolves to improve standard of education', 'HZL acquires 6% stake in APGPCL', 'Modi to dedicate 156 MW GSEG plant to Gujarat']
+[tensor([[0.9102]]), tensor([[0.6506]]), tensor([[0.5371]]), tensor([[0.5101]]), tensor([[0.4927]]), tensor([[0.4631]]), tensor([[0.4525]]), tensor([[0.4164]]), tensor([[0.4132]]), tensor([[0.4086]])]
+
+['India must tread carefully in brave new biotech world', 'Maharashtra should tread cautiously on Bt cotton', 'Maharashtra should tread cautiously on Bt cotton: Environmentalist', 'Unlike Japan; India tries new way to fight slowdown', 'India may get a foothold', 'India inadequately prepared for the WTO regime', 'India gearing up to face threat of biological weapons', 'Industry responds cautiously to SC decision', 'India need to rely on itself on J&K: Krishnamurthy', 'Jayalalithaa to tread a cautious path']
+[tensor([[0.8988]]), tensor([[0.6348]]), tensor([[0.6328]]), tensor([[0.5194]]), tensor([[0.5025]]), tensor([[0.4986]]), tensor([[0.4808]]), tensor([[0.4796]]), tensor([[0.4783]]), tensor([[0.4765]])]
+

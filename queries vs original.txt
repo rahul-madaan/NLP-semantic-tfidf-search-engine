@@ -1,0 +1,86 @@
+fully changes with synonyms
+
+queries = ['additional buses to lighten tourist traffic',
+           'information technology to become required in school',
+           'weak north country gropes in less light',
+           'Cholera pandemic starting found',
+           'Indian American boy admits to mother father killing',
+           'bank incresases rates',
+           'bank increases rates',
+           'country cagey for imported food',
+           'Blood plasma donating camp executed',
+           'department to be moved digital in year',
+           'Laws of Labours',
+           'Fearing ministers',
+           'non allowed guns and ammunation spread over in state',
+           'Prime minister asks assistance',
+           'The Learning Curve',
+           'Hospital do not have required equipments',
+           'Christian revoting about the inaction of government',
+           'State organizes special days of small movie clips',
+           'Helmets made compulsory from next month',
+           'The third sheet of Politician',
+           'still a dream of Gender equality in Asia and Pacific',
+           'Hrithik Roshan: Close-up and personal!',
+           'western country to let in migrants in 2002',
+           'Mother Teresa statue near a state in the united state',
+           'market of mobile phone abuzz with increasing users',
+           'Bamboo music is tough to defeat in game',
+           'Six country protectors murdered in ambush',
+           'Police fail to catch gang of robbers',
+           'United states requests Taliban group to pause desecrating monuments',
+           'bill inflated of tourism stay; claimed by ministers',
+           'unpleasant movies flooding Bollywood',
+           'judge of sessions to investigate lock kill',
+           'organizing of Microsoft program for programmers',
+           'army of Britian to start helicopter crash probe',
+           'defusing the bomb in North section',
+           'HBO starting to start non-movie shows',
+           'diabetic patients will be rescued by yoga',
+           'slowdown of the united states is actual and painful',
+           'India enters elite space club because of GSLV',
+           'brave new biotech universe must be treaded by country carefully']
+
+
+
+Original:
+
+queries = ['Extra buses to clear tourist traffic', #0
+           'IT will become compulsory in schools',#0
+           'Powerless north India gropes in the dark',
+           'Cholera outbreak source traced',#0
+           'Indian American boy confesses to parents murder',#0
+           'PNB raises rates',
+           'India cagey about food imports',#0
+           'Blood donation camp organised',#0
+           'Treasury dept to be computerised in year',#0
+           'Labour of Law',
+           'Ministers under threat',
+           'Illegal arms flood Delhi',
+           'PM appeals for help',
+           'The Learning Curve',#0
+           'Hospitals are far from equipped',
+           'Christians protest over inaction',
+           'Delhi hosts festival of short films',
+           'Helmets a must from April',
+           'The Page Three Politician',
+           'Gender equality still a dream in Asian; Pacific countries',
+           'Hrithik Roshan: Close-up and personal!',#0
+           'Canada to let in 235;000 immigrants in 2002',
+           'Mother Teresa monument near Seattle',
+           'Cellphone market abuzz with rising subscriber base',
+           'Their bamboo music is hard to beat',
+           'Six policemen killed in ambush',
+           'Police fail to nab gang of thieves',#0
+           'US asks Taliban to halt desecration of statues',
+           'Hotel bill inflated; claim Jharkhand ministers',
+           'Sleazy films storm Bollywood!',
+           'Sessions judge to probe lock-up death',
+           'Microsoft launches program for developers',
+           'British forces to begin copter crash investigation',
+           'Bomb defused in North Block',
+           'HBO to get into non-movie programmes',
+           'Yoga to the rescue of diabetics',
+           'US slowdown is real and hurting',
+           'GSLV launches India into elite space club',
+           'India must tread carefully in brave new biotech world']
